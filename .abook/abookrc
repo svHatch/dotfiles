@@ -1,0 +1,23 @@
+# abook configuration file
+#
+
+# Automatically save database on exit
+set autosave=true
+
+# Show all email addresses in list
+set show_all_emails=true
+
+# Return all email addresses to a mutt query
+set mutt_return_all_emails=true
+
+# Command used to start the web browser
+set www_command=firefox
+
+# Address style [eu|us|uk]
+set address_style=uk
+
+# Field to be used with "sort by field" command
+set sort_field=name
+
+# Show cursor in main display
+set show_cursor=false

@@ -1,0 +1,4 @@
+{date} {cleared_character} {payee}
+    ; details: {addon_details}
+    {debit_account:<60}    {debit} {debit_currency}
+    {credit_account:<60}    {credit} {credit_currency}

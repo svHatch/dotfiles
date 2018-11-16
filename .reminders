@@ -1,0 +1,10 @@
+INCLUDE /home/scott/.remind/func.rem
+INCLUDE /home/scott/.remind/birthdays.rem
+INCLUDE /home/scott/.remind/appts.rem
+INCLUDE /home/scott/.remind/schedule.rem
+INCLUDE /home/scott/.remind/maintenance.rem
+INCLUDE /home/scott/.remind/review.rem
+INCLUDE /home/scott/.remind/wishlist.rem
+INCLUDE /home/scott/.remind/events.rem
+INCLUDE /home/scott/.remind/holidays.rem
+INCLUDE /home/scott/.remind/delayed_todo.rem

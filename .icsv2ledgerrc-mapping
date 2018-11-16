@@ -1,0 +1,1736 @@
+/MOVIE.*/,Movie,Theatre,Expenses:Entertainment
+Transfer,Transfer,Expenses:Unknown
+NEEDS #4453,NEEDS #4453,Expenses:Groceries
+NSLC #2195,NSLC #2195,Expenses:Alcohol
+MONTHLY FEE,MONTHLY FEE,Expenses:Bank-Fees
+SERVICE FEE,SERVICE FEE,Expenses:Bank-Fees
+MULTIPRODUCT REBATE,MULTIPRODUCT REBATE,Expenses:Bank-Fees
+Transfer,Transfer,Assets:RBC:eSavings
+Transfer,Transfer,Liabilities:RBC:Visa
+Transfer,Transfer,Assets:RBC:eSavings
+Transfer,Transfer,Liabilities:RBC:Visa
+MISC PAYMENT,MISC PAYMENT,Expenses:Unknown
+WWW3RD PTY DEP-0989,WWW3RD PTY DEP-0989,Expenses:Reimbursable
+Transfer,Transfer,Assets:RBC:eSavings
+Transfer,Transfer,Liabilities:RBC:Visa
+FUNDS TRANSFER,FUNDS TRANSFER,Expenses:Travel
+WWW3RD PTY DEP-1917,WWW3RD PTY DEP-1917,Income:Other-Income
+WWW3RD PTY DEP-3842,Hilary Hatcher,Expenses:Reimbursable
+GST,Nova Scotia Government,Expenses:Reimbursable
+Email Trfs,EON Wind Energy Ltd.,Income:Other-Income
+MISC PAYMENT,Humble Bundle books,Expenses:Media
+WWW3RD PTY DEP-0020,Bruce Hatcher,Expenses:Reimbursable
+Withdrawal,ATM Withdrawal,Assets:Cash
+PLUS - SC -8974,PLUS - SC -8974,Expenses:Unknown
+WWW3RD PTY DEP-5200,Hilary Hatcher,Expenses:Reimbursable
+Transfer,VISA bill,Liabilities:RBC:Visa
+Transfer,Transfer,Assets:RBC:eSavings
+Transfer,VISA bill,Liabilities:RBC:Visa
+Transfer,Transfer,Assets:RBC:eSavings
+Transfer,Transfer,Liabilities:RBC:Visa
+MISC PAYMENT,Transfer,Liabilities:Paypal
+Transfer,Transfer,Expenses:Unknown
+WWW3RD PTY DEP-0989,Hilary Hatcher,Expenses:Reimbursable
+Transfer,Transfer,Assets:RBC:eSavings
+Transfer,Transfer,Liabilities:RBC:Visa
+FUNDS TRANSFER,Thomas de Schutter (payment for 1994 Ford Econovan campervan in NZ),Expenses:Travel
+WWW3RD PTY DEP-1917,Bruce Hatcher HRAC,Income:Other-Income
+GST,Nova Scotia Government,Expenses:Taxes:Provincial
+PLUS - SC -8974,ATM withdrawal fee,Expenses:Bank-Fees
+DEPOSIT INTEREST,DEPOSIT INTEREST,Income:Interest-Savings
+INTA LIQUOR AUCKLAND,INTA LIQUOR AUCKLAND,Expenses:Alcohol
+OCCIDENTAL BELGIAN BEER AUCKLAND,OCCIDENTAL BELGIAN BEER AUCKLAND,Expenses:Alcohol
+2DEGREES MOBILE AUCKLAND,2DEGREES MOBILE AUCKLAND,Expenses:Cellphone
+NZAA ONLINE MEMBERSHIP AUCKLAND,NZAA ONLINE MEMBERSHIP AUCKLAND,Expenses:Travel
+VODAFONE PREPAY VISA MC AUCKLAND,VODAFONE PREPAY VISA MC AUCKLAND,Expenses:Cellphone
+NOEL RADD MOTORS MAUNGATUROTO,NOEL RADD MOTORS MAUNGATUROTO,Expenses:Auto:Petrol
+THE SURF EMPORIUM LTD WHANGAREI,THE SURF EMPORIUM LTD WHANGAREI,Expenses:Recreation
+RAWENE SERVICE STATION RAWENE KA,RAWENE SERVICE STATION RAWENE KA,Expenses:Auto:Petrol
+AHIPARA SUPERETTE AHIPARA,AHIPARA SUPERETTE AHIPARA,Expenses:Auto:Petrol
+TE KAO LOCAL STORE KAITAIA,TE KAO LOCAL STORE KAITAIA,Expenses:Travel
+TOP 10 HOLIDAY PARK RUSSELL,TOP 10 HOLIDAY PARK RUSSELL,Expenses:Travel
+RAGLAN BAKERY &amp; CAFE RAGLAN,RAGLAN BAKERY &amp; CAFE RAGLAN,Expenses:Travel
+KOPUA CAMPING GROUND RAGLAN,KOPUA CAMPING GROUND RAGLAN,Expenses:Travel
+APPCO HAMILTON 53 HAMILTON,APPCO HAMILTON 53 HAMILTON,Expenses:Travel
+Z STADIUM HAMILTON,Z STADIUM HAMILTON,Expenses:Travel
+PICKERILL AUTO ELECT HAMILTON,PICKERILL AUTO ELECT HAMILTON,Expenses:Unknown
+SUPER CHEAP AUTO ROTORUA,SUPER CHEAP AUTO ROTORUA,Expenses:Unknown
+TORPEDO 7 TAUPO,TORPEDO 7 TAUPO,Expenses:Unknown
+DISCOVERY LODGE MOTEL NATIONAL P,DISCOVERY LODGE MOTEL NATIONAL P,Expenses:Unknown
+PAYMENT - THANK YOU / PAIEMENT - MERCI,PAYMENT - THANK YOU / PAIEMENT - MERCI,Expenses:Unknown
+Z DUBLIN ST WANGANUI,Z DUBLIN ST WANGANUI,Expenses:Unknown
+KOODO AIRTIME SCARBOROUGH ON,KOODO AIRTIME SCARBOROUGH ON,Expenses:Unknown
+INTERISLANDER WEB PR WELLINGTON,INTERISLANDER WEB PR WELLINGTON,Expenses:Unknown
+HUTT PARK HOLIDAY PARK LOWER HUT,HUTT PARK HOLIDAY PARK LOWER HUT,Expenses:Unknown
+Z HARBOUR CITY WELLINGTON,Z HARBOUR CITY WELLINGTON,Expenses:Unknown
+DOC MOMORANGI BAY CAMP PICTON,DOC MOMORANGI BAY CAMP PICTON,Expenses:Unknown
+COLLINGWOOD BRIDGE LTD WESTPORT,COLLINGWOOD BRIDGE LTD WESTPORT,Expenses:Unknown
+NEUDORF VINEYARDS UPPER MOUTERE,NEUDORF VINEYARDS UPPER MOUTERE,Expenses:Unknown
+BP2GO WESTPORT WESTPORT,BP2GO WESTPORT WESTPORT,Expenses:Unknown
+GREYMOUTH KIWI HOLIDAY PAGREYMOU,GREYMOUTH KIWI HOLIDAY PAGREYMOU,Expenses:Unknown
+MONTEITHS BREWERY STS GREYMOUTH,MONTEITHS BREWERY STS GREYMOUTH,Expenses:Unknown
+JJ AUTOMOTIVE LTD BLAKETOWN,JJ AUTOMOTIVE LTD BLAKETOWN,Expenses:Unknown
+MCLAREN TRANSPORT LTD RANFURLY,MCLAREN TRANSPORT LTD RANFURLY,Expenses:Unknown
+BP 2GO ALCO MOTORS MOSGIEL,BP 2GO ALCO MOTORS MOSGIEL,Expenses:Unknown
+DUNEDIN HOLIDAY PARK DUNEDIN,DUNEDIN HOLIDAY PARK DUNEDIN,Expenses:Unknown
+THE KENSINGTON TUI CLUBRODUNEDIN,THE KENSINGTON TUI CLUBRODUNEDIN,Expenses:Unknown
+THE HOSPICE SHOP BOND ST DUNEDIN,THE HOSPICE SHOP BOND ST DUNEDIN,Expenses:Unknown
+SALVATION ARMY FAMIL DUNEDIN,SALVATION ARMY FAMIL DUNEDIN,Expenses:Unknown
+BRIGHTON CARAVAN PARK DUNEDIN,BRIGHTON CARAVAN PARK DUNEDIN,Expenses:Unknown
+BOTTLE-O-PRINCESS ST DUNEDIN,BOTTLE-O-PRINCESS ST DUNEDIN,Expenses:Unknown
+WAREHOUSE DUNEDIN 129 DUNEDIN,WAREHOUSE DUNEDIN 129 DUNEDIN,Expenses:Unknown
+BALANCEPROTECTOR PREMIUM,BALANCEPROTECTOR PREMIUM,Expenses:Unknown
+SUITS ON WALL STREET DUNEDIN,SUITS ON WALL STREET DUNEDIN,Expenses:Unknown
+GRABONE PARNELL,GRABONE PARNELL,Expenses:Unknown
+PORTOBELLO VILLAGE DUNEDIN,PORTOBELLO VILLAGE DUNEDIN,Expenses:Unknown
+LEITH VALLEY PARK DUNEDIN,LEITH VALLEY PARK DUNEDIN,Expenses:Unknown
+Transfer,RBC Visa,Liabilities:RBC:Visa
+Transfer,Transfer,Assets:RBC:eSavings
+MISC PAYMENT,Tr,Assets:RBC:TFSA-Savings
+INTERNATIONAL REMIT,Transfer,Assets:WP:Cheque
+INT'L REMIT FEE,INT'L REMIT FEE,Expenses:Bank-Fees
+Transfer,Transfer,Liabilities:RBC:Visa
+MISC PAYMENT,Transfer,Assets:Investments:TFSA
+MISC PAYMENT,Transfer,Liabilities:PayPal
+Transfer,Transfer,Assets:RBC:eSavings
+MISC PAYMENT,Transfer,Assets:RBC:TFSA-Savings
+Transfer,Transfer,Liabilities:RBC:Visa
+MISC PAYMENT,Transfer,Assets:Investments:TFSA
+MISC PAYMENT,Transfer,Liabilities:PayPal
+BOTTLE-O-PRINCESS ST DUNEDIN,BOTTLE-O-PRINCESS ST DUNEDIN,Expenses:Alcohol
+WAREHOUSE DUNEDIN 129 DUNEDIN,WAREHOUSE DUNEDIN 129 DUNEDIN,Expenses:Equipment
+BALANCEPROTECTOR PREMIUM,BALANCEPROTECTOR PREMIUM,Expenses:Insurance
+SUITS ON WALL STREET DUNEDIN,SUITS ON WALL STREET DUNEDIN,Expenses:Clothes
+GRABONE PARNELL,GRABONE PARNELL,Expenses:Reimbursable
+DUNEDIN HOLIDAY PARK DUNEDIN,DUNEDIN HOLIDAY PARK DUNEDIN,Expenses:Travel
+PORTOBELLO VILLAGE DUNEDIN,PORTOBELLO VILLAGE DUNEDIN,Expenses:Travel
+LEITH VALLEY PARK DUNEDIN,LEITH VALLEY PARK DUNEDIN,Expenses:Travel
+PAYMENT - THANK YOU / PAIEMENT - MERCI,PAYMENT - THANK YOU / PAIEMENT - MERCI,Assets:RBC:Cheque
+GRABONE PARNELL,GRABONE PARNELL,Expenses:Gifts
+NZ CUSTOMS DUNEDIN DUNEDIN,NZ CUSTOMS DUNEDIN DUNEDIN,Expenses:Misc
+WAREHOUSE STH DUN 183 SOUTH DUNE,WAREHOUSE STH DUN 183 SOUTH DUNE,Expenses:Equipment
+VTNZ DUNEDIN CENTRAL DUNEDIN,VTNZ DUNEDIN CENTRAL DUNEDIN,Expenses:Auto:Maintenance
+MORAY PLACE POST SHO DUNEDIN,MORAY PLACE POST SHO DUNEDIN,Expenses:Misc
+NOM NOM EATERY DUNEDIN,NOM NOM EATERY DUNEDIN,Expenses:Dining-Out
+AA INSURANCE AKL,AA INSURANCE AKL,Expenses:Insurance
+ALBAR DUNEDIN,ALBAR DUNEDIN,Expenses:Alcohol
+CREDIT,Hilary's transfer,Income:Hilary
+Scott Vincent Hatche,Scott Vincent Hatche,Assets:RBC:Cheque
+Dunedin Public Libra,Dunedin Public Libra,Expenses:Media
+Twl 129 Dunedin,Twl 129 Dunedin,Expenses:Misc
+Ombrellos,Ombrellos,Expenses:Alcohol
+To 0905-0152842-00,To 0905-0152842-00,Assets:WP:Joint
+From 0905-0152842-00,From 0905-0152842-00,Assets:WP:Joint
+Mojo South,Mojo South,Expenses:Dining-Out
+Hilary Hatcher,Hilary Hatcher,Income:Hilary
+From 0905-0151954-00,From 0905-0151954-00,Assets:WP:Cheque
+Carotrans Oceania Li,Carotrans Oceania Li,Expenses:Misc
+Moray Place Post Sho,Moray Place Post Sho,Expenses:Misc
+The Salvation Army F,The Salvation Army F,Expenses:Clothes
+BP 2Go Everedi,BP 2Go Everedi,Expenses:Auto:Petrol
+Pak N Save Dunedin,Pak N Save Dunedin,Expenses:Groceries
+University Bookshop,University Bookshop,Expenses:Media
+Fat Cat Coffee,Fat Cat Coffee,Expenses:Dining-Out
+Countdown Dunedin Ce,Countdown Dunedin Ce,Expenses:Groceries
+To 0905-0152017-00,To 0905-0152017-00,Assets:WP:Cheque
+Wayne Graham Realty,Wayne Graham Realty,Expenses:Rent
+To 0905-0151954-00,To 0905-0151954-00,Assets:WP:Cheque
+9010Energy Online Li,9010Energy Online Li,Expenses:Utilities:Electricity
+PAK N SAVE DUNEDIN,PAK N SAVE DUNEDIN,Expenses:Groceries
+PAK N SAVE FUEL DUNE,PAK N SAVE FUEL DUNE,Expenses:Auto:Petrol
+Scott Vincent Hatche,Scott Vincent Hatche,X
+Bank Account,Bank Account,Assets:RBC:Cheque
+Rialto Cinemas JV,Rialto Cinemas JV,Expenses:Gifts
+From Canadian Dollar,From Canadian Dollar,Expenses:Exchange-rates
+To New Zealand Dollar,To New Zealand Dollar,Expenses:Exchange-rates
+"Humble Bundle, Inc.","Humble Bundle, Inc.",Expenses:Media
+To U.S. Dollar,To U.S. Dollar,Expenses:Unknown
+eBay International AG,eBay International AG,Expenses:Misc
+From U.S. Dollar,From U.S. Dollar,Expenses:Unknown
+To Canadian Dollar,To Canadian Dollar,Expenses:Exchange-rates
+Leanpub,Leanpub,Expenses:Media
+To U.S. Dollar,To U.S. Dollar,Expenses:Exchange-rates
+Wilbur Dymond,Wilbur Dymond,Income:Selling-stuff
+Canada Post,Canada Post,Expenses:Misc
+"J.Crew Group, Inc.","J.Crew Group, Inc.",Expenses:Clothes
+PayPal,PayPal,Expenses:Misc
+Fabio Del Toro,Fabio Del Toro,Expenses:Charity
+OD HANDLING FEE,OD HANDLING FEE,Expenses:Bank-Fees
+MISC PAYMENT,Transfer,Assets:Investments:TFSA
+OD INTEREST,OD INTEREST,Expenses:Bank-Fees
+Otago Univer ANZ ATM,Otago Univer ANZ ATM,Assets:Cash
+Wsl Dunedin,Warehouse Stationery Dunedin,Expenses:Supplies
+,EZFlix.tv,Expenses:Media
+New World Centre Cit,New World Centre Cit,Expenses:Groceries
+Moray Place Post Sho,Moray Place Post Sho,Expenses:Supplies
+Octagon Night'n Day,Octagon Night'n Day,Expenses:Groceries
+Penelope Underwood,Penelope Underwood,Expenses:Equipment
+Pak N Save Fuel Dune,Pak N Save Fuel Dune,Expenses:Misc
+Non WBC ATM Charge,Non WBC ATM Charge,Expenses:Bank-Fees
+University Otago,University Otago,Income:Salary
+TO 0905-0152842-00,Transfer WP Joint,Assets:WP:Joint
+8020Hilary,8020Hilary,Assets:Hilary
+Ezyflix Tv        30,Ezyflix Tv        30,Expenses:Medi
+Ezyflix Tv        30,Ezyflix Tv        30,Expenses:Media
+Www.Indiereign.Co 28,Www.Indiereign.Co 28,Expenses:Media
+Spark Convenience 04,Spark Convenience 04,Expenses:Misc
+Pay Spark NZ Ltd  04,Pay Spark NZ Ltd  04,Expenses:Utilities:Internet
+Dunedin Nort WBC ATM,Dunedin Nort WBC ATM,Assets:Cash
+Bottle-O Princess St,Bottle-O Princess St,Expenses:Alcohol
+Dunedin      WBC ATM,Dunedin      WBC ATM,Assets:Cash
+FRM 0905-0151954-00,FRM 0905-0151954-00,Assets:WP:Cheque
+Scott Hatcher,Scott Hatcher,Assets:WP:Cheque
+Pp*6292Code       27,Pp*6292Code       27,Expenses:Misc
+Veggie Boys,Veggie Boys,Expenses:Groceries
+TAX REFUND,TAX REFUND,Expenses:Taxes:Federal
+MISC PAYMENT,Transfer,Liabilities:PayPal
+MISC PAYMENT,Transfer,Assets:WP:Cheque
+PayPal,PayPal,Expenses:Medi
+From U.S. Dollar,From U.S. Dollar,Expenses:Misc
+"VUDU, Inc.","VUDU, Inc.",Expenses:Media
+Google,Google,Expenses:Media
+"Paypal, Inc","Paypal, Inc",Liabilities:PayPal
+Hilary Hatcher,Hilary Hatcher,Assets:Hilary
+Dog With Two Tails L,Dog With Two Tails L,Expenses:Alcohol
+Quarry Beach Surf,Quarry Beach Surf,Expenses:Recreation
+ELECTRONIC,ELECTRONIC,Expenses:Misc
+DOG WITH TWO TAILS L,DOG WITH TWO TAILS L,Expenses:Alcohol
+Scenic Southern Cros,Scenic Southern Cros,Expenses:Alcohol
+Countdown Mailer Str,Countdown Mailer Str,Expenses:Groceries
+Pak N Save Fuel Dune,Pak N Save Fuel Dune,Expenses:Auto:Petrol
+,EZFlix.tv,Income:Other-Income
+Meridian Medical Cen,Meridian Medical Cen,Expenses:Medical
+Dunedin City Pharmac,Dunedin City Pharmac,Expenses:Medi
+Super Cheap Auto Dun,Super Cheap Auto Dun,Expenses:Auto:Maintenance
+Kfc Dunedin Nth 549,Kfc Dunedin Nth 549,Expenses:Gifts
+Reading Dunedin,Reading Dunedin,Expenses:Shared-Entertainment
+Careys Bay Historic,Careys Bay Historic,Expenses:Alcohol
+Geoff Christie Autom,Geoff Christie Autom,Expenses:Auto:Maintenance
+Hatcher S V,Hatcher S V,Assets:Hilary
+Payment Card Surc 19,Payment Card Surc 19,Expenses:Bank-Fees
+Dunedin Rockshop,Dunedin Rockshop,Expenses:Supplies
+Humblebundle.Com  18,Humblebundle.Com  18,Expenses:Hobbies
+Pay Spark NZ Ltd  19,Pay Spark NZ Ltd  19,Expenses:Utilities:Internet
+Cycle World Dunedin,Cycle World Dunedin,Expenses:Supplies
+2Degrees Mobile   23,2Degrees Mobile   23,Expenses:Utilities:Cellphone
+Hatcher S V,Hatcher S V,Assets:WP:Joint
+Albar,Albar,Expenses:Alcohol
+Carousel,Carousel,Expenses:Alcohol
+ANATOLIA TURKISH CAF,ANATOLIA TURKISH CAF,Expenses:Dining-Out
+Spark NZ Trading,Spark NZ Trading,Expenses:Utilities:Internet
+Bloke,Bloke,Expenses:
+8020Scott Hatcher,8020Scott Hatcher,Assets:WP:Cheque
+Countdown Andersons,Countdown Andersons,Expenses:Misc
+Rialto Dunedin,Rialto Dunedin,Expenses:Shared-Entertainment
+Ticket Direct Rtd,Ticket Direct Rtd,Expenses:Shared-Entertainment
+University Of Otago,University Of Otago,Expenses:Misc
+PORTOBELLO DELI,PORTOBELLO DELI,Expenses:Misc
+Bloke,Bloke,Expenses:Misc
+Countdown Andersons,Countdown Andersons,Expenses:Groceries
+Boing Boing Store 05,Boing Boing Store 05,Expenses:Misc
+Noodle Hut Dunedin B,Noodle Hut Dunedin B,Expenses:Dining-Out
+UNIVERSITY OTAGO,UNIVERSITY OTAGO,Income:Salary
+University Otago,Equity:Hilary,Equity:Hilary
+Otago Regional Counc,Otago Regional Counc,Income:Other-Income
+Dunedin City Pharmac,Dunedin City Pharmac,Expenses:Medical
+University Bookshop,University Bookshop,Expenses:Misc
+Centrefire Sports Wo,Centrefire Sports Wo,Expenses:Equipment
+UNIVERSITY OF OTAGO,UNIVERSITY OF OTAGO,Expenses:Dining-
+UNIVERSITY OF OTAGO,UNIVERSITY OF OTAGO,Expenses:Dining-Out
+BRENT WEATHERALL JEW,BRENT WEATHERALL JEW,Expenses:Equipment
+UNIVERSITY OTAGO,UNIVERSITY OTAGO,Equity:Hilary
+University Otago,University Otago,Income:Salary
+FRM 0905-0152842-00,FRM 0905-0152842-00,Assets:WP:Joint
+Hilary Hatcher,Hilary Hatcher,Equity:Hilary
+Brent Weatherall Jew,Brent Weatherall Jew,Expenses:Misc
+University Of Otago,University Of Otago,Expenses:Dining-Out
+7030Wayne Graham Rea,7030Wayne Graham Rea,Expenses:Rent
+Trojan Turkish Takea,Trojan Turkish Takea,Expenses:Dining-Ou
+Trojan Turkish Takea,Trojan Turkish Takea,Expenses:Dining-Out
+MORAY PLACE  WBC ATM,MORAY PLACE  WBC ATM,Assets:Cash
+TO 0905-0151954-00,TO 0905-0151954-00,Expenses:Misc
+Website Payments  03,Website Payments  03,Expenses:Bank-Fees
+Pay Spark NZ Ltd  03,Pay Spark NZ Ltd  03,Expenses:Utilities:Internet
+The Esplanade,The Esplanade,Expenses:Misc
+Moray Place  WBC ATM,Moray Place  WBC ATM,Assets:Cash
+Cottage Bakehouse,Cottage Bakehouse,Expenses:Misc
+Beano's Bakery,Beano's Bakery,Expenses:Dining-Out
+Waikouaiti Store,Waikouaiti Store,Expenses:Groceries
+Scott's Brewing Co,Scott's Brewing Co,Expenses:Misc
+Finefare Supermarket,Finefare Supermarket,Expenses:Groceries
+Z Palmerston,Z Palmerston,Expenses:Auto:Petrol
+Veggie Boys South Du,Veggie Boys South Du,Expenses:Groceries
+261 Princes  ANZ ATM,261 Princes  ANZ ATM,Expenses:Misc
+Trademe - Pay Now 27,Trademe - Pay Now 27,Expenses:Misc
+2Degrees Mobile   28,2Degrees Mobile   28,Expenses:Utilities:Cellphone
+Hatcher S V,Hatcher S V,Equity:Hilary
+McDonalds Andersons,McDonalds Andersons,Expenses:Dining-Out
+Mag & Turbo Warehous,Mag & Turbo Warehous,Expenses:Auto:Maintenance
+Oil Changers Dunedin,Oil Changers Dunedin,Expenses:Auto:Maintenance
+Savemart Dunedin,Savemart Dunedin,Expenses:Clothes
+Vogel St Kitchen,Vogel St Kitchen,Expenses:Alcohol
+Bike Barn Dunedin,Bike Barn Dunedin,Expenses:Supplies
+City Mini Market Dnd,City Mini Market Dnd,Expenses:Misc
+Gordon Crichton,Gordon Crichton,Expenses:Supplies
+Portobello Deli,Portobello Deli,Expenses:Misc
+Countdown Dunedin So,Countdown Dunedin So,Expenses:Groceries
+THE HOSPICE SHOP,THE HOSPICE SHOP,Expenses:Misc
+The Flying Squid,The Flying Squid,Expenses:Dining-Out
+Subway Andersons Bay,Subway Andersons Bay,Expenses:Dining-Out
+Coupland's Bakeries,Coupland's Bakeries,Expenses:Dining-Out
+The Hospice Shop,The Hospice Shop,Expenses:Misc
+UniOtago,UniOtago,Income:Salary
+DCC Online Paymen 24,DCC Online Paymen 24,Expenses:Misc
+Mr R W Currie and,Mr R W Currie and,Income:Selling-Stuff
+Mr D J Knight,Mr D J Knight,Income:Selling-Stuff
+New Zealand Racing B,New Zealand Racing B,Expenses:Entertainment
+New World Mosgiel,New World Mosgiel,Expenses:Gifts
+Handy Rentals - Dn,Handy Rentals - Dn,Expenses:Reimbursable
+Lagonda Milk Bar,Lagonda Milk Bar,Expenses:Groceries
+New World Lincoln,New World Lincoln,Expenses:Groceries
+D Store Cafe & Resta,D Store Cafe & Resta,Expenses:Dining-Out
+Npd Timaru,Npd Timaru,Expenses:Reimbursable
+The Purple Lizard CA,The Purple Lizard CA,Expenses:Dining-Out
+Challenge Lincoln,Challenge Lincoln,Expenses:Reimbursable
+Dunedin North Post S,Dunedin North Post S,Expenses:Reimbursable
+PROV/LOCAL GVT PYMT,PROV/LOCAL GVT PYMT,Expenses:Taxes:Provincial
+BR TO BR - 6603,BR TO BR - 6603,Income:Other-Income
+Four Square Owaka,Four Square Owaka,Expenses:Recreation
+Owaka Motors 2008 Lt,Owaka Motors 2008 Lt,Expenses:Recreation
+Crown Hotel,Crown Hotel,Expenses:Alcohol
+Grabone           25,Grabone           25,Expenses:Gifts
+,ChemDry,Orphan
+The Warehouse South,The Warehouse South,Expenses:Misc
+Rd Petroleum Limited,Rd Petroleum Limited,Expenses:Recreation
+Pak N Save Dunedin,Pak N Save Dunedin,Expenses:Alcohol
+Selwyn Grave,Selwyn Grave,Expenses:Recreation
+Pak N Save Dunedin,Pak N Save Dunedin,Expenses:Groceries
+9010LJ Hooker,9010LJ Hooker,Expenses:Rent
+Edinburgh Realty Pro,Edinburgh Realty Pro,Expenses:Rent
+Wayne Graham Re,Wayne Graham Re,Expenses:Rent
+Mornington Night'n D,Mornington Night'n D,Expenses:Misc
+Countdown Dunedin Ce,Countdown Dunedin Ce,Expenses:Alcohol
+Sushi Station,Sushi Station,Expenses:Dining-Out
+Indian Spice Sth Dn,Indian Spice Sth Dn,Expenses:Dining-Out
+7030Spark,7030Spark,Expenses:Utilities:Internet
+MISC PAYMENT,Transfer,Liabilities:PayPal
+Best Buy,Best Buy,Expenses:Gifts
+K. SKOUMPIS - A. KANELLOS O.E,K. SKOUMPIS - A. KANELLOS O.E,Expenses:Gifts
+2Degrees Mobile   03,2Degrees Mobile   03,Expenses:Utilities:Cellphone
+Real Journeys     07,Real Journeys     07,Expenses:Travel
+Allan Millars,Allan Millars,Orphan
+The Bog Irish Bar Du,The Bog Irish Bar Du,Expenses:Equipment
+The Bog Irish Bar Du,The Bog Irish Bar Du,Expenses:Alcohol
+Paypal *Guitarcol 12,Paypal *Guitarcol 12,Expenses:Hobbies
+University Bookshop,University Bookshop,Expenses:Supplies
+Trademe Paynow    13,Trademe Paynow    13,Expenses:Equipment
+Leith Liquorland,Leith Liquorland,Expenses:Alcohol
+Foreign Currency Fee,Foreign Currency Fee,Expenses:Misc
+Locate Press Llc  15,Locate Press Llc  15,Expenses:Books
+Z Dee St,Z Dee St,Expenses:Auto:Petrol
+Papatowai Motels & S,Papatowai Motels & S,Expenses:Alcohol
+ELECTRONIC,ELECTRONIC,Orphan
+ELECTRONIC,Orphan,Orphan
+Knox Rehabilitation,Knox Rehabilitation,Expenses:Medical
+Countdown Dunedin Ce,Countdown Dunedin Ce,Expenses:Groceries
+Urgent Pharmacy,Urgent Pharmacy,Expenses:Medical
+Allpress Roastery CA,Allpress Roastery CA,Expenses:Dining-Out
+After Hours Doctors,After Hours Doctors,Expenses:Medical
+Countdown Waikiwi,Countdown Waikiwi,Expenses:Travel
+Waikiwi Pharmacy 200,Waikiwi Pharmacy 200,Expenses:Medical
+Pak N Save Invercarg,Pak N Save Invercarg,Expenses:Travel
+Four Square Stewart,Four Square Stewart,Expenses:Travel
+South Seas Hotel,South Seas Hotel,Expenses:Travel
+Stewart Island Backp,Stewart Island Backp,Expenses:Travel
+6040Edinburgh Realty,6040Edinburgh Realty,Expenses:Rent
+Department of C,Department of C,Income:Other-Income
+Kai Kart,Kai Kart,Expenses:Travel
+A La Turka,A La Turka,Expenses:Travel
+Stewart Is Experienc,Stewart Is Experienc,Expenses:Travel
+WWW3RD PTY DEP-3039,WWW3RD PTY DEP-3039,Income:Other-Income
+Email Trfs,Misc Transfer,Expenses:Misc
+INT E-TRF FEE,INT E-TRF FEE,Expenses:Bank-Fees
+WWW3RD PTY DEP-7825,WWW3RD PTY DEP-7825,Income:Other-Income
+MISC PAYMENT,Paypal,Liabilities:PayPal
+PURCHASE INTEREST 19.99%,PURCHASE INTEREST 19.99%,Expenses:Interest
+Rainy Day Books,Rainy Day Books,Expenses:Books
+"237, inc","237, inc",Expenses:Gifts
+"Wikimedia Foundation, Inc.","Wikimedia Foundation, Inc.",Expenses:Charity
+PayPal,PayPal,Orphan
+Scott Hatcher,Scott Hatcher,Liabilities:PayPalNZ
+PayPal,PayPal,Expenses:Exchange-rates
+From U.S. Dollar,From U.S. Dollar,Expenses:Exchange-rates
+Rialto Cinemas JV,Rialto Cinemas JV,Expenses:Shared-Entertainment
+PayPal,PayPal,Orphan
+"Guitar College, Inc","Guitar College, Inc",Expenses:Hobbies
+From New Zealand Dollar,From New Zealand Dollar,Expenses:Exchange-rates
+Credit Card,Credit Card,Liabilities:WP:Cheque
+Bank Account,Bank Account,Assets:WP:Cheque
+PayPal,PayPal,Expenses:Bank-Fees
+Scott Hatcher,Scott Hatcher,Liabilities:PayPal
+WWW.Steampowered.com,WWW.Steampowered.com,Expenses:Media
+The Kissing Gate Caf,The Kissing Gate Caf,Expenses:Dining-Out
+Four Square Palmerst,Four Square Palmerst,Expenses:Groceries
+Jizo Japanese Cafe &,Jizo Japanese Cafe &,Expenses:Dining-Out
+Papatowai Motels & S,Papatowai Motels & S,Expenses:Travel
+Website Payments  12,Website Payments  12,Expenses:Misc
+Pay Spark NZ Ltd  12,Pay Spark NZ Ltd  12,Expenses:Utilities:Internet
+Apple NZ 2        12,Apple NZ 2        12,Expenses:Equipment
+Under The Radar   14,Under The Radar   14,Expenses:Entertainment
+City Mini Market Dnd,City Mini Market Dnd,Expenses:Entertainment
+Rialto Dunedin,Rialto Dunedin,Expenses:Entertainment
+Hell Pizza Dunedin S,Hell Pizza Dunedin S,Expenses:Dining-Out
+Thirsty Liquor,Thirsty Liquor,Expenses:Alcohol
+Rob Roy Dairy,Rob Roy Dairy,Expenses:Dining-
+Castle Macadam Wine,Castle Macadam Wine,Expenses:Alcohol
+Dunedin North Post S,Dunedin North Post S,Expenses:Auto:Maintenance
+TO 0905-0152017-00,TO 0905-0152017-00,Expenses:Misc
+Ratbags,Ratbags,Expenses:Dining-Out
+Ombrellos Espresso,Ombrellos Espresso,Expenses:Dining-Out
+Dunedin Intl Airport,Dunedin Intl Airport,Expenses:Dining-Out
+Z Palmerston,Z Palmerston,Expenses:Recreation
+8020Hilary,8020Hilary,Equity:Hilary
+BP 2Go Alco Motors,BP 2Go Alco Motors,Expenses:Misc
+BP 2Go Alco Motors,BP 2Go Alco Motors,Expenses:Auto:Petrol
+The Duke Of Wellingt,The Duke Of Wellingt,Expenses:Alcohol
+Expresso Plus,Expresso Plus,Expenses:Dining-Out
+Four Square Hampden,Four Square Hampden,Expenses:Dining-Out
+Sew Hoy Oriental Foo,Sew Hoy Oriental Foo,Expenses:Dining-Out
+TO 0905-0152017-00,TO 0905-0152017-00,Assets:WP:Cheque
+GRABONE WHANGAREI,GRABONE WHANGAREI,Expenses:Dining-Out
+Strait Shipping L 19,Strait Shipping L 19,Expenses:Travel
+Bivouac Outdoor,Bivouac Outdoor,Expenses:Gifts
+Clearance Fee,Clearance Fee,Expenses:Misc
+Antidote Central,Antidote Central,Expenses:Medical
+8020Scott Hatcher,8020Scott Hatcher,Equity:Hilary
+Mister Minit Meridia,Mister Minit Meridia,Expenses:Equipment
+Mad Butcher Dunedin,Mad Butcher Dunedin,Expenses:Groceries
+Dunedin Dick Smith,Dunedin Dick Smith,Expenses:Equipment
+Yilmaz Turkish Takea,Yilmaz Turkish Takea,Expenses:Dining-Out
+Edinburgh Realt,Edinburgh Realt,Expenses:Rent
+Eureka Cafe & Bar,Eureka Cafe & Bar,Expenses:Dining-Out
+Dept of Buildin,Dept of Buildin,Expenses:Rent
+Vogel St Kitchen,Vogel St Kitchen,Expenses:Dining-Out
+Subway Princes Stree,Subway Princes Stree,Expenses:Dining-Ou
+Torpedo 7,Torpedo 7,Expenses:Equipment
+Icc Museum Operation,Icc Museum Operation,Expenses:Misc
+Dunedin Taxis,Dunedin Taxis,Expenses:Misc
+A La Turka,A La Turka,Expenses:Dining-Out
+2Degrees Mobile   04,2Degrees Mobile   04,Expenses:Utilities:Cellphone
+Spark New Zealand Lt,Spark New Zealand Lt,Expenses:Utilities:Internet
+Vanguard Coffee Co,Vanguard Coffee Co,Expenses:Dining-
+The Warehouse South,The Warehouse South,Expenses:Gifts
+Custom Panel,Custom Panel,Expenses:Auto:Maintenance
+Otago Museum Trust,Otago Museum Trust,Expenses:Dining-Out
+The Kensington Tui C,The Kensington Tui C,Expenses:Alcohol
+University Bookshop,University Bookshop,Expenses:Gifts
+Transaction charge,Transaction charge,Expenses:Bank-Fees
+Freshchoice Green Is,Freshchoice Green Is,Expenses:Groceries
+Mitre 10 Mega - Dune,Mitre 10 Mega - Dune,Expenses:Auto:Maintenance
+Z Belfast,Z Belfast,Expenses:Auto:Petrol
+Civic Auto Parts,Civic Auto Parts,Expenses:Auto:Maintenance
+Countdown Blenheim,Countdown Blenheim,Expenses:Groceries
+Raglan Super Value,Raglan Super Value,Expenses:Groceries
+Raglan Kopua Holiday,Raglan Kopua Holiday,Expenses:Travel
+Apl Fuelstop Ward,Apl Fuelstop Ward,Expenses:Auto:Petrol
+Z Turangi,Z Turangi,Expenses:Auto:Petrol
+Raglan Bakery & Cafe,Raglan Bakery & Cafe,Expenses:Dining-Out
+BP 2Go Raglan,BP 2Go Raglan,Expenses:Auto:Petrol
+Harbour View Hotel,Harbour View Hotel,Expenses:Alcohol
+Raglan Foursquare,Raglan Foursquare,Expenses:Groceries
+The Local Taphouse,The Local Taphouse,Expenses:Alcohol
+Waikato Museum,Waikato Museum,Expenses:Shared-Entertainment
+Raglan       WBC ATM,Raglan       WBC ATM,Assets:Cash
+Raglan Engineering,Raglan Engineering,Expenses:Auto:Maintenance
+6040Raglan Property,6040Raglan Property,Expenses:Rent
+Best Cafe,Best Cafe,Expenses:Dining-Out
+2Degrees Mobile   02,2Degrees Mobile   02,Expenses:Utilities:Cellphone
+The Blackdog Cafe &,The Blackdog Cafe &,Expenses:Misc
+The Craic Irish Tave,The Craic Irish Tave,Expenses:Misc
+Midway Dairy,Midway Dairy,Expenses:Dining-Out
+New World Mosgiel,New World Mosgiel,Expenses:Groceries
+River Run Cafe,River Run Cafe,Expenses:Dining-Out
+Waitomo Petroleum Te,Waitomo Petroleum Te,Expenses:Auto:Petrol
+West Coast Health Cl,West Coast Health Cl,Expenses:Medical
+Bike 2 Bay,Bike 2 Bay,Expenses:Supplies
+Waitomo Orchards 200,Waitomo Orchards 200,Expenses:Travel
+Countdown Spotswood,Countdown Spotswood,Expenses:Travel
+Caffe Windsor,Caffe Windsor,Expenses:Travel
+Z Inglewood,Z Inglewood,Expenses:Travel
+Junction Service Sta,Junction Service Sta,Expenses:Travel
+Raglan Community Art,Raglan Community Art,Expenses:Shared-Entertainment
+Xtreme Zero Waste,Xtreme Zero Waste,Expenses:Equipment
+DR and AT Wharehoka,DR and AT Wharehoka,Expenses:Rent
+ROCKIT KITCHEN,ROCKIT KITCHEN,Expenses:Shared-Entertainment
+BP 2GO RAGLAN,BP 2GO RAGLAN,Expenses:Auto:Petrol
+Jaycar Pty Ltd,Jaycar Pty Ltd,Expenses:Supplies
+Nikau Cave Ltd,Nikau Cave Ltd,Expenses:Entertainment
+Orca Restaurant & Ba,Orca Restaurant & Ba,Expenses:Gifts
+BP Connect Papakura,BP Connect Papakura,Expenses:Auto:Petrol
+Thirsty Liquor Ragla,Thirsty Liquor Ragla,Expenses:Alcohol
+Diverse Accommodatio,Diverse Accommodatio,Income:Salary
+Hmshost NZ Limited,Hmshost NZ Limited,Expenses:Misc
+Umiya Sushi,Umiya Sushi,Expenses:Dining-Out
+Auckland Airport Car,Auckland Airport Car,Expenses:Misc
+Raglan Fish Ltd,Raglan Fish Ltd,Expenses:Dining-Out
+Fullers-Pier 1,Fullers-Pier 1,Expenses:Misc
+BP 2Go Horotiu,BP 2Go Horotiu,Expenses:Auto:Petrol
+Hatcher S V,Hatcher S V,Assets:WP:Joint
+2Degrees Mobile   07,2Degrees Mobile   07,Expenses:Utilities:Cellphone
+Trade Me          05,Trade Me          05,Expenses:Misc
+Debit,Debit,Expenses:Misc
+Top Cut Butchery,Top Cut Butchery,Expenses:Groceries
+Mobil Morrinsville,Mobil Morrinsville,Expenses:Auto:Petrol
+McConnochies Service,McConnochies Service,Expenses:Auto:Petrol
+Coastal Research & C,Coastal Research & C,Income:Salary
+8020Scott Hatcher,8020Scott Hatcher,Assets:WP:Cheque
+Raglan Golf Club INC,Raglan Golf Club INC,Expenses:Shared-Entertainment
+The Wharf Kitchen &,The Wharf Kitchen &,Expenses:Dining-Out
+Information Raglan,Information Raglan,Expenses:Misc
+Mobil Lake Road,Mobil Lake Road,Expenses:Auto:Petrol
+Waiariki Institute,Waiariki Institute,Expenses:Misc
+BP Connect Geyser,BP Connect Geyser,Expenses:Auto:Petrol
+Baxters Cafe,Baxters Cafe,Expenses:Dining-Out
+Mobil Hillcrest,Mobil Hillcrest,Expenses:Auto:Petrol
+The Sleeping Lady Lo,The Sleeping Lady Lo,Expenses:Shared-Entertainment
+TO 0905-0151954-00,TO 0905-0151954-00,Assets:WP:Cheque
+WWW3RD PTY DEP-7495,WWW3RD PTY DEP-7495,Income:Other-Income
+WWW3RD PTY DEP-4536,WWW3RD PTY DEP-4536,Income:Gifts
+Email Trfs,Misc Transfer,Income:Gifts
+AIR CANADA 0142161261216AIRCANADA.COMMB,AIR CANADA 0142161261216AIRCANADA.COMMB,Expenses:Travel
+AIR CANADA 0142161261217AIRCANADA.COMMB,AIR CANADA 0142161261217AIRCANADA.COMMB,Expenses:Travel
+Rockit Kitchen,Rockit Kitchen,Expenses:Dining-Out
+Gull Paeroa,Gull Paeroa,Expenses:Auto:Petrol
+From 0905-0152842-00,From 0905-0152842-00,Equity:Hilary
+Trade Me          09,Trade Me          09,Expenses:Misc
+Marilynas Famous  14,Marilynas Famous  14,Expenses:Misc
+Port Stephens Coa 14,Port Stephens Coa 14,Expenses:Travel
+Das Hund Haus     18,Das Hund Haus     18,Expenses:Travel
+Medowie Tyre/Auto 17,Medowie Tyre/Auto 17,Expenses:Travel
+Rentalcars.Com    18,Rentalcars.Com    18,Expenses:Travel
+Ethica Coffeehous 19,Ethica Coffeehous 19,Expenses:Travel
+Foreign Currency Fee,Foreign Currency Fee,Expenses:Travel
+Airport Retail En 21,Airport Retail En 21,Expenses:Travel
+Sydney Terminal P 21,Sydney Terminal P 21,Expenses:Travel
+Ssp Australia Cat 21,Ssp Australia Cat 21,Expenses:Travel
+Breglias Piccolo  22,Breglias Piccolo  22,Expenses:Travel
+Virgin Au79526006 22,Virgin Au79526006 22,Expenses:Travel
+Wilson Parking P1 23,Wilson Parking P1 23,Expenses:Travel
+University Of Wes 23,University Of Wes 23,Expenses:Travel
+Museum WA         22,Museum WA         22,Expenses:Travel
+City Of Fremantle 23,City Of Fremantle 23,Expenses:Travel
+Bill Campbell Boo 25,Bill Campbell Boo 25,Expenses:Books
+Wilson Parking P1 25,Wilson Parking P1 25,Expenses:Misc
+Alh Group 8741 Sa 23,Alh Group 8741 Sa 23,Expenses:Travel
+Dept Of Parks/Wil 26,Dept Of Parks/Wil 26,Expenses:Travel
+New Edition Books 25,New Edition Books 25,Expenses:Books
+City Beach Fishba 24,City Beach Fishba 24,Expenses:Travel
+Lancelin Roadhous 26,Lancelin Roadhous 26,Expenses:Travel
+Woolworths 4387   27,Woolworths 4387   27,Expenses:Travel
+City Of Fremantle 27,City Of Fremantle 27,Expenses:Travel
+Rottnest Express  24,Rottnest Express  24,Expenses:Travel
+Swan Taxis 13 13  27,Swan Taxis 13 13  27,Expenses:Travel
+Caltex Star Mart  27,Caltex Star Mart  27,Expenses:Travel
+Boots 1252        29,Boots 1252        29,Expenses:Travel
+WA Airport Hospit 28,WA Airport Hospit 28,Expenses:Travel
+Lul Ticket Machin 29,Lul Ticket Machin 29,Expenses:Travel
+To 0905-0152842-00,To 0905-0152842-00,Equity:Hilary
+To 0905-0152017-00,To 0905-0152017-00,Equity:Hilary
+Information Raglan,Information Raglan,Expenses:Recreation
+Waiariki Institute,Waiariki Institute,Expenses:Recreation
+Raglan Pharmacy,Raglan Pharmacy,Expenses:Medical
+Kanuka Design Ltd,Kanuka Design Ltd,Expenses:Gifts
+4060Malcolm Parker,4060Malcolm Parker,Expenses:Misc
+Aga Turkish Cuisine,Aga Turkish Cuisine,Expenses:Dining-Out
+Raglan Central Post,Raglan Central Post,Expenses:Misc
+Raglan Surf Emporium,Raglan Surf Emporium,Expenses:Misc
+Z Awakeri,Z Awakeri,Expenses:Auto:Petrol
+Pak N Save Rotorua,Pak N Save Rotorua,Expenses:Travel
+Okitu Store,Okitu Store,Expenses:Gifts
+Kaiti Supermarket,Kaiti Supermarket,Expenses:Travel
+Gisborne     WBC ATM,Gisborne     WBC ATM,Assets:Cash
+Mobil Portside,Mobil Portside,Expenses:Auto:Petrol
+Z Te Awamutu,Z Te Awamutu,Expenses:Auto:Petrol
+Countdown Te Awamutu,Countdown Te Awamutu,Expenses:Travel
+Waikato District Cou,Waikato District Cou,Expenses:Misc
+Warehouse Building S,Warehouse Building S,Expenses:Supplies
+Raglan Barber,Raglan Barber,Expenses:Misc
+5050DR and AT Whareh,5050DR and AT Whareh,Expenses:Rent
+D J McCarthy,D J McCarthy,Income:Selling-Stuff
+Waingaro Hot Springs,Waingaro Hot Springs,Expenses:Entertainment
+Datlen M,Datlen M,Expenses:Misc
+Countdown Dinsdale,Countdown Dinsdale,Expenses:Travel
+Evolution Cycles,Evolution Cycles,Expenses:Supplies
+Raglan Watersports L,Raglan Watersports L,Expenses:Recreation
+Raglan Wines & Spiri,Raglan Wines & Spiri,Expenses:Alcohol
+,ChemDry,Expenses:Misc
+Relay,Relay,Expenses:Misc
+McDonalds Britomart,McDonalds Britomart,Expenses:Travel
+From N To Z,From N To Z,Expenses:Gifts
+Champions Of The Wor,Champions Of The Wor,Expenses:Gifts
+Downtown Queen St,Downtown Queen St,Expenses:Travel
+Emirates (Akld Ato),Emirates (Akld Ato),Expenses:Travel
+BP Connect Birkenhea,BP Connect Birkenhea,Expenses:Travel
+Diamond Horse Takeaw,Diamond Horse Takeaw,Expenses:Travel
+Kiwi Art Limited,Kiwi Art Limited,Expenses:Travel
+79 Queen St  WBC ATM,79 Queen St  WBC ATM,Assets:Cash
+Woodzone,Woodzone,Expenses:Gifts
+Air NZ Cargo Export,Air NZ Cargo Export,Expenses:Moving
+WWW3RD PTY DEP-8343,WWW3RD PTY DEP-8343,Expenses:Misc
+WWW3RD PTY DEP-1816,WWW3RD PTY DEP-1816,Equity:Hilary
+SKR*AbeBooks.co 3ODZVI Abebooks,SKR*AbeBooks.co 3ODZVI Abebooks,Expenses:Gifts
+TOP GARAGE RAGLAN RAGLAN,TOP GARAGE RAGLAN RAGLAN,Expenses:Auto:Maintenance
+EDREAMS BARCELONA,EDREAMS BARCELONA,Expenses:Travel
+TRAVELGENIO AUSTRALI SYDNEY,TRAVELGENIO AUSTRALI SYDNEY,Expenses:Travel
+WAITOMO PETROLEUM TE U RAGLAN,WAITOMO PETROLEUM TE U RAGLAN,Expenses:Auto:Petrol
+AIRBNB INTERNET,AIRBNB INTERNET,Expenses:Travel
+VODAFONE APRT SYD 2 MASCOT,VODAFONE APRT SYD 2 MASCOT,Expenses:Travel
+WARRINGAH COUNCIL DEE WHY,WARRINGAH COUNCIL DEE WHY,Expenses:Travel
+ROYAL GEORGE SYDNEY,ROYAL GEORGE SYDNEY,Expenses:Travel
+AIR CANADA 44143072 ENFIELD NS,AIR CANADA 44143072 ENFIELD NS,Expenses:Moving
+WORLD DUTY FREE HEATHROW HEATHROW,WORLD DUTY FREE HEATHROW HEATHROW,Expenses:Gifts
+TIM HORTONS 0800 QTH NEW GLASGOW NS,TIM HORTONS 0800 QTH NEW GLASGOW NS,Expenses:Dining-Out
+HALIFAX INTL AIRPORT A ENFIELD NS,HALIFAX INTL AIRPORT A ENFIELD NS,Expenses:Travel
+LEON HEATHROW 3 HOUNSLOW,LEON HEATHROW 3 HOUNSLOW,Expenses:Travel
+CIRCLE K / IRVING #QPS 20SYDNEY NS,CIRCLE K / IRVING #QPS 20SYDNEY NS,Expenses:Auto:Petrol
+UHAUL BROADWAY CONVENI SYDNEY NS,UHAUL BROADWAY CONVENI SYDNEY NS,Expenses:Moving
+CIRCLE K / IRVING #QPS207NEW GLASGOW NS,CIRCLE K / IRVING #QPS207NEW GLASGOW NS,Expenses:Moving
+ATLANTIC SUPERSTORE HA HALIFAX NS,ATLANTIC SUPERSTORE HA HALIFAX NS,Expenses:Groceries
+DOMINOS PIZZA 10975 HALIFAX NS,DOMINOS PIZZA 10975 HALIFAX NS,Expenses:Dining-Out
+SUPERSTORE GAS BAR #41 HALIFAX NS,SUPERSTORE GAS BAR #41 HALIFAX NS,Expenses:Moving
+ESSO 7151 CHEBUCTO RD HALIFAX NS,ESSO 7151 CHEBUCTO RD HALIFAX NS,Expenses:Auto:Petrol
+TIM HORTONS #13,TIM HORTONS #13,Expenses:Dining-Out
+THE SOURCE #566,THE SOURCE #566,Expenses:Supplies
+KOODO HALIFAX #,KOODO HALIFAX #,Expenses:Utilities:Cellphone
+LAWTONS DRUGS D,LAWTONS DRUGS D,Expenses:Supplies
+SALARMY STRAWBE,SALARMY STRAWBE,Expenses:Clothes
+HALIFAX SUPERST,HALIFAX SUPERST,Expenses:Groceries
+DOCTOR CLOCK/AL,DOCTOR CLOCK/AL,Expenses:Repair
+MISC PAYMENT,Paypal,Assets:Investments:TFSA
+CANADIAN TIRE #,CANADIAN TIRE #,Expenses:Supplies
+WROUGHT IRON BR,WROUGHT IRON BR,Expenses:Misc
+WWW3RD PTY DEP-5626,WWW3RD PTY DEP-5626,Income:Gifts
+MISC PAYMENT,Paypal,Liabilities:PayPal
+Loan Pmt,Loan Pmt,Liabilities:RBC:LineOfCredit
+BR TO BR - 2533,BR TO BR - 2533,Expenses:Misc
+FISHING FEVER F,FISHING FEVER F,Expenses:Supplies
+NSLC #2154,NSLC #2154,Expenses:Alcohol
+FUNDS TRANSFER CR,FUNDS TRANSFER CR,Assets:WP:Joint
+FUNDS TRANSFER FEE,FUNDS TRANSFER FEE,Expenses:Bank-Fees
+WWW TRF DDA - 7782,WWW TRF DDA - 7782,Orphan
+LOAN INTEREST,LOAN INTEREST,Expenses:Interest
+SUBWAY # 15806,SUBWAY # 15806,Expenses:Dining-Out
+WWW3RD PTY DEP-6249,WWW3RD PTY DEP-6249,Equity:Hilary
+INDIGO - HALIFA,INDIGO - HALIFA,Expenses:Misc
+Transfer,Transfer,Orphan
+C-IDP PURCHASE-6438,C-IDP PURCHASE-6438,Expenses:Misc
+C-IDP PURCHASE-5118,C-IDP PURCHASE-5118,Expenses:Alcohol
+WWW3RD PTY DEP-4928,WWW3RD PTY DEP-4928,Equity:Hilary
+WWW TRF DDA - 8097,WWW TRF DDA - 8097,Expenses:Misc
+Deposit,Deposit,Orphan
+CHEQUE,CHEQUE,Expenses:Rent
+COUNTER CHEQUE FEE,COUNTER CHEQUE FEE,Expenses:Bank-Fees
+PARTIAL MONTHLY FEE,PARTIAL MONTHLY FEE,Expenses:Bank-Fees
+Payment,Payment,Orphan
+WWW TRF DDA - 9081,WWW TRF DDA - 9081,Orphan
+WWW TRF DDA - 6390,WWW TRF DDA - 6390,Orphan
+CINEPLEX #5143,CINEPLEX #5143,Expenses:Shared-Entertainment
+PAYROLL DEPOSIT,PAYROLL DEPOSIT,Income:Salary
+SOBEYS #881,SOBEYS #881,Expenses:Groceries
+WINNERS 350,WINNERS 350,Expenses:Clothes
+WWW TRF DDA - 6093,WWW TRF DDA - 6093,Orphan
+WWW TRF DDA - 4306,WWW TRF DDA - 4306,Orphan
+Deposit,Deposit,Income:Salary
+WWW TRF DDA - 9919,WWW TRF DDA - 9919,Orphan
+ATLANTIC SUPERS,ATLANTIC SUPERS,Orphan
+WWW TRF DDA - 8112,WWW TRF DDA - 8112,Orphan
+TIM HORTONS 1972 QTH PORTERS LAKE NS,TIM HORTONS 1972 QTH PORTERS LAKE NS,Expenses:Dining-Out
+TIM HORTONS 2265 QTH HALIFAX NS,TIM HORTONS 2265 QTH HALIFAX NS,Expenses:Dining-Out
+STAPLES STORE #148 HALIFAX NS,STAPLES STORE #148 HALIFAX NS,Expenses:Supplies
+SHOPPERSDRUGMART2008 HALIFAX NS,SHOPPERSDRUGMART2008 HALIFAX NS,Expenses:Supplies
+SOBEYS 554 QPS HALIFAX NS,SOBEYS 554 QPS HALIFAX NS,Expenses:Groceries
+NSLC #2185 SPRYFIELD NS,NSLC #2185 SPRYFIELD NS,Expenses:Alcohol
+WINNERS 350 HALIFAX NS,WINNERS 350 HALIFAX NS,Expenses:Clothes
+TIM HORTONS 4745 QTH ENFIELD NS,TIM HORTONS 4745 QTH ENFIELD NS,Expenses:Dining-Out
+THE RALEIGH TIMES RALEIGH NC,THE RALEIGH TIMES RALEIGH NC,Expenses:Reimbursable
+CASINO TAXI 1 HALIFAX NS,CASINO TAXI 1 HALIFAX NS,Expenses:Reimbursable
+GOOD2GOII PHILADELPHIA PA,GOOD2GOII PHILADELPHIA PA,Expenses:Reimbursable
+FIVE GUYS # 161 CARY NC,FIVE GUYS # 161 CARY NC,Expenses:Reimbursable
+CHIPOTLE 2066 RALEIGH NC,CHIPOTLE 2066 RALEIGH NC,Expenses:Reimbursable
+SQ *WILL &amp; POP'S LL RALEIGH NC,SQ *WILL &amp; POP'S LL RALEIGH NC,Expenses:Reimbursable
+PROOF FIVE POINTS RALEIGH NC,PROOF FIVE POINTS RALEIGH NC,Expenses:Reimbursable
+DRIFTWOOD SOUTHERN KITCHERALEIGH,DRIFTWOOD SOUTHERN KITCHERALEIGH,Expenses:Reimbursable
+PHILLY AIR AUBONPAIN 2 PHILADELP,PHILLY AIR AUBONPAIN 2 PHILADELP,Expenses:Reimbursable
+RISE BISCUITS DONUTS RALEIGH NC,RISE BISCUITS DONUTS RALEIGH NC,Expenses:Reimbursable
+BEST BUY #912 HALIFAX NS,BEST BUY #912 HALIFAX NS,Expenses:Equipment
+BOB'S TAXI CAR #168 DARTMOUTH NS,BOB'S TAXI CAR #168 DARTMOUTH NS,Expenses:Reimbursable
+NETFOX COMMUNICATIONS CORPRESCOTT ON,NETFOX COMMUNICATIONS CORPRESCOTT ON,Expenses:Utilities:Internet
+KOODO TOP UP REAPPROV 866-9956636 AB,KOODO TOP UP REAPPROV 866-9956636 AB,Expenses:Utilities:Cellphone
+WAL-MART SUPERCENTER#3636HALIFAX NS,WAL-MART SUPERCENTER#3636HALIFAX NS,Expenses:Equipment
+VALUE VILLAGE 2046 HALIFAX NS,VALUE VILLAGE 2046 HALIFAX NS,Expenses:Equipment
+STAPLES STORE #36 HALIFAX NS,STAPLES STORE #36 HALIFAX NS,Expenses:Equipment
+CINEPLEX 8030 WEB QPS 416-323-6600 ON,CINEPLEX 8030 WEB QPS 416-323-6600 ON,Expenses:Shared-Entertainment
+PETROCAN-6389 QUINPOOL RDHALIFAX NS,PETROCAN-6389 QUINPOOL RDHALIFAX NS,Expenses:Auto:Petrol
+WASABI HOUSE RESTAURAN HALIFAX NS,WASABI HOUSE RESTAURAN HALIFAX NS,Expenses:Dining-Out
+SOBEYS 881 QPS HALIFAX NS,SOBEYS 881 QPS HALIFAX NS,Expenses:Groceries
+SOBEY'S FAST FUEL # 45 STELLARTON NS,SOBEY'S FAST FUEL # 45 STELLARTON NS,Expenses:Auto:Petrol
+PERKIN'S QPS WOLFVILLE NS,PERKIN'S QPS WOLFVILLE NS,Expenses:Dining-Out
+TIM HORTONS 1717 QTH ENFIELD NS,TIM HORTONS 1717 QTH ENFIELD NS,Expenses:Dining-Out
+INTEREST PAYMENT,INTEREST PAYMENT,Expenses:Interest
+WWW PMT MIN0-07444,WWW PMT MIN0-07444,Assets:RBC:Cheque
+WWW TFR MIN0-02761,WWW TFR MIN0-02761,Assets:RBC:Joint
+WWW PMT MIN0-01463,WWW PMT MIN0-01463,Assets:RBC:Cheque
+WWW TFR MIN0-08518,WWW TFR MIN0-08518,Assets:RBC:Cheque
+"Vimeo, Inc.","Vimeo, Inc.",Expenses:Media
+Ryan's PC Repair Shop,Ryan's PC Repair Shop,Expenses:Repair
+From 0905-0152842-00,From 0905-0152842-00,Assets:WP:Joint
+I.R.D.  466440527000,I.R.D.  466440527000,Expenses:Taxes:Federal
+Hatcher H M,Hatcher H M,Equity:Hilary
+Scott Hatcher,Scott Hatcher,Assets:RBC:Cheque
+Transfer,Transfer,Assets:RBC:Joint
+C-IDP PURCHASE-3826,C-IDP PURCHASE-3826,Expenses:Dining-Out
+C-IDP PURCHASE-1210,C-IDP PURCHASE-1210,Expenses:Alcohol
+Payment,Payment,Equity:Hilary
+WWW TRF DDA - 2478,WWW TRF DDA - 2478,Assets:RBC:Cheque
+Transfer,Transfer,Orphan
+UTILITY BILL PMT,UTILITY BILL PMT,Expenses:Utilities:Electricity
+SOBEY'S FAST FU,SOBEY'S FAST FU,Expenses:Auto:Petrol
+NEEDS #179#,NEEDS #179#,Expenses:Misc
+INVESTMENT,INVESTMENT,Assets:Investments:TFSA
+Transfer,Transfer,Liabilities:RBC:Visa
+ROCKHEAD WINE &amp; BEER M HALIFAX NS,ROCKHEAD WINE &amp; BEER M HALIFAX NS,Expenses:Alcohol
+SP * KP COMPONENTS 6045976578 BC,SP * KP COMPONENTS 6045976578 BC,Expenses:Equipment
+PETROCAN-185 CHAIN LAKE DHALIFAX NS,PETROCAN-185 CHAIN LAKE DHALIFAX NS,Expenses:Auto:Petrol
+NSLC #2150 HALIFAX NS,NSLC #2150 HALIFAX NS,Expenses:Alcohol
+SP * BOARDGAMEBLISS 4162759869 ON,SP * BOARDGAMEBLISS 4162759869 ON,Expenses:Gifts
+CDN TIRE STORE #00044 HALIFAX NS,CDN TIRE STORE #00044 HALIFAX NS,Expenses:Supplies
+WOOZLES HALIFAX NS,WOOZLES HALIFAX NS,Expenses:Gifts
+PAYPAL *ANDREWTOWNS 4029357733 ON,PAYPAL *ANDREWTOWNS 4029357733 ON,Orphan
+TIM HORTONS 0053 QTH HALIFAX NS,TIM HORTONS 0053 QTH HALIFAX NS,Expenses:Dining-Out
+CIRCLE K / IRVING #2053 TANTALLON NS,CIRCLE K / IRVING #2053 TANTALLON NS,Expenses:Auto:Petrol
+ROSE BAY STORE ROSE BAY NS,ROSE BAY STORE ROSE BAY NS,Expenses:Groceries
+LA TORTA WOODFIRED PIZZERWOLFVILLE NS,LA TORTA WOODFIRED PIZZERWOLFVILLE NS,Expenses:Dining-Out
+Amazon *Marketplce CA WWW.AMAZON.CAON,Amazon *Marketplce CA WWW.AMAZON.CAON,Expenses:Gifts
+CIRCLE K / IRVING #2070 WOLFVILLE NS,CIRCLE K / IRVING #2070 WOLFVILLE NS,Expenses:Auto:Petrol
+WWW TRF DDA - 9407,WWW TRF DDA - 9407,Orphan
+HALIFAX ALEHOUSE HALIFAX NS,HALIFAX ALEHOUSE HALIFAX NS,Expenses:Alcohol
+Mozilla Foundation,Mozilla Foundation,Expenses:Charity
+Internet Archive,Internet Archive,Expenses:Unknown
+"DirectToU, LLC","DirectToU, LLC",Expenses:Gifts
+WWW3RD PTY DEP-8685,WWW3RD PTY DEP-8685,Orphan
+AXEHANDLE,AXEHANDLE,Expenses:Misc
+INTERAC-SC-4877,INTERAC-SC-4877,Expenses:Bank-Fees
+CIRCLE K / IRVI,CIRCLE K / IRVI,Expenses:Auto:Petrol
+WWW TRF DDA - 8673,WWW TRF DDA - 8673,Orphan
+ATLANTIC SUPERS,ATLANTIC SUPERS,Expenses:Groceries
+CASH WITHDRAWAL,CASH WITHDRAWAL,Assets:Cash
+THE STUBBORN GOAT GAST HALIFAX NS,THE STUBBORN GOAT GAST HALIFAX NS,Expenses:Dining-Out
+"OTG MANAGEMENT PHL, LLC. NEWARK","OTG MANAGEMENT PHL, LLC. NEWARK",Expenses:Reimbursable
+MARRIOTT ST. LOUIS AIR ST. LOUIS,MARRIOTT ST. LOUIS AIR ST. LOUIS,Expenses:Reimbursable
+ELEGANT LIMO &amp; TAXI SERVIHERRING COVE NS,ELEGANT LIMO &amp; TAXI SERVIHERRING COVE NS,Expenses:Reimbursable
+GRAND PRE SERVICE STATIONGRAND PRE NS,GRAND PRE SERVICE STATIONGRAND PRE NS,Expenses:Auto:Petrol
+BAR STILLWELL HALIFAX NS,BAR STILLWELL HALIFAX NS,Expenses:Alcohol
+MOTHER'S PIZZA CANADA( HALIFAX NS,MOTHER'S PIZZA CANADA( HALIFAX NS,Expenses:Dining-Out
+WWW3RD PTY DEP-1822,WWW3RD PTY DEP-1822,Assets:RBC:Chequq
+WWW3RD PTY DEP-7806,WWW3RD PTY DEP-7806,Income:Gifts
+GIG STREET MUSI,GIG STREET MUSI,Expenses:Equipment
+JACK ASTOR'S BA,JACK ASTOR'S BA,Expenses:Dining-Out
+C-IDP PURCHASE-4495,C-IDP PURCHASE-4495,Expenses:Dining-Out
+WWWINTERAC PUR 7947,WWWINTERAC PUR 7947,Expenses:Alcohol
+WWW TRF DDA - 9107,WWW TRF DDA - 9107,Orphan
+WWW TRF DDA - 8435,WWW TRF DDA - 8435,Orphan
+INSURANCE,INSURANCE,Expenses:Insurance
+WWW TRF DDA - 3687,WWW TRF DDA - 3687,Orphan
+SPORTWHEELS SPORTS EXCELLLOWER SACKVILNS,SPORTWHEELS SPORTS EXCELLLOWER SACKVILNS,Expenses:Equipment
+TRULY TASTY HALIFAX NS,TRULY TASTY HALIFAX NS,Expenses:Dining-Out
+VALUE VILLAGE 2046 HALIFAX NS,VALUE VILLAGE 2046 HALIFAX NS,Expenses:Clothes
+DT *DULUTH TRADING CO 877-382-23,DT *DULUTH TRADING CO 877-382-23,Expenses:Clothes
+SKR*AbeBooks.co 3SNLSQ Lincolnsh,SKR*AbeBooks.co 3SNLSQ Lincolnsh,Expenses:Gifts
+APL* ITUNES.COM/BILL 800-676-2775 ON,APL* ITUNES.COM/BILL 800-676-2775 ON,Expenses:Medi
+WWW3RD PTY DEP-6988,WWW3RD PTY DEP-6988,Equity:Hilary
+THE TALL AND SM,THE TALL AND SM,Expenses:Dining-Out
+Payment,Payment,Assets:RBC:eSavings
+WWW TRF DDA - 9561,WWW TRF DDA - 9561,Assets:RBC:eSavings
+Transfer,Transfer,Liabilities:RBC:Mastercard
+Transfer,Transfer,Liabilities:RBC:Visa
+Payment,Payment,Equity:Hilary
+WWW TRF DDA - 5559,WWW TRF DDA - 5559,Assets:RBC:eSavings
+WWW TRF DDA - 3591,WWW TRF DDA - 3591,Assets:RBC:Cheque
+Transfer,Transfer,Orphan
+CIRCLE K / IRVING #QPS AULDS COVE NS,CIRCLE K / IRVING #QPS AULDS COVE NS,Expenses:Auto:Petrol
+PAYMENT - THANK YOU / PAIEMENT - MERCI,PAYMENT - THANK YOU / PAIEMENT - MERCI,Assets:RBC:Joint
+CIRCLE K / IRVING #207 WESTVILLE NS,CIRCLE K / IRVING #207 WESTVILLE NS,Expenses:Auto:Petrol
+EDS BOOKS AND MORE SYDNEY NS,EDS BOOKS AND MORE SYDNEY NS,Expenses:Books
+ESSO HALIFAX NS,ESSO HALIFAX NS,Expenses:Auto:Petrol
+BRAMOSO GOURMET PIZZER HALIFAX NS,BRAMOSO GOURMET PIZZER HALIFAX NS,Expenses:Dining-Out
+"EDX, INC. CAMBRIDGE MA","EDX, INC. CAMBRIDGE MA",Expenses:Education
+ATLANTIC SUPERSTORE BA HALIFAX NS,ATLANTIC SUPERSTORE BA HALIFAX NS,Expenses:Groceries
+CASINO TAXI 2 HALIFAX NS,CASINO TAXI 2 HALIFAX NS,Expenses:Reimbursable
+BAR LOUIE BRIER CR RALEIGH NC,BAR LOUIE BRIER CR RALEIGH NC,Expenses:Reimbursable
+THE FLYING SAUCER RALEIGH NC,THE FLYING SAUCER RALEIGH NC,Expenses:Reimbursable
+YELLOW CAB HALIFAX HALIFAX NS,YELLOW CAB HALIFAX HALIFAX NS,Expenses:Reimbursable
+ERW AIRP EARL OF SANDWIC NEWARK,ERW AIRP EARL OF SANDWIC NEWARK,Expenses:Reimbursable
+NSLC #2110 HALIFAX NS,NSLC #2110 HALIFAX NS,Expenses:Alcohol
+SUBWAY # 30913 HALIFAX NS,SUBWAY # 30913 HALIFAX NS,Expenses:Dining-Out
+ABEBOOKS.COM 800-315-5335 WA,ABEBOOKS.COM 800-315-5335 WA,Expenses:Gifts
+MOUNTAIN EQUIP CO-OP HALIFAX NS,MOUNTAIN EQUIP CO-OP HALIFAX NS,Expenses:Gifts
+Amazon.ca AMAZON.CA ON,Amazon.ca AMAZON.CA ON,Expenses:Gifts
+BARRELLING TIDE DISTILLERPORT WILLIAMSNS,BARRELLING TIDE DISTILLERPORT WILLIAMSNS,Expenses:Gifts
+NSLC #2160 HALIFAX NS,NSLC #2160 HALIFAX NS,Expenses:Alcohol
+Amazon.ca Prime Member amazon.ca/priBC,Amazon.ca Prime Member amazon.ca/priBC,Expenses:Gifts
+STEWMAC.COM,STEWMAC.COM,Expenses:Equipment
+INTERAC-SC-8215,INTERAC-SC-8215,Expenses:Bank-Fees
+INTERAC-SC-9352,INTERAC-SC-9352,Expenses:Bank-Fees
+C-IDP PURCHASE-4061,C-IDP PURCHASE-4061,Expenses:Misc
+C-IDP PURCHASE-9167,C-IDP PURCHASE-9167,Expenses:Misc
+WWW TRF DDA - 5973,WWW TRF DDA - 5973,Assets:RBC:eSavings
+WWW TRF DDA - 3722,WWW TRF DDA - 3722,Assets:RBC:eSavings
+WWW TRF DDA - 2609,WWW TRF DDA - 2609,Assets:RBC:eSavings
+EURO PIZZA,EURO PIZZA,Expenses:Dining-Out
+WWW TRF DDA - 6761,WWW TRF DDA - 6761,Assets:RBC:eSavings
+WWW TRF DDA - 7029,WWW TRF DDA - 7029,Assets:RBC:eSavings
+WWW TRF DDA - 5769,WWW TRF DDA - 5769,Assets:RBC:Cheque
+UCB COLLEGE OF NATURAL R 5106431,UCB COLLEGE OF NATURAL R 5106431,Expenses:Reimbursable
+KWIK KOPY DESIGN AND P HALIFAX NS,KWIK KOPY DESIGN AND P HALIFAX NS,Expenses:Reimbursable
+GATE'S LANDING CONVENI MIDDLETON NS,GATE'S LANDING CONVENI MIDDLETON NS,Expenses:Auto:Petrol
+MIDDLETON MOTEL AND SU MIDDLETON NS,MIDDLETON MOTEL AND SU MIDDLETON NS,Expenses:Reimbursable
+PIZZA FACTORY MIDDLETON NS,PIZZA FACTORY MIDDLETON NS,Expenses:Dining-Out
+TIM HORTONS 0955 QTH MIDDLETON NS,TIM HORTONS 0955 QTH MIDDLETON NS,Expenses:Dining-Out
+CIRCLE K / IRVING #205 TANTALLON NS,CIRCLE K / IRVING #205 TANTALLON NS,Expenses:Auto:Petrol
+SUPERSTORE HALIFAX STH HALIFAX NS,SUPERSTORE HALIFAX STH HALIFAX NS,Expenses:Groceries
+DAIRY QUEEN #12123 HALIFAX NS,DAIRY QUEEN #12123 HALIFAX NS,Expenses:Dining-Out
+"PASSPORT/PASSEPORT,HAL HALIFAX NS","PASSPORT/PASSEPORT,HAL HALIFAX NS",Expenses:Travel
+SOBEYS 670 QPS SACKVILLE NS,SOBEYS 670 QPS SACKVILLE NS,Expenses:Groceries
+NSLC #2223 ELMSDALE NS,NSLC #2223 ELMSDALE NS,Expenses:Alcohol
+NEEDS 4497 QPS TRURO NS,NEEDS 4497 QPS TRURO NS,Expenses:Auto:Petrol
+MASSTOWN MARKET MASSTOWN NS,MASSTOWN MARKET MASSTOWN NS,Expenses:Dining-Out
+TIM HORTONS 2087 QTH MAHONE BAY NS,TIM HORTONS 2087 QTH MAHONE BAY NS,Expenses:Dining-Out
+SHOPPERSDRUGMART1026 TORONTO ON,SHOPPERSDRUGMART1026 TORONTO ON,Expenses:Supplies
+NEW GENERATION SUSHI I TORONTO ON,NEW GENERATION SUSHI I TORONTO ON,Expenses:Travel
+FRESHCO 9725 TORONTO ON,FRESHCO 9725 TORONTO ON,Expenses:Travel
+EXTREME PITA 4147 MISSISSAUGA ON,EXTREME PITA 4147 MISSISSAUGA ON,Expenses:Travel
+TORONTO YOGA MAMAS 416-4060116 ON,TORONTO YOGA MAMAS 416-4060116 ON,Expenses:Medical
+MICHAEL'S YIG STORE 18 SASKATOON SK,MICHAEL'S YIG STORE 18 SASKATOON SK,Expenses:Travel
+COLLECTIVE COFFEE SASKATOON SK,COLLECTIVE COFFEE SASKATOON SK,Expenses:Travel
+SAFEWAY #4886 SASKATOON SK,SAFEWAY #4886 SASKATOON SK,Expenses:Travel
+INGREDIENTS ARTISON SASKATOON SK,INGREDIENTS ARTISON SASKATOON SK,Expenses:Travel
+SKIPTHEDISHES.COM WINNIPEG MB,SKIPTHEDISHES.COM WINNIPEG MB,Expenses:Travel
+RELAY 4723 TORONTO ON,RELAY 4723 TORONTO ON,Expenses:Travel
+SASKATOON AIRPORT SASKATOON SK,SASKATOON AIRPORT SASKATOON SK,Expenses:Travel
+SHOPPERSDRUGMART0134 HALIFAX NS,SHOPPERSDRUGMART0134 HALIFAX NS,Expenses:Supplies
+TIM HORTONS #0053 HALIFAX NS,TIM HORTONS #0053 HALIFAX NS,Expenses:Dining-Ou
+SOBEY'S FAST FUEL #451 BEDFORD NS,SOBEY'S FAST FUEL #451 BEDFORD NS,Expenses:Auto:Petrol
+SUBWAY # 17646 ELMSDALE NS,SUBWAY # 17646 ELMSDALE NS,Expenses:Dining-Out
+ITEM RETURNED NSF,ITEM RETURNED NSF,Liabilities:PayPal
+NSF ITEM FEE,NSF ITEM FEE,Expenses:Bank-Fees
+Transfer,Transfer,Assets:RBC:Joint
+WWW3RD PTY DEP-0306,WWW3RD PTY DEP-0306,Income:Gifts
+WWW TRF DDA - 5780,WWW TRF DDA - 5780,Assets:RBC:eSavings
+WWW3RD PTY DEP-7005,WWW3RD PTY DEP-7005,Equity:Hilary
+WWW3RD PTY DEP-1700,WWW3RD PTY DEP-1700,Equity:Hilary
+WWW TRF DDA - 3506,WWW TRF DDA - 3506,Assets:RBC:Joint
+KAISER'S SUB &amp;,KAISER'S SUB &amp;,Expenses:Dining-Out
+WWW TRF DDA - 8043,WWW TRF DDA - 8043,Assets:RBC:Joint
+WWW3RD PTY DEP-9875,WWW3RD PTY DEP-9875,Equity:Hilary
+WWW3RD PTY DEP-3701,WWW3RD PTY DEP-3701,Equity:Hilary
+Transfer,Transfer,Liabilities:RBC:Mastercard
+WWW TRF DDA - 4236,WWW TRF DDA - 4236,Assets:RBC:Cheque
+WWW TRF DDA - 3183,WWW TRF DDA - 3183,Orphan
+Transfer,Transfer,Orphan
+Deposit,Deposit,Expenses:Reimbursable
+WWW TRF DDA - 5955,WWW TRF DDA - 5955,Assets:RBC:Cheque
+NEEDS #184#,NEEDS #184#,Expenses:Misc
+SOBEYS #321,SOBEYS #321,Expenses:Groceries
+SCHEDULED PAYMENT,SCHEDULED PAYMENT,Orphan
+WWW TRF DDA - 5453,WWW TRF DDA - 5453,Assets:RBC:Cheque
+MORTGAGE PAYMENT,MORTGAGE PAYMENT,Expenses:Rent
+Transfer,Transfer,Liabilities:RBC:Visa
+Transfer,Transfer,Liabilities:RBC:Mastercard
+CHEQUE,CHEQUE,Expenses:Reimbursable
+WWW TRF DDA - 8741,WWW TRF DDA - 8741,Assets:RBC:Cheque
+Transfer,Transfer,Liabilities:PayPal
+Payment,Payment,Orphan
+WWW TRF DDA - 1247,WWW TRF DDA - 1247,Assets:RBC:Cheque
+Payment,Payment,Equity:hilary
+WWW TRF DDA - 4227,WWW TRF DDA - 4227,Assets:RBC:Cheque
+WWW TRF DDA - 1695,WWW TRF DDA - 1695,Assets:RBC:Cheque
+Transfer,Transfer,Orphan
+WWW TRF DDA - 0821,WWW TRF DDA - 0821,Equity:Hilary
+Transfer,Transfer,Liabilities:RBC:Mastercard
+Payment,Payment,Equity:Hilary
+WWW TRF DDA - 5805,WWW TRF DDA - 5805,Assets:RBC:Cheque
+Transfer,Transfer,Assets:RBC:Cheque
+Transfer,Transfer,Liabilities:RBC:Visa
+Transfer,Transfer,Liabilities:RBC:Mastercard
+Deposit,Deposit,Income:Other-Income
+WWW TRF DDA - 3663,WWW TRF DDA - 3663,Assets:RBC:Cheque
+Deposit,Deposit,Expenses:Taxes:Federal
+Transfer,Transfer,Assets:RBC:Joint
+PLUS - SC -0922,PLUS - SC -0922,Expenses:Bank-Fees
+Transfer,Transfer,Assets:RBC:Cheque
+CROSSROADS COUN,CROSSROADS COUN,Expenses:Dining-Out
+Transfer,Transfer,Assets:RBC:Joint
+PHARMASAVE CHAR,PHARMASAVE CHAR,Expenses:Mis
+EDS BOOKS AND M,EDS BOOKS AND M,Expenses:Media
+INTERAC-SC-1553,INTERAC-SC-1553,Expenses:Bank-Fees
+Transfer,Transfer,Orphan
+Email Trfs,Misc Transfer,Expenses:Gifts
+CDN TIRE STORE #00186 HALIFAX NS,CDN TIRE STORE #00186 HALIFAX NS,Orphan
+NBX*HALIFAXYOGA HALIFAX NS,NBX*HALIFAXYOGA HALIFAX NS,Expenses:Medical
+SHOPPERSDRUGMART0138 HALIFAX NS,SHOPPERSDRUGMART0138 HALIFAX NS,Orphan
+SALARMY STRAWBERRY HIL HALIFAX NS,SALARMY STRAWBERRY HIL HALIFAX NS,Expenses:Supplies
+SKR*ABEBOOKS.CO 4XXA4 800-315533,SKR*ABEBOOKS.CO 4XXA4 800-315533,Expenses:Books
+CIRCLE K / IRVING #205 HALIFAX NS,CIRCLE K / IRVING #205 HALIFAX NS,Expenses:Auto:Petrol
+ESSO CHAPEL ISLANDNS,ESSO CHAPEL ISLANDNS,Expenses:Auto:Petrol
+JAMIESONS IRISH HOUSE DARTMOUTH NS,JAMIESONS IRISH HOUSE DARTMOUTH NS,Expenses:Alcohol
+ATLANTIC SUPERSTORE #3 HALIFAX NS,ATLANTIC SUPERSTORE #3 HALIFAX NS,Expenses:Groceries
+EAST COAST BAKERY HALIFAX NS,EAST COAST BAKERY HALIFAX NS,Expenses:Dining-Out
+TACO DEL MAR 002109 HALIFAX NS,TACO DEL MAR 002109 HALIFAX NS,Expenses:Dining-Out
+DOLLARAMA # 210 HALIFAX NS,DOLLARAMA # 210 HALIFAX NS,Expenses:Supplies
+SEASIDE CHIROPRACTIC L HALIFAX NS,SEASIDE CHIROPRACTIC L HALIFAX NS,Expenses:Medical
+RISSER PROVINCIAL PARK LUNENBURG NS,RISSER PROVINCIAL PARK LUNENBURG NS,Expenses:Recreation
+LAHAVE BAKERY LAHAVE NS,LAHAVE BAKERY LAHAVE NS,Expenses:Dining-Out
+CDN TIRE STORE #00013 BRIDGEWATER NS,CDN TIRE STORE #00013 BRIDGEWATER NS,Expenses:Equipment
+KENT HALIFAX HALIFAX NS,KENT HALIFAX HALIFAX NS,Expenses:Supplies
+HOMESENSE 056 HALIFAX NS,HOMESENSE 056 HALIFAX NS,Expenses:Supplies
+SOBEYS 321 QPS SPRYFIELD NS,SOBEYS 321 QPS SPRYFIELD NS,Expenses:Unknown
+SPLIT CROW PUB HALIFAX NS,SPLIT CROW PUB HALIFAX NS,Expenses:Alcohol
+THE DISCOVERY CENTRE HALIFAX NS,THE DISCOVERY CENTRE HALIFAX NS,Expenses:Shared-Entertainment
+CDN TIRE STORE #00465 HALIFAX NS,CDN TIRE STORE #00465 HALIFAX NS,Expenses:Supplies
+KINGSTON SUPERSTORE #3 KINGSTON NS,KINGSTON SUPERSTORE #3 KINGSTON NS,Expenses:Groceries
+APPLIANCEFACTORYPARTS 8009557075,APPLIANCEFACTORYPARTS 8009557075,Expenses:Gifts
+PETROCAN FALL RIVER NS,PETROCAN FALL RIVER NS,Expenses:Auto:Petrol
+LAWTONS DRUGS 2750 HALIFAX NS,LAWTONS DRUGS 2750 HALIFAX NS,Expenses:Misc
+VALUE VILLAGE 2054 DARTMOUTH NS,VALUE VILLAGE 2054 DARTMOUTH NS,Expenses:Clothes
+CDN TIRE STORE #00186 HALIFAX NS,CDN TIRE STORE #00186 HALIFAX NS,Expenses:Supplies
+LEE VALLEY - HALIFAX HALIFAX NS,LEE VALLEY - HALIFAX HALIFAX NS,Expenses:House
+Amazon.ca AMAZON.CA ON,Amazon.ca AMAZON.CA ON,Orphan
+DR SCOTT M MACLEAN HALIFAX NS,DR SCOTT M MACLEAN HALIFAX NS,Expenses:Medical
+YOUR FATHER`S MOUSTACH HALIFAX NS,YOUR FATHER`S MOUSTACH HALIFAX NS,Expenses:Alcohol
+RATINAUD HALIFAX NS,RATINAUD HALIFAX NS,Expenses:Gifts
+LAWTONS DRUGS 113QPS HALIFAX NS,LAWTONS DRUGS 113QPS HALIFAX NS,Expenses:Supplies
+SOBEY'S FAST FUEL #450 STELLARTON NS,SOBEY'S FAST FUEL #450 STELLARTON NS,Expenses:Auto:Petrol
+DAIRY QUEEN #11953 STEWIACKE NS,DAIRY QUEEN #11953 STEWIACKE NS,Expenses:Dining-Out
+MACLEOD'S AUTO SERVICE HARRIETSFIELDNS,MACLEOD'S AUTO SERVICE HARRIETSFIELDNS,Expenses:Auto:Maintenance
+TIM HORTONS #0053 HALIFAX NS,TIM HORTONS #0053 HALIFAX NS,Expenses:Dining-Out
+SOBEYS 321 QPS SPRYFIELD NS,SOBEYS 321 QPS SPRYFIELD NS,Expenses:Groceries
+SHOPPERSDRUGMART2002 HALIFAX NS,SHOPPERSDRUGMART2002 HALIFAX NS,Expenses:Misc
+CELTIC CORNER PUBLIC H DARTMOUTH NS,CELTIC CORNER PUBLIC H DARTMOUTH NS,Expenses:Dining-Out
+RONA PIERCEYS ST MA 46 UPPER TANTALLNS,RONA PIERCEYS ST MA 46 UPPER TANTALLNS,Expenses:House
+SOBEY'S FAST FUEL #450 UPPER TANTALLNS,SOBEY'S FAST FUEL #450 UPPER TANTALLNS,Expenses:Auto:Petrol
+SUPERSTORE TANTALLON HD ST MARGTS NS,SUPERSTORE TANTALLON HD ST MARGTS NS,Expenses:Groceries
+PASSPORT DIVISION - NP GATINEAU QC,PASSPORT DIVISION - NP GATINEAU QC,Expenses:Misc
+GOOGLE *Thomas Isaac 855-492-5538 NS,GOOGLE *Thomas Isaac 855-492-5538 NS,Orphan
+CHEESECURDS GOURMET BURGEDARTMOUTH NS,CHEESECURDS GOURMET BURGEDARTMOUTH NS,Expenses:Dining-Out
+KANNON BEACH LAWRENCETOWN NS,KANNON BEACH LAWRENCETOWN NS,Expenses:Recreation
+SKR*AbeBooks.co 4XH4SB Wallingfo,SKR*AbeBooks.co 4XH4SB Wallingfo,Expenses:Books
+MICHAELS #3944 HALIFAX NS,MICHAELS #3944 HALIFAX NS,Expenses:Gift
+TIM HORTONS 0488 QTH HALIFAX NS,TIM HORTONS 0488 QTH HALIFAX NS,Expenses:Dining-Out
+STAPLES STORE #36 HALIFAX NS,STAPLES STORE #36 HALIFAX NS,Expenses:Gifts
+ATLANTIC SUPERSTORE #3 NEW GLASGOW NS,ATLANTIC SUPERSTORE #3 NEW GLASGOW NS,Expenses:Groceries
+TIM HORTONS 5561 QTH WINDSOR NS,TIM HORTONS 5561 QTH WINDSOR NS,Expenses:Dining-Out
+WWW3RD PTY DEP-8969,WWW3RD PTY DEP-8969,Expenses:Misc
+WWW3RD PTY DEP-7136,WWW3RD PTY DEP-7136,Expenses:Misc
+WWW3RD PTY DEP-6176,WWW3RD PTY DEP-6176,Income:Gifts
+WWW3RD PTY DEP-2424,WWW3RD PTY DEP-2424,Expenses:Misc
+WWW3RD PTY DEP-6712,WWW3RD PTY DEP-6712,Expenses:Misc
+WWW TRF DDA - 7948,WWW TRF DDA - 7948,Expenses:Misc
+WWW TRF DDA - 8651,WWW TRF DDA - 8651,Expenses:Misc
+WWW3RD PTY DEP-2016,WWW3RD PTY DEP-2016,Expenses:Misc
+CASTELLO CAFE,CASTELLO CAFE,Expenses:Dining-Out
+Email Trfs,Misc Transfer,Expenses:Dining-Out
+Payment,Payment,Assets:RBC:Joint
+WWW TRF DDA - 8339,WWW TRF DDA - 8339,Equity:Hilary
+MORTGAGE PAYMENT,MORTGAGE PAYMENT,Expenses:Mortgage
+Deposit,Deposit,Expenses:Rent
+WWW TRF DDA - 7131,WWW TRF DDA - 7131,Equity:Hilary
+WWW TRF DDA - 8768,WWW TRF DDA - 8768,Equity:Hiary
+Transfer,Transfer,Assets:RBC:Joint
+Transfer,Transfer,Liabilities:RBC:MASTERCARD
+Transfer,Transfer,Liabilities:RBC:VISA
+WWW TRF DDA - 1939,WWW TRF DDA - 1939,Equity:Hilary
+Transfer,Transfer,Liabilities:RBC:MASTERCARD
+WWW TRF DDA - 0059,WWW TRF DDA - 0059,Equity:Hilary
+Email Trfs,Misc Transfer,Assets:RBC:Cheque
+WWW TRF DDA - 8615,WWW TRF DDA - 8615,Equity:Hilary
+WWW TRF DDA - 2235,WWW TRF DDA - 2235,Equity:Hilary
+EI,EI,Income:EI
+Email Trfs,Misc Transfer,Expenses:Dining-Out
+WWW TRF DDA - 6822,WWW TRF DDA - 6822,Equity:Hilary
+Transfer,Transfer,Orphan
+WWW TRF DDA - 7955,WWW TRF DDA - 7955,Equity:Hilary
+Email Trfs,Misc Transfer,Orphan
+2 CROWS BREWING LTD HALIFAX NS,2 CROWS BREWING LTD HALIFAX NS,Expenses:Alcohol
+GOOGLE *Thomas Isaac 855-836-3987 NS,GOOGLE *Thomas Isaac 855-836-3987 NS,Expenses:Medi
+PUTTING EDGE - HALIFAX DARTMOUTH NS,PUTTING EDGE - HALIFAX DARTMOUTH NS,Expenses:Entertainment
+ABEBOOKS.COM 800-315-5335 WA,ABEBOOKS.COM 800-315-5335 WA,Expenses:Books
+ARMVIEW GRILL CO LTD HALIFAX NS,ARMVIEW GRILL CO LTD HALIFAX NS,Expenses:Dining-Out
+"SEARS HALIFAX, NS OUTLET HALIFAX NS","SEARS HALIFAX, NS OUTLET HALIFAX NS",Expenses:Equipment
+LOT SIX RESTAURANT &amp; BAR HALIFAX NS,LOT SIX RESTAURANT &amp; BAR HALIFAX NS,Expenses:Dining-Out
+EXPEDIA 7280867956707 EXPEDIA.CA ON,EXPEDIA 7280867956707 EXPEDIA.CA ON,Expenses:Travel
+HTTP://WWW.GOGOAIR.COM 877-350-0,HTTP://WWW.GOGOAIR.COM 877-350-0,Expenses:Travel
+SPIRIT OF THE MAR 5226 ENFIELD NS,SPIRIT OF THE MAR 5226 ENFIELD NS,Expenses:Reimbursable
+TRA'LI IRISH PUB &amp; REST RALEIGH,TRA'LI IRISH PUB &amp; REST RALEIGH,Expenses:Reimbursable
+BEASLEYS CHUCKS FOX RALEIGH NC,BEASLEYS CHUCKS FOX RALEIGH NC,Expenses:Reimbursable
+COUSINS MAINE LOBSTER WAKE FORES,COUSINS MAINE LOBSTER WAKE FORES,Expenses:Reimbursable
+MANCHESTERS GRILL RALEIGH NC,MANCHESTERS GRILL RALEIGH NC,Expenses:Reimbursable
+BP#8276834CIRCLE K ST 27 MORRISV,BP#8276834CIRCLE K ST 27 MORRISV,Expenses:Reimbursable
+GOOGLE *Thomas Isaac 855-836-3987 NS,GOOGLE *Thomas Isaac 855-836-3987 NS,Expenses:Media
+MCDONALD'S F27867 ROBERSONVILLEN,MCDONALD'S F27867 ROBERSONVILLEN,Expenses:Reimbursable
+RELISH RESTAURANT &amp; BA RALEIGH N,RELISH RESTAURANT &amp; BA RALEIGH N,Expenses:Reimbursable
+DELTA AIR Baggage Fee DORVAL QC,DELTA AIR Baggage Fee DORVAL QC,Expenses:Reimbursable
+DOLLAR RENT A CAR RALEIGH NC,DOLLAR RENT A CAR RALEIGH NC,Expenses:Travel
+LUCKY'S BOSTON MA,LUCKY'S BOSTON MA,Expenses:Reimbursable
+PAYPAL *AOSOMCANADA 4029357733 ON,PAYPAL *AOSOMCANADA 4029357733 ON,Expenses:Equipment
+PAYPAL *EMESOLUTION 4029357733 ON,PAYPAL *EMESOLUTION 4029357733 ON,Expenses:Equipment
+PRO SKATEBOARDS HALIFAX NS,PRO SKATEBOARDS HALIFAX NS,Expenses:Equipment
+THE WOODEN MONKEY DARTMOUTH NS,THE WOODEN MONKEY DARTMOUTH NS,Expenses:Dining-Out
+Amazon.ca AMAZON.CA ON,Amazon.ca AMAZON.CA ON,Expenses:Equipment
+CDN TIRE STORE #00044 HALIFAX NS,CDN TIRE STORE #00044 HALIFAX NS,Expenses:Equipment
+PETROCAN HALIFAX NS,PETROCAN HALIFAX NS,Expenses:Auto:Petrol
+LAWTONS GLADSTONE QPS HALIFAX NS,LAWTONS GLADSTONE QPS HALIFAX NS,Expenses:Supplies
+GAHAN HOUSE HALIFAX NS,GAHAN HOUSE HALIFAX NS,Expenses:Dining-Out
+MOUNTAIN EQUIP CO-OP HALIFAX NS,MOUNTAIN EQUIP CO-OP HALIFAX NS,Expenses:Equipment
+WESTJET 883826049389854 CALGARY AB,WESTJET 883826049389854 CALGARY AB,Expenses:Travel
+NAYAX LLC 20 HUNT VALLEY MD,NAYAX LLC 20 HUNT VALLEY MD,Expenses:Reimbursable
+SHOPPERSDRUGMART2002 HALIFAX NS,SHOPPERSDRUGMART2002 HALIFAX NS,Expenses:Supplies
+BIG WAVES MARKET &amp; DEL WAVES NC,BIG WAVES MARKET &amp; DEL WAVES NC,Expenses:Travel
+BP#8276834CIRCLE K QPS MORRISVIL,BP#8276834CIRCLE K QPS MORRISVIL,Expenses:Travel
+CBT ALVABABY GBR,CBT ALVABABY GBR,Expenses:Misc
+SUKI ORIENTAL MARKET HALIFAX NS,SUKI ORIENTAL MARKET HALIFAX NS,Expenses:Groceries
+HAPPY LANDING IRVING # MAHONE BAY NS,HAPPY LANDING IRVING # MAHONE BAY NS,Expenses:Auto:Petrol
+SALTBOX BREWING COMPAN MAHONE BAY NS,SALTBOX BREWING COMPAN MAHONE BAY NS,Expenses:Alcohol
+THE HOME DEPOT #7126 HALIFAX NS,THE HOME DEPOT #7126 HALIFAX NS,Expenses:Equipment
+CINEPLEX 5118 HALIFAX NS,CINEPLEX 5118 HALIFAX NS,Expenses:Entertainment
+CDN TIRE STORE #00186 HALIFAX NS,CDN TIRE STORE #00186 HALIFAX NS,Expenses:Equipment
+Amazon *Marketplce CA WWW.AMAZON.CAON,Amazon *Marketplce CA WWW.AMAZON.CAON,Expenses:Equipment
+SPRYFIELD GUARDIAN HALIFAX NS,SPRYFIELD GUARDIAN HALIFAX NS,Expenses:Supplies
+AIRBNB 14158005959 GBR,AIRBNB 14158005959 GBR,Expenses:Travel
+IWK - HEALTH CENTRE (P HALIFAX NS,IWK - HEALTH CENTRE (P HALIFAX NS,Expenses:Medi
+IWK HEALTH CENTRE HALIFAX NS,IWK HEALTH CENTRE HALIFAX NS,Expenses:Medical
+NS VITAL STATISTICS HALIFAX NS,NS VITAL STATISTICS HALIFAX NS,Expenses:Medical
+SHOPPERSDRUGMART2002 HALIFAX NS,SHOPPERSDRUGMART2002 HALIFAX NS,Expenses:Equipment
+SPRYFIELD GUARDIAN 558 ELMSDALE NS,SPRYFIELD GUARDIAN 558 ELMSDALE NS,Expenses:Equipment
+LAWTONS DRUGS 2750 HALIFAX NS,LAWTONS DRUGS 2750 HALIFAX NS,Expenses:Equipment
+ORGANIC EARTH MARKET HALIFAX NS,ORGANIC EARTH MARKET HALIFAX NS,Expenses:Medical
+SHOPPERSDRUGMART0134 HALIFAX NS,SHOPPERSDRUGMART0134 HALIFAX NS,Expenses:Equipment
+4171 GB HALIFAX JOSEPH HALIFAX NS,4171 GB HALIFAX JOSEPH HALIFAX NS,Expenses:Equipment
+SPRYFIELD ANIMAL HOSPI HALIFAX NS,SPRYFIELD ANIMAL HOSPI HALIFAX NS,Expenses:Pets
+RONA PIERCEYS ALMON 46 HALIFAX NS,RONA PIERCEYS ALMON 46 HALIFAX NS,Expenses:House
+NEEDS 4453 BAYERS LAKE NS,NEEDS 4453 BAYERS LAKE NS,Expenses:Auto:Petrol
+WAL-MART #3636 HALIFAX NS,WAL-MART #3636 HALIFAX NS,Expenses:Equipment
+ETSY.COM - QUARRELSOME ETSY.COM IRL,ETSY.COM - QUARRELSOME ETSY.COM IRL,Expenses:Gift
+WWW3RD PTY DEP-8969,WWW3RD PTY DEP-8969,Equity:Hilary
+WWW3RD PTY DEP-2016,WWW3RD PTY DEP-2016,Equity:Hilary
+WWW TRF DDA - 8651,WWW TRF DDA - 8651,Equity:Hilary
+WWW3RD PTY DEP-7136,WWW3RD PTY DEP-7136,Equity:Hilary
+WWW3RD PTY DEP-6176,WWW3RD PTY DEP-6176,Expenses:Reimbursable
+WWW3RD PTY DEP-2424,WWW3RD PTY DEP-2424,Equity:Hilary
+WWW3RD PTY DEP-6712,WWW3RD PTY DEP-6712,Equity:Hilary
+WWW TRF DDA - 7948,WWW TRF DDA - 7948,Expenses:Rent
+Email Trfs,Misc Transfer,Expenses:Dining-Out
+WWW3RD PTY DEP-7825,WWW3RD PTY DEP-7825,Equity:Hilary
+WWW3RD PTY DEP-5131,WWW3RD PTY DEP-5131,Equity:Hilary
+Payment,Payment,Assets:RBC:Cheque
+Deposit,Deposit,Orphan
+BR TO BR - 3303,BR TO BR - 3303,Orphan
+WWW TRF DDA - 8132,WWW TRF DDA - 8132,Orphan
+WWW TRF DDA - 5117,WWW TRF DDA - 5117,Orphan
+SHOPPERSDRUGMART0134 HALIFAX NS,SHOPPERSDRUGMART0134 HALIFAX NS,Expenses:Supplies
+SHOPPERSDRUGMART0137 HALIFAX NS,SHOPPERSDRUGMART0137 HALIFAX NS,Expenses:Supplies
+SHOPPERSDRUGMART0138 HALIFAX NS,SHOPPERSDRUGMART0138 HALIFAX NS,Expenses:Supplies
+TRIDENT BOOKSELLERS &amp; HALIFAX NS,TRIDENT BOOKSELLERS &amp; HALIFAX NS,Expenses:Dining-Out
+CHAPTERS 793 HALIFAX NS,CHAPTERS 793 HALIFAX NS,Expenses:Gifts
+SKR*AbeBooks 4429TS 800-3155335,SKR*AbeBooks 4429TS 800-3155335,Expenses:Books
+APL* ITUNES.COM/BILL 800-676-2775 ON,APL* ITUNES.COM/BILL 800-676-2775 ON,Expenses:Media
+GOOGLE *Penguin Apps g.co/helppay#NS,GOOGLE *Penguin Apps g.co/helppay#NS,Expenses:Media
+CASA DANTE HAIR STUDIO HALIFAX NS,CASA DANTE HAIR STUDIO HALIFAX NS,Expenses:Gifts
+INTERAC-SC-5591,INTERAC-SC-5591,Expenses:Bank-Fees
+DARRELLS RESTAURANT HALIFAX NS,DARRELLS RESTAURANT HALIFAX NS,Expenses:Dining-Out
+UNIFUND ASSURANCE COMP ST. JOHN'S NL,UNIFUND ASSURANCE COMP ST. JOHN'S NL,Expenses:Insurance
+RAY'S FALAFEL LEBANESE HALIFAX NS,RAY'S FALAFEL LEBANESE HALIFAX NS,Expenses:Dining-Out
+HALIFAX HARBOUR BRIDGE 902-463-3100 NS,HALIFAX HARBOUR BRIDGE 902-463-3100 NS,Expenses:Misc
+DR RUSSELL MACSWEEN HALIFAX NS,DR RUSSELL MACSWEEN HALIFAX NS,Expenses:Medical
+NSHA CENTRAL ZONE PARK HALIFAX NS,NSHA CENTRAL ZONE PARK HALIFAX NS,Expenses:Unknown
+TWO IF BY SEA CAFE DARTMOUTH NS,TWO IF BY SEA CAFE DARTMOUTH NS,Expenses:Dining-Out
+ZOTERO.ORG 8778877815 VA,ZOTERO.ORG 8778877815 VA,Expenses:Subscriptions
+SKR*AbeBooks 44L5QE London GBR,SKR*AbeBooks 44L5QE London GBR,Expenses:Books
+UNIVERSITY CLUB HALIFAX NS,UNIVERSITY CLUB HALIFAX NS,Expenses:Alcohol
+CAFE 98 ON PORTLAND DARTMOUTH NS,CAFE 98 ON PORTLAND DARTMOUTH NS,Expenses:Dining-Out
+HAPPY DUDES SURF EMPOR THREE FATHOM NS,HAPPY DUDES SURF EMPOR THREE FATHOM NS,Expenses:Equipment
+BLOOMEX CA 888-912-566 OTTAWA ON,BLOOMEX CA 888-912-566 OTTAWA ON,Expenses:Unknown
+JULIEN'S PASTRY SHOP HALIFAX NS,JULIEN'S PASTRY SHOP HALIFAX NS,Expenses:Groceries
+BURNSIDE FIBERGLASS MA DARTMOUTH NS,BURNSIDE FIBERGLASS MA DARTMOUTH NS,Expenses:Supplies
+HALIFAX OST. HEALTH CE HALIFAX NS,HALIFAX OST. HEALTH CE HALIFAX NS,Expenses:Medical
+SHOPPERSDRUGMART0584 BEDFORD NS,SHOPPERSDRUGMART0584 BEDFORD NS,Expenses:Supplies
+VETCETERA ANIMAL HOSPI BEDFORD NS,VETCETERA ANIMAL HOSPI BEDFORD NS,Expenses:Pets
+WWW TRF DDA - 3723,WWW TRF DDA - 3723,Expenses:Misc
+WWW3RD PTY DEP-9010,WWW3RD PTY DEP-9010,Expenses:Misc
+WWW3RD PTY DEP-4568,WWW3RD PTY DEP-4568,Expenses:Misc
+WWW TRF DDA - 2864,WWW TRF DDA - 2864,Orphan
+WWW TRF DDA - 3768,WWW TRF DDA - 3768,Orphan
+WWW TRF DDA - 3335,WWW TRF DDA - 3335,Orphan
+WWW TRF DDA - 5816,WWW TRF DDA - 5816,Orphan
+WWW TRF DDA - 1543,WWW TRF DDA - 1543,Orphan
+LAWTONS 112 QPS HALIFAX NS,LAWTONS 112 QPS HALIFAX NS,Expenses:Supplies
+PETROCAN AULD'S COVE NS,PETROCAN AULD'S COVE NS,Expenses:Auto:Petrol
+LOCAL JO CAFE &amp; MARKET HALIFAX NS,LOCAL JO CAFE &amp; MARKET HALIFAX NS,Expenses:Dining-Out
+TIM HORTONS 1995 QTH TRURO NS,TIM HORTONS 1995 QTH TRURO NS,Expenses:Dining-Out
+CNIB 800-563-2642 ON,CNIB 800-563-2642 ON,Orphan
+NEWFOUNDLAND CHOCOLATE HALIFAX NS,NEWFOUNDLAND CHOCOLATE HALIFAX NS,Expenses:Gifts
+TIM HORTONS 1742 QTH HALIFAX NS,TIM HORTONS 1742 QTH HALIFAX NS,Expenses:Dining-Out
+INDIGO - HALIFAX CENTR HALIFAX NS,INDIGO - HALIFAX CENTR HALIFAX NS,Expenses:Books
+STARBUCKS 04085 HALIFAX NS,STARBUCKS 04085 HALIFAX NS,Expenses:Dining-Out
+SQ *POISON PEAR Halifax NS,SQ *POISON PEAR Halifax NS,Expenses:Gifts
+ATLANTIC WHOLESALERS LWR SACKVILLENS,ATLANTIC WHOLESALERS LWR SACKVILLENS,Expenses:Groceries
+TANTALLON PHARMASAVE S UPPER TANTALLNS,TANTALLON PHARMASAVE S UPPER TANTALLNS,Expenses:Medical
+ESSO BEDFORD NS,ESSO BEDFORD NS,Expenses:Auto:Petrol
+HUMBLE PIE KITCHEN DARTMOUTH NS,HUMBLE PIE KITCHEN DARTMOUTH NS,Expenses:Dining-Out
+MA BELLE'S CAFE DARTMOUTH NS,MA BELLE'S CAFE DARTMOUTH NS,Expenses:Dining-Out
+GOOGLE *Google Play g.co/helppay#NS,GOOGLE *Google Play g.co/helppay#NS,Expenses:Media
+WWW TRF DDA - 0274,WWW TRF DDA - 0274,Orphan
+WWW TRF DDA - 5943,WWW TRF DDA - 5943,Orphan
+WWW TRF DDA - 5757,Orphan,Orphan
+WWW3RD PTY DEP-2093,WWW3RD PTY DEP-2093,Orphan
+VINA'S JEWELLER,VINA'S JEWELLER,Expenses:Maintenance
+WWW3RD PTY DEP-0982,WWW3RD PTY DEP-0982,Orphan
+WWW3RD PTY DEP-9107,WWW3RD PTY DEP-9107,Orphan
+WWW3RD PTY DEP-2094,WWW3RD PTY DEP-2094,Orphan
+WWW TRF DDA - 5770,WWW TRF DDA - 5770,Orphan
+WWW TRF DDA - 3695,WWW TRF DDA - 3695,Orphan
+WWW TRF DDA - 3908,WWW TRF DDA - 3908,Orphan
+WWW TRF DDA - 8503,WWW TRF DDA - 8503,Orphan
+WWW TRF DDA - 3726,WWW TRF DDA - 3726,Orphan
+WWW TRF DDA - 9443,WWW TRF DDA - 9443,Orphan
+WWW TRF DDA - 3930,WWW TRF DDA - 3930,Orphan
+WWW TRF DDA - 3884,WWW TRF DDA - 3884,Orphan
+WWW TRF DDA - 9045,WWW TRF DDA - 9045,Orphan
+PAVIA GALLERY ESPRESSO HALIFAX NS,PAVIA GALLERY ESPRESSO HALIFAX NS,Expenses:Dining-Out
+WENDY'S QUINPOOL RDQ01 HALIFAX NS,WENDY'S QUINPOOL RDQ01 HALIFAX NS,Expenses:Dining-Out
+CATERPILLAR BABY YORK ON,CATERPILLAR BABY YORK ON,Expenses:Gifts
+PAVIA - ESPRESSO BAR &amp; HALIFAX NS,PAVIA - ESPRESSO BAR &amp; HALIFAX NS,Expenses:Dining-Out
+PAY AND DISPLAY HALIFAX NS,PAY AND DISPLAY HALIFAX NS,Expenses:Unknown
+CANADIAN UNICEF COMMIT 416-482-4444 ON,CANADIAN UNICEF COMMIT 416-482-4444 ON,Expenses:Charity
+SOBEYS 580 QPS BEDFORD NS,SOBEYS 580 QPS BEDFORD NS,Expenses:Groceries
+LUCKY PENNY COFFEE CO HALIFAX NS,LUCKY PENNY COFFEE CO HALIFAX NS,Expenses:Dining-Out
+TO GO HFX HOLLIS ST HALIFAX NS,TO GO HFX HOLLIS ST HALIFAX NS,Expenses:Dining-Out
+NSLC #2193 BEDFORD NS,NSLC #2193 BEDFORD NS,Expenses:Gifts
+LAWTONS # 2754 HALIFAX NS,LAWTONS # 2754 HALIFAX NS,Expenses:Misc
+INDIGO ONLINE BRAMPTON ON,INDIGO ONLINE BRAMPTON ON,Expenses:Gifts
+SUBWAY # 28088 DARMOUTH NS,SUBWAY # 28088 DARMOUTH NS,Expenses:Dining-Out
+SQ *THE QUARRELSOME YE gosq.com NS,SQ *THE QUARRELSOME YE gosq.com NS,Expenses:Gifts
+NURTURED HALIFAX NS,NURTURED HALIFAX NS,Expenses:Gifts
+BED BATH &amp; BEYOND #229 RICHMOND HILLON,BED BATH &amp; BEYOND #229 RICHMOND HILLON,Expenses:Supplies
+4341 GB HALIFAX BARRIN HALIFAX NS,4341 GB HALIFAX BARRIN HALIFAX NS,Expenses:Unknown
+PAYPAL *WIKIMEDIAFO 4158396885 CA,PAYPAL *WIKIMEDIAFO 4158396885 CA,Expenses:Charity
+ROCK BOTTOM BREWERY HALIFAX NS,ROCK BOTTOM BREWERY HALIFAX NS,Expenses:Reimbursable
+ETSY.COM - COACHHOUSEFORGETSY.COM,ETSY.COM - COACHHOUSEFORGETSY.COM,Expenses:Gifts
+WPY*SHANNON PARK 855-469-3729 BC,WPY*SHANNON PARK 855-469-3729 BC,Expenses:Unknown
+CINEPLEX 5143 HALIFAX NS,CINEPLEX 5143 HALIFAX NS,Expenses:Dining-Out
+PAYPAL *GEOMATICSAS 4029357733 ON,PAYPAL *GEOMATICSAS 4029357733 ON,Expenses:Reimbursable
+MISC PAYMENT -PAYPAL,MISC PAYMENT -PAYPAL,Expenses:Misc
+WWW TRF DDA -  9771,WWW TRF DDA -  9771,Expenses:Misc
+PROV/LOCAL GVT PYMT -CANADA,PROV/LOCAL GVT PYMT -CANADA,Expenses:Tax
+MISC PAYMENT -PAYPAL,MISC PAYMENT -PAYPAL,Liabilities:Paypal
+WWW TRF DDA -  9771,WWW TRF DDA -  9771,Orphan
+PROV/LOCAL GVT PYMT -CANADA,PROV/LOCAL GVT PYMT -CANADA,Expenses:Taxes:Provincial
+IDP PURCHASE - xx18 -CROSSROADS COUN,IDP PURCHASE - xx18 -CROSSROADS COUN,Expenses:Misc
+PTB WD --- HCxx0191,PTB WD --- HCxx0191,Assets:Cash
+WWW3RD PTY DEP-9148,WWW3RD PTY DEP-9148,Expenses:Reimbursable
+IDP PURCHASE - xx80 -REVANA PIZZA,IDP PURCHASE - xx80 -REVANA PIZZA,Expenses:Dining-Out
+WWW3RD PTY DEP-3987,WWW3RD PTY DEP-3987,Expenses:Reimbursable
+WWW3RD PTY DEP-0816,WWW3RD PTY DEP-0816,Equity:Hilary
+WWW3RD PTY DEP-8205,WWW3RD PTY DEP-8205,Equity:Hilary
+WWW TRF DDA -  6115,WWW TRF DDA -  6115,Orphan
+WWW3RD PTY DEP-6622,WWW3RD PTY DEP-6622,Equity:Hilary
+WWW3RD PTY DEP-3571,WWW3RD PTY DEP-3571,Equity:Hilary
+WWW3RD PTY DEP-2299,WWW3RD PTY DEP-2299,Equity:Hilary
+WWW3RD PTY DEP-2094,WWW3RD PTY DEP-2094,Equity:Hilary
+WWW3RD PTY DEP-9107,WWW3RD PTY DEP-9107,Equity:Hilary
+PTB WD --- HFxx8528,PTB WD --- HFxx8528,Assets:Cash
+WWW3RD PTY DEP-0982,WWW3RD PTY DEP-0982,Equity:Hilary
+IDP PURCHASE - xx40 -VINA'S JEWELLER,IDP PURCHASE - xx40 -VINA'S JEWELLER,Expenses:Maintenance
+WWW3RD PTY DEP-2093,WWW3RD PTY DEP-2093,Equity:Hilary
+WWW TRF DDA -  0274,WWW TRF DDA -  0274,Orphan
+WWW TRF DDA -  5757,WWW TRF DDA -  5757,Assets:RBC:Joint
+WWW TRF DDA -  5943,WWW TRF DDA -  5943,Assets:RBC:eSavings
+PTB WD --- xxxx4192,PTB WD --- xxxx4192,Assets:Cash
+INTERAC-SC-4192,INTERAC-SC-4192,Expenses:Bank-Fees
+WWW TRANSFER - 8884,WWW TRANSFER - 8884,Assets:RBC:Joint
+WWW TRANSFER - 6204,WWW TRANSFER - 6204,Assets:RBC:Joint
+WWW TRANSFER - 6264,WWW TRANSFER - 6264,Assets:RBC:Joint
+WWW TRANSFER - 6794,WWW TRANSFER - 6794,Assets:RBC:Joint
+WWW TRF DDA -  4597,WWW TRF DDA -  4597,Assets:RBC:Joint
+WWW TRANSFER - 5715,WWW TRANSFER - 5715,Assets:RBC:Joint
+WWW TRANSFER - 8819,WWW TRANSFER - 8819,Assets:RBC:Joint
+WWW TRANSFER - 4626,WWW TRANSFER - 4626,Assets:RBC:Joint
+WWW TRANSFER - 3436,WWW TRANSFER - 3436,Assets:RBC:Joint
+WWW TRF DDA -  2457,WWW TRF DDA -  2457,Assets:RBC:Joint
+WWW TRANSFER - 9488,WWW TRANSFER - 9488,Assets:RBC:Joint
+WWW TRANSFER - 0065,WWW TRANSFER - 0065,Assets:RBC:Joint
+WWW TRANSFER - 9045,WWW TRANSFER - 9045,Assets:RBC:Joint
+WWW TRANSFER - 3930,WWW TRANSFER - 3930,Assets:RBC:Joint
+WWW TRANSFER - 8503,WWW TRANSFER - 8503,Assets:RBC:Joint
+WWW TRANSFER - 3695,WWW TRANSFER - 3695,Assets:RBC:Joint
+WWW TRANSFER - 0274,WWW TRANSFER - 0274,Assets:RBC:Cheque
+WWW TRANSFER - 5943,WWW TRANSFER - 5943,Assets:RBC:Cheque
+WWW PAYMENT -  3285,WWW PAYMENT -  3285,Equity:Hilary
+PAYROLL DEPOSIT -PRECISIONHAWK I,PAYROLL DEPOSIT -PRECISIONHAWK I,Income:Salary
+INTERAC E-TRF- 5453,INTERAC E-TRF- 5453,Expenses:Reimbursable
+MUTUAL FUNDS -SPECIAL DEPOSIT,MUTUAL FUNDS -SPECIAL DEPOSIT,Assets:RBC:RRSP-Savings
+INVESTMENT -SPECIAL DEPOSIT,INVESTMENT -SPECIAL DEPOSIT,Assets:RBC:RRSP-Savings
+EI -CANADA,EI -CANADA,Income:Hilary
+WWW TRF DDA -  8884,WWW TRF DDA -  8884,Assets:RBC:TFSA-Savings
+WWW PAYMENT -  1404,WWW PAYMENT -  1404,Equity:Hilary
+WWW PAYMENT -  9225,WWW PAYMENT -  9225,Expenses:Travel
+PTB WD --- HFxx0351,PTB WD --- HFxx0351,Expenses:Travel
+PTB DEP -- HAxx4569,PTB DEP -- HAxx4569,Expenses:Travel
+INTERAC E-TRF- 9243,INTERAC E-TRF- 9243,Expenses:Reimbursable
+WWW TRANSFER - 9771,WWW TRANSFER - 9771,Assets:RBC:Cheque
+INVESTMENT -SPECIAL DEPOSIT,INVESTMENT -SPECIAL DEPOSIT,Assets:RBC:TFSA-Savings
+PTB WD --- HFxx9872,PTB WD --- HFxx9872,Orphan
+PTB WD --- HFxx3998,PTB WD --- HFxx3998,Orphan
+MISC PAYMENT -TFSA,MISC PAYMENT -TFSA,Orphan
+WWW TRANSFER - 5136,WWW TRANSFER - 5136,Liabilities:RBC:MASTERCARD
+WWW TRANSFER - 5260,WWW TRANSFER - 5260,Liabilities:RBC:VISA
+INTERAC E-TRF- 1362,INTERAC E-TRF- 1362,Expenses:Reimbursable
+INTERAC E-TRF- 3741,INTERAC E-TRF- 3741,Expenses:Reimbursable
+WWW TRF DDA -  6204,WWW TRF DDA -  6204,Assets:RBC:TFSA-Savings
+WWW PAYMENT -  9206,WWW PAYMENT -  9206,Equity:Hilary
+CHEQUE,CHEQUE,Expenses:Taxes:Provincial
+WWW PAYMENT -  0158,WWW PAYMENT -  0158,Equity:Hilary
+PTB WD --- HGxx3784,PTB WD --- HGxx3784,Orphan
+WWW TRF DDA -  6264,WWW TRF DDA -  6264,Assets:RBC:TFSA-Savings
+UTILITY BILL PMT -NSPI,UTILITY BILL PMT -NSPI,Expenses:Utilities:Electricity
+PTB DEP -- HCxx9585,PTB DEP -- HCxx9585,Orphan
+WWW TRANSFER - 4442,WWW TRANSFER - 4442,Orphan
+WWW PAYMENT -  xx87 -SCOTIA FUELS,WWW PAYMENT -  xx87 -SCOTIA FUELS,Expenses:Utilities:Heat
+WWW TRANSFER - 4433,WWW TRANSFER - 4433,Liabilities:RBC:MASTERCARD
+WWW TRANSFER - 3554,WWW TRANSFER - 3554,Liabilities:RBC:VISA
+WWW TRF DDA -  6794,WWW TRF DDA -  6794,Assets:RBC:TFSA-Savings
+PTB WD --- HFxx8993,PTB WD --- HFxx8993,Assets:RBC:RRSP-Savings
+WWW PAYMENT -  1186,WWW PAYMENT -  1186,Equity:Hilary
+INTERAC E-TRF- 0838,INTERAC E-TRF- 0838,Expenses:Reimbursable
+WWW TRANSFER - 4597,WWW TRANSFER - 4597,Assets:RBC:eSavings
+RESP CONTRIBUTION -KFF RESP REEE,RESP CONTRIBUTION -KFF RESP REEE,Assets:Investments:RESP-Bronwyn
+WWW PAYMENT -  9511,WWW PAYMENT -  9511,Equity:Hilary
+WWW TRANSFER - 7713,WWW TRANSFER - 7713,Equity:Hilary
+WWW TRF DDA -  5715,WWW TRF DDA -  5715,Assets:RBC:TFSA-Savings
+PTB WD --- HFxx7071,PTB WD --- HFxx7071,Assets:RBC:RRSP-Savings
+WWW TRF DDA -  8819,WWW TRF DDA -  8819,Assets:RBC:TFSA-Savings
+WWW PAYMENT -  6764,WWW PAYMENT -  6764,Assets:RBC:TFSA-Savings
+WWW TRF DDA -  7754,WWW TRF DDA -  7754,Orphan
+WWW PAYMENT -  3987,WWW PAYMENT -  3987,Orphan
+INSURANCE -GREAT-WEST LIFE,INSURANCE -GREAT-WEST LIFE,Expenses:Reimbursable
+UTILITY BILL PMT -HALIFAX WATER,UTILITY BILL PMT -HALIFAX WATER,Expenses:Utilities:Water
+WWW TRANSFER - 1399,WWW TRANSFER - 1399,Liabilities:RBC:MASTERCARD
+WWW TRANSFER - 1722,WWW TRANSFER - 1722,Liabilities:RBC:VISA
+WWW PAYMENT -  3884,WWW PAYMENT -  3884,Equity:Hilary
+WWW TRF DDA -  4626,WWW TRF DDA -  4626,Equity:Hilary
+WWW TRF DDA -  2922,WWW TRF DDA -  2922,Orphan
+WWW PAYMENT -  0816,WWW PAYMENT -  0816,Orphan
+INTERNET ACC. PYMT -AMEX,INTERNET ACC. PYMT -AMEX,Liabilities:AMEX
+WWW TRF DDA -  3436,WWW TRF DDA -  3436,Orphan
+WWW TRANSFER - 5241,WWW TRANSFER - 5241,Orphan
+WWW PAYMENT -  0658,WWW PAYMENT -  0658,Orphan
+WWW PAYMENT -  xx59 -SCOTIA FUELS,WWW PAYMENT -  xx59 -SCOTIA FUELS,Expenses:Utilities:Heat
+WWW TRF DDA -  1194,WWW TRF DDA -  1194,Orphan
+WWW PAYMENT -  8205,WWW PAYMENT -  8205,Orphan
+WWW TRANSFER - 1525,WWW TRANSFER - 1525,Liabilities:RBC:VISA
+WWW TRANSFER - 0709,WWW TRANSFER - 0709,Liabilities:RBC:MASTERCARD
+WWW TRANSFER - 2457,WWW TRANSFER - 2457,Orphan
+WWW TRANSFER - 6115,WWW TRANSFER - 6115,Orphan
+PTB WD --- HDxx5954,PTB WD --- HDxx5954,Orphan
+PTB DEP -- HAxx7246,PTB DEP -- HAxx7246,Orphan
+WWW TRF DDA -  4190,WWW TRF DDA -  4190,Orphan
+WWW PAYMENT -  8781,WWW PAYMENT -  8781,Orphan
+WWW TRF DDA -  9488,WWW TRF DDA -  9488,Orphan
+WWW TRANSFER - 7557,WWW TRANSFER - 7557,Orphan
+WWW TRF DDA -  6708,WWW TRF DDA -  6708,Orphan
+WWW PAYMENT -  6622,WWW PAYMENT -  6622,Orphan
+WWW PAYMENT -  0550,WWW PAYMENT -  0550,Orphan
+WWW TRF DDA -  0065,WWW TRF DDA -  0065,Orphan
+WWW TRF DDA -  7519,WWW TRF DDA -  7519,Orphan
+WWW PAYMENT -  2299,WWW PAYMENT -  2299,Orphan
+WWW PAYMENT -  xx74 -SCOTIA FUELS,WWW PAYMENT -  xx74 -SCOTIA FUELS,Expenses:Utilities:Heat
+WWW TRANSFER - 9681,WWW TRANSFER - 9681,Orphan
+PTB WD --- HCxx2627,PTB WD --- HCxx2627,Orphan
+WWW TRF DDA -  9045,WWW TRF DDA -  9045,Orphan
+WWW PAYMENT -  7114,WWW PAYMENT -  7114,Orphan
+WWW TRANSFER - 3429,WWW TRANSFER - 3429,Liabilities:RBC:VISA
+WWW TRANSFER - 4669,WWW TRANSFER - 4669,Liabilities:RBC:MASTERCARD
+WWW TRF DDA -  3884,WWW TRF DDA -  3884,Orphan
+WWW PAYMENT -  2094,WWW PAYMENT -  2094,Orphan
+PTB WD --- HGxx9886,PTB WD --- HGxx9886,Expenses:Reimbursable
+WWW TRANSFER - 6612,WWW TRANSFER - 6612,Liabilities:RBC:MASTERCARD
+WWW TRANSFER - 6331,WWW TRANSFER - 6331,Liabilities:RBC:VISA
+WWW TRF DDA -  3930,WWW TRF DDA -  3930,Orphan
+WWW PAYMENT -  0557,WWW PAYMENT -  0557,Orphan
+WWW TRF DDA -  9443,WWW TRF DDA -  9443,Orphan
+WWW PAYMENT -  9107,WWW PAYMENT -  9107,Orphan
+WWW TRF DDA -  3726,WWW TRF DDA -  3726,Orphan
+PTB DEP -- HFxx8527,PTB DEP -- HFxx8527,Orphan
+WWW TRANSFER - 1595,WWW TRANSFER - 1595,Orphan
+WWW PAYMENT -  6842,WWW PAYMENT -  6842,Orphan
+WWW TRF DDA -  8503,WWW TRF DDA -  8503,Orphan
+WWW PAYMENT -  0982,WWW PAYMENT -  0982,Orphan
+WWW TRF DDA -  3908,WWW TRF DDA -  3908,Orphan
+PTB WD --- HFxx5772,PTB WD --- HFxx5772,Orphan
+WWW TRANSFER - 4666,WWW TRANSFER - 4666,Orphan
+WWW TRF DDA -  3695,WWW TRF DDA -  3695,Orphan
+WWW PAYMENT -  3807,WWW PAYMENT -  3807,Orphan
+WWW TRF DDA -  5770,WWW TRF DDA -  5770,Orphan
+WWW PAYMENT -  2093,WWW PAYMENT -  2093,Orphan
+WWW TRANSFER - 0131,WWW TRANSFER - 0131,Liabilities:RBC:MASTERCARD
+WWW TRANSFER - 5757,WWW TRANSFER - 5757,Orphan
+WWW TRANSFER - 0192,WWW TRANSFER - 0192,Liabilities:RBC:VISA
+KOODO TOP UP REAPPROV    xxx-xxx6636  AB,KOODO TOP UP REAPPROV    xxx-xxx6636  AB,Expenses:Utilities:Cellphone
+PALM SPRINGS FLST INC    PALM SPRINGS CA       71.01 USD        @    1.xxxxxxxx0000,PALM SPRINGS FLST INC    PALM SPRINGS CA       71.01 USD        @    1.xxxxxxxx0000,Expenses:Travel
+RALPHS # 0611            PALM SPRINGS CA       43.31 USD        @    1.xxxxxxxx0000,RALPHS # 0611            PALM SPRINGS CA       43.31 USD        @    1.xxxxxxxx0000,Expenses:Travel
+AIR CAN*    0xxxxxxxx1457AIRCANADA.COMMB,AIR CAN*    0xxxxxxxx1457AIRCANADA.COMMB,Expenses:Travel
+ETSY.COM - KOOLKOOLTHANGSETSY.COM,ETSY.COM - KOOLKOOLTHANGSETSY.COM,Expenses:Gift
+AIRBNB                   xxxxxxx5959,AIRBNB                   xxxxxxx5959,Expenses:Travel
+THE HUNGRY HUT     QFF   DARTMOUTH    NS,THE HUNGRY HUT     QFF   DARTMOUTH    NS,Expenses:Dining-Out
+ETSY.COM - KOOLKOOLTHANGSETSY.COM,ETSY.COM - KOOLKOOLTHANGSETSY.COM,Expenses:Gifts
+SOBEYS 554        QPS    HALIFAX      NS,SOBEYS 554        QPS    HALIFAX      NS,Expenses:Groceries
+ETSY.COM - UPTOWNYVETTE  ETSY.COM,ETSY.COM - UPTOWNYVETTE  ETSY.COM,Expenses:Gifts
+CAFE 98 ON PORTLAND      DARTMOUTH    NS,CAFE 98 ON PORTLAND      DARTMOUTH    NS,Expenses:Dining-Out
+T2 BRKLYN BEER GARDEN    xxxxxx3558   NY       46.94 USD              @   1.3227,T2 BRKLYN BEER GARDEN    xxxxxx3558   NY       46.94 USD              @   1.3227,Expenses:Reimbursable
+SQ *GALAXY TAXI & LIMOUSIHalifax      NS,SQ *GALAXY TAXI & LIMOUSIHalifax      NS,Expenses:Reimbursable
+EXXONMOBIL    xxxx1444   RALEIGH      NC       18.67 USD              @   1.3224,EXXONMOBIL    xxxx1444   RALEIGH      NC       18.67 USD              @   1.3224,Expenses:Reimbursable
+SASSOOL                  RALEIGH      NC       18.62 USD              @   1.3265,SASSOOL                  RALEIGH      NC       18.62 USD              @   1.3265,Expenses:Reimbursable
+TROPHY TAP & TABLE       RALEIGH      NC      112.46 USD              @   1.3266,TROPHY TAP & TABLE       RALEIGH      NC      112.46 USD              @   1.3266,Expenses:Reimbursable
+URBAN CRAVE              JAMAICA      NY       47.31 USD              @   1.3227,URBAN CRAVE              JAMAICA      NY       47.31 USD              @   1.3227,Expenses:Reimbursable
+CHICK-FIL-A #x1963       RALEIGH      NC        7.42 USD              @   1.3234,CHICK-FIL-A #x1963       RALEIGH      NC        7.42 USD              @   1.3234,Expenses:Reimbursable
+BACKYARD BISTRO          RALEIGH      NC       69.22 USD              @   1.3247,BACKYARD BISTRO          RALEIGH      NC       69.22 USD              @   1.3247,Expenses:Reimbursable
+PNC ARENA PARKING        RALEIGH      NC       20.00 USD              @   1.3250,PNC ARENA PARKING        RALEIGH      NC       20.00 USD              @   1.3250,Expenses:Reimbursable
+DELTA AIR   Seat Fees    DELTA.COM    QC,DELTA AIR   Seat Fees    DELTA.COM    QC,Expenses:Reimbursable
+NETFOX COMMUNICATIONS CORPRESCOTT     ON,NETFOX COMMUNICATIONS CORPRESCOTT     ON,Expenses:Utilities:Internet
+THE PINT PUBLIC HOUSE HALHALIFAX      NS,THE PINT PUBLIC HOUSE HALHALIFAX      NS,Expenses:Reimbursable
+TICKETS xxxxxxxxxx       xxx-xxx-4000 CT      216.27 USD              @   1.3274,TICKETS xxxxxxxxxx       xxx-xxx-4000 CT      216.27 USD              @   1.3274,Expenses:Entertainment
+RINALDOS ITALIAN AMERICANHALIFAX      NS,RINALDOS ITALIAN AMERICANHALIFAX      NS,Expenses:Reimbursable
+TWO IF BY SEA CAFE       DARTMOUTH    NS,TWO IF BY SEA CAFE       DARTMOUTH    NS,Expenses:Dining-Out
+WENTWORTH                WENTWORTH    NS,WENTWORTH                WENTWORTH    NS,Expenses:Recreation
+SOBEYS 806               DARTMOUTH    NS,SOBEYS 806               DARTMOUTH    NS,Expenses:Groceries
+SUBWAY # x8088           DARMOUTH     NS,SUBWAY # x8088           DARMOUTH     NS,Expenses:Dining-Out
+TACO DEL MAR xx2109      HALIFAX      NS,TACO DEL MAR xx2109      HALIFAX      NS,Expenses:Reimbursable
+ANNUAL FEE,ANNUAL FEE,Expenses:Bank-Fees
+SOBEY'S FAST FUEL #451   BEDFORD      NS,SOBEY'S FAST FUEL #451   BEDFORD      NS,Expenses:Auto:Petrol
+PAYPAL *DANCARLIN        xxxxxx7733   OR,PAYPAL *DANCARLIN        xxxxxx7733   OR,Expenses:Media
+TIM HORTONS #0053        HALIFAX      NS,TIM HORTONS #0053        HALIFAX      NS,Expenses:Dining-Out
+LAWRENCETOWN RESTAURAN   LAWRENCETOWN NS,LAWRENCETOWN RESTAURAN   LAWRENCETOWN NS,Expenses:Reimbursable
+PAYPAL *PRECISIONHA      xxxxxx7733   ON,PAYPAL *PRECISIONHA      xxxxxx7733   ON,Expenses:Reimbursable
+TIM HORTONS #1288        DARTMOUTH    NS,TIM HORTONS #1288        DARTMOUTH    NS,Expenses:Dining-Out
+THE CANTEEN              DARTMOUTH    NS,THE CANTEEN              DARTMOUTH    NS,Expenses:Reimbursable
+LAWTONS # 2754           HALIFAX      NS,LAWTONS # 2754           HALIFAX      NS,Expenses:Supplies
+GOLDEN FORTUNE RESTAURANTHALIFAX      NS,GOLDEN FORTUNE RESTAURANTHALIFAX      NS,Expenses:Dining-Out
+ARMVIEW GRILL CO LTD     HALIFAX      NS,ARMVIEW GRILL CO LTD     HALIFAX      NS,Expenses:Reimbursable
+CASINO TAXI 2            HALIFAX      NS,CASINO TAXI 2            HALIFAX      NS,Expenses:Misc
+T-ROOM                   HALIFAX      NS,T-ROOM                   HALIFAX      NS,Expenses:Reimbursable
+EAST SIDE MARIOS #8695   HALIFAX      NS,EAST SIDE MARIOS #8695   HALIFAX      NS,Expenses:Reimbursable
+CASINO TAXI 2            HALIFAX      NS,CASINO TAXI 2            HALIFAX      NS,Expenses:Reimbursable
+THE HENRY HOUSE          HALIFAX      NS,THE HENRY HOUSE          HALIFAX      NS,Expenses:Reimbursable
+KARTBAHN RACING          HALIFAX      NS,KARTBAHN RACING          HALIFAX      NS,Expenses:Reimbursable
+DAIRY QUEEN #x2123       HALIFAX      NS,DAIRY QUEEN #x2123       HALIFAX      NS,Expenses:Reimbursable
+ESSO 1 FALKLAND STREET   LUNENBURG    NS,ESSO 1 FALKLAND STREET   LUNENBURG    NS,Expenses:Auto:Petrol
+LUNENBURG BURGER KING    LUNENBURG    NS,LUNENBURG BURGER KING    LUNENBURG    NS,Expenses:Dining-Out
+ALPINE  TAXI & LIMO      HALIFAX      NS,ALPINE  TAXI & LIMO      HALIFAX      NS,Expenses:Reimbursable
+PAYPAL *BOINGOWIREL BOI  xxxxxx7733   CA,PAYPAL *BOINGOWIREL BOI  xxxxxx7733   CA,Expenses:Reimbursable
+CHICK-FIL-A  #0849       GREENSBORO   NC        2.51 USD        @    1.xxxxxxxx0000,CHICK-FIL-A  #0849       GREENSBORO   NC        2.51 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+STARBUCKS STORE x0808    GREENSBORO   NC        5.02 USD        @    1.xxxxxxxx0000,STARBUCKS STORE x0808    GREENSBORO   NC        5.02 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+AIR CANADA  0xxxxxxxx6938WINNIPEG     MB       31.50 USD        @    1.xxxxxxxx0000,AIR CANADA  0xxxxxxxx6938WINNIPEG     MB       31.50 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+RDU FIVE GUYS            RALEIGH      NC       13.72 USD        @    1.xxxxxxxx0000,RDU FIVE GUYS            RALEIGH      NC       13.72 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+BOCCONE BY MASSIMO       MISSISSAUGA  ON,BOCCONE BY MASSIMO       MISSISSAUGA  ON,Expenses:Reimbursable
+GATE CITY BILLIARDS CL   GREENSBORO   NC       15.00 USD        @    1.xxxxxxxx0000,GATE CITY BILLIARDS CL   GREENSBORO   NC       15.00 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+UBER   TRIP BWXJE        xxxxxx8996   CA       17.06 USD        @    1.xxxxxxxx0000,UBER   TRIP BWXJE        xxxxxx8996   CA       17.06 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+"THE BODY SHOP CANADA, LTDMISSISSAUGA  ON","THE BODY SHOP CANADA, LTDMISSISSAUGA  ON",Expenses:Gifts
+SQ *TOP RANK TAXI AND TRARaleigh      NC       42.00 USD        @    1.xxxxxxxx0000,SQ *TOP RANK TAXI AND TRARaleigh      NC       42.00 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+C2 - CIBO EXPRESS C104   NEWARK       NJ        5.32 USD        @    1.xxxxxxxx0000,C2 - CIBO EXPRESS C104   NEWARK       NJ        5.32 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+UNITED AIR  0xxxxxxxx7758ENFIELD      NS       69.00 USD        @    1.xxxxxxxx0000,UNITED AIR  0xxxxxxxx7758ENFIELD      NS       69.00 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+HMS HOST HALIFAX AIRPO   ENFIELD      NS,HMS HOST HALIFAX AIRPO   ENFIELD      NS,Expenses:Reimbursable
+TAXI SVC RDU AIRPORT     RDU AIRPORT  NC       14.80 USD        @    1.xxxxxxxx0000,TAXI SVC RDU AIRPORT     RDU AIRPORT  NC       14.80 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+LOS TRES MEXICAN R       RALEIGH      NC       20.08 USD        @    1.xxxxxxxx0000,LOS TRES MEXICAN R       RALEIGH      NC       20.08 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+HUDSONNEWS  ST697        MORRISVILLE  NC        5.03 USD        @    1.xxxxxxxx0000,HUDSONNEWS  ST697        MORRISVILLE  NC        5.03 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+REVANA PIZZA             DARTMOUTH    NS,REVANA PIZZA             DARTMOUTH    NS,Expenses:Reimbursable
+THE OLD TRIANGLE HALIFAX HALIFAX      NS,THE OLD TRIANGLE HALIFAX HALIFAX      NS,Expenses:Reimbursable
+IMPARKxxxx0019U          HALIFAX      NS,IMPARKxxxx0019U          HALIFAX      NS,Expenses:Reimbursable
+Amazon.ca Prime Member   amazon.ca/priBC,Amazon.ca Prime Member   amazon.ca/priBC,Expenses:Subscriptions
+PURCHASE INTEREST         19.99%,PURCHASE INTEREST         19.99%,Expenses:Interest
+PP*HUMBLEBUNDL           xxxxxx7733   CA,PP*HUMBLEBUNDL           xxxxxx7733   CA,Expenses:Medi
+JAKE'S VIDEO & VARIETY   DARTMOUTH    NS,JAKE'S VIDEO & VARIETY   DARTMOUTH    NS,Expenses:Dining-Out
+PAYPAL *GEOMATICSAS      xxxxxx7733   ON,PAYPAL *GEOMATICSAS      xxxxxx7733   ON,Expenses:Reimbursable
+PP*HUMBLEBUNDL           xxxxxx7733   CA,PP*HUMBLEBUNDL           xxxxxx7733   CA,Expenses:Media
+TWIST T1                 MISSISSAUGA  ON,TWIST T1                 MISSISSAUGA  ON,Expenses:Reimbursable
+AIR CANADA  0xxxxxxxx5953WINNIPEG     MB        44.2 USD              @   1.2764,AIR CANADA  0xxxxxxxx5953WINNIPEG     MB        44.2 USD              @   1.2764,Expenses:Reimbursable
+CHICK-FIL-A #x1963       RALEIGH      NC        7.13 USD              @   1.2819,CHICK-FIL-A #x1963       RALEIGH      NC        7.13 USD              @   1.2819,Expenses:Reimbursable
+GONZA TACOS Y TEQU       RALEIGH      NC       25.65 USD        @    1.xxxxxxxx0000,GONZA TACOS Y TEQU       RALEIGH      NC       25.65 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+PANERA BREAD #xx1656     RALEIGH      NC       13.75 USD        @    1.xxxxxxxx0000,PANERA BREAD #xx1656     RALEIGH      NC       13.75 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+HUDSON NEWS  ST795       ELIZABETH    NJ        7.98 USD        @    1.xxxxxxxx0000,HUDSON NEWS  ST795       ELIZABETH    NJ        7.98 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+CASINO TAXI 1            HALIFAX      NS,CASINO TAXI 1            HALIFAX      NS,Expenses:Reimbursable
+THINK KITCHEN            HALIFAX      NS,THINK KITCHEN            HALIFAX      NS,Expenses:Gifts
+HALIFAX SEED COMPANY     HALIFAX      NS,HALIFAX SEED COMPANY     HALIFAX      NS,Expenses:Gifts
+#122 MARK'S              HALIFAX      NS,#122 MARK'S              HALIFAX      NS,Expenses:Equipment
+PAYPAL *INTERNETARC      xxx-xxx-7733 CA,PAYPAL *INTERNETARC      xxx-xxx-7733 CA,Liabilities:Paypal
+CINEPLEX 5143            HALIFAX      NS,CINEPLEX 5143            HALIFAX      NS,Expenses:Entertainment
+PAYPAL *WIKIMEDIAFO      xxxxxx6885   CA,PAYPAL *WIKIMEDIAFO      xxxxxx6885   CA,Expenses:Charity
+TRULY TASTY              HALIFAX      NS,TRULY TASTY              HALIFAX      NS,Expenses:Reimbursable
+CINEPLEX 8030 WEB QPS    xxx-xxx-6600 ON,CINEPLEX 8030 WEB QPS    xxx-xxx-6600 ON,Expenses:Entertainment
+WPY*SHANNON PARK         xxx-xxx-3729 BC,WPY*SHANNON PARK         xxx-xxx-3729 BC,Expenses:Misc
+ROCK BOTTOM BREWERY      HALIFAX      NS,ROCK BOTTOM BREWERY      HALIFAX      NS,Expenses:Reimbursable
+GOOGLE *Thomas Isaac     xxx-xxx-3987 NS,GOOGLE *Thomas Isaac     xxx-xxx-3987 NS,Expenses:Subscriptions
+BUDGET RENT-A-CAR        DORVAL       ON,BUDGET RENT-A-CAR        DORVAL       ON,Expenses:Travel
+MCDONALD'S #x8239  Q04   SACKVILLE    NB,MCDONALD'S #x8239  Q04   SACKVILLE    NB,Expenses:Travel
+LOBLAWS #1155            TORONTO      ON,LOBLAWS #1155            TORONTO      ON,Expenses:Travel
+YYZ TIM HORTON?S COFFE   MISSISSAUGA  ON,YYZ TIM HORTON?S COFFE   MISSISSAUGA  ON,Expenses:Travel
+UP EXPRESS x6601 OF 01   TORONTO      ON,UP EXPRESS x6601 OF 01   TORONTO      ON,Expenses:Travel
+BALZAC'S UPEXPRESS       TORONTO      ON,BALZAC'S UPEXPRESS       TORONTO      ON,Expenses:Travel
+ESSO                     TORONTO      ON,ESSO                     TORONTO      ON,Expenses:Travel
+DESTA MARKET INC.        TORONTO      ON,DESTA MARKET INC.        TORONTO      ON,Expenses:Groceries
+WYLIE'S BISTRO           TORONTO      ON,WYLIE'S BISTRO           TORONTO      ON,Expenses:Travel
+WESTJET  xxxxxxxxxxx4255 CALGARY      AB,WESTJET  xxxxxxxxxxx4255 CALGARY      AB,Expenses:Travel
+LCBO/RAO #0651           TORONTO      ON,LCBO/RAO #0651           TORONTO      ON,Expenses:Travel
+SHELL OIL 5xxxx6650QPS   PALM SPRINGS CA       31.37 USD        @    1.xxxxxxxx0000,SHELL OIL 5xxxx6650QPS   PALM SPRINGS CA       31.37 USD        @    1.xxxxxxxx0000,Expenses:Travel
+Hotwire Sales Final      xxxx xxx 3150,Hotwire Sales Final      xxxx xxx 3150,Expenses:Travel
+SHELL OIL 5xxxx1300QPS   LAKE ISABELLACA       29.48 USD        @    1.xxxxxxxx0000,SHELL OIL 5xxxx1300QPS   LAKE ISABELLACA       29.48 USD        @    1.xxxxxxxx0000,Expenses:Travel
+WESTJET  xxxxxxxxxxx0541 CALGARY      AB       19.52 USD        @    1.xxxxxxxx0000,WESTJET  xxxxxxxxxxx0541 CALGARY      AB       19.52 USD        @    1.xxxxxxxx0000,Expenses:Travel
+SIERRA GATEWAY MARKE     KERNVILLE    CA       77.80 USD        @    1.xxxxxxxx0000,SIERRA GATEWAY MARKE     KERNVILLE    CA       77.80 USD        @    1.xxxxxxxx0000,Expenses:Travel
+CHEVRON xxx3080          INYOKERN     CA       34.73 USD        @    1.xxxxxxxx0000,CHEVRON xxx3080          INYOKERN     CA       34.73 USD        @    1.xxxxxxxx0000,Expenses:Travel
+HOTWIRE*                 HOTWIRE.COM  WA       53.43 USD        @    1.xxxxxxxx0000,HOTWIRE*                 HOTWIRE.COM  WA       53.43 USD        @    1.xxxxxxxx0000,Expenses:Travel
+EXOTIC FELINE BREE       ROSAMOND     CA       20.00 USD        @    1.xxxxxxxx0000,EXOTIC FELINE BREE       ROSAMOND     CA       20.00 USD        @    1.xxxxxxxx0000,Expenses:Travel
+BEN AND JERRYS           PALM SPRINGS CA        6.75 USD        @    1.xxxxxxxx0000,BEN AND JERRYS           PALM SPRINGS CA        6.75 USD        @    1.xxxxxxxx0000,Expenses:Travel
+TAHQUITZ CREEK GOLF CO   PALM SPRINGS CA       44.00 USD        @    1.xxxxxxxx0000,TAHQUITZ CREEK GOLF CO   PALM SPRINGS CA       44.00 USD        @    1.xxxxxxxx0000,Expenses:Travel
+PF CHANGS #9300          RANCHO MIRAGECA       91.55 USD        @    1.xxxxxxxx0000,PF CHANGS #9300          RANCHO MIRAGECA       91.55 USD        @    1.xxxxxxxx0000,Expenses:Travel
+DICK'S SPORTI x1126      PALM DESERT  CA,DICK'S SPORTI x1126      PALM DESERT  CA,Expenses:Equipment
+RALPHS # 0611            PALM SPRINGS CA       62.85 USD        @    1.xxxxxxxx0000,RALPHS # 0611            PALM SPRINGS CA       62.85 USD        @    1.xxxxxxxx0000,Expenses:Travel
+NODE UPPER CRUST T1      MISSISSAUGA  ON,NODE UPPER CRUST T1      MISSISSAUGA  ON,Expenses:Travel
+QUALITY INN HALIFAX AI   GOFFS        NS,QUALITY INN HALIFAX AI   GOFFS        NS,Expenses:Travel
+HALIFAX HARBOUR BRIDGE   xxx-xxx-3100 NS,HALIFAX HARBOUR BRIDGE   xxx-xxx-3100 NS,Expenses:Transportation
+AVIVA GENERAL INSURANC   MARKHAM      ON,AVIVA GENERAL INSURANC   MARKHAM      ON,Expenses:Insurance
+NSLC #2185               SPRYFIELD    NS,NSLC #2185               SPRYFIELD    NS,Expenses:Alcohol
+SOBEYS 321        QPS    SPRYFIELD    NS,SOBEYS 321        QPS    SPRYFIELD    NS,Expenses:Groceries
+BONEHEADS BBQ            HALIFAX      NS,BONEHEADS BBQ            HALIFAX      NS,Expenses:Dining-Out
+WAL-MART #3636           HALIFAX      NS,WAL-MART #3636           HALIFAX      NS,Expenses:Equipment
+SOBEYS 881        QPS    HALIFAX      NS,SOBEYS 881        QPS    HALIFAX      NS,Expenses:Groceries
+BED BATH & BEYOND #229   RICHMOND HILLON,BED BATH & BEYOND #229   RICHMOND HILLON,Expenses:Equipment
+CHAIN-YARD CIDER         HALIFAX      NS,CHAIN-YARD CIDER         HALIFAX      NS,Expenses:Alcohol
+INDIGO - VIA RAIL HALI   HALIFAX      NS,INDIGO - VIA RAIL HALI   HALIFAX      NS,Expenses:Misc
+MOUNTAIN EQUIP CO-OP     HALIFAX      NS,MOUNTAIN EQUIP CO-OP     HALIFAX      NS,Expenses:Equipment
+FORUM EVENTS             HALIFAX      NS,FORUM EVENTS             HALIFAX      NS,Expenses:Misc
+VALUE VILLAGE 2046       HALIFAX      NS,VALUE VILLAGE 2046       HALIFAX      NS,Expenses:Clothes
+Amazon *Marketplce CA    WWW.AMAZON.CAON,Amazon *Marketplce CA    WWW.AMAZON.CAON,Expenses:Equipment
+CNIB                     xxx-xxx-2642 ON,CNIB                     xxx-xxx-2642 ON,Expenses:Charity
+DAIRY QUEEN #x2144       PORT HAWKESBUNS,DAIRY QUEEN #x2144       PORT HAWKESBUNS,Expenses:Dining-Out
+WENDY'S            Q1R   NEW GLASGOW  NS,WENDY'S            Q1R   NEW GLASGOW  NS,Expenses:Dining-Out
+CIRCLE K / IRVING #QPS   NEW GLASGOW  NS,CIRCLE K / IRVING #QPS   NEW GLASGOW  NS,Expenses:Auto:Petrol
+TIM HORTONS 0800 QTH     NEW GLASGOW  NS,TIM HORTONS 0800 QTH     NEW GLASGOW  NS,Expenses:Dining-Out
+BB *UNICEF CANADA        MISSISSAUGA  ON,BB *UNICEF CANADA        MISSISSAUGA  ON,Expenses:Charity
+SOBEYS 728        QPS    SYDNEY       NS,SOBEYS 728        QPS    SYDNEY       NS,Expenses:Groceries
+CIRCLE K / IRVING #207   NEW GLASGOW  NS,CIRCLE K / IRVING #207   NEW GLASGOW  NS,Expenses:Auto:Petrol
+KOODO MOBILE PAC         EDMONTON     AB,KOODO MOBILE PAC         EDMONTON     AB,Expenses:Utilities:Cellphone
+SOBEYS 704        QPS    PORT HAWKESBUNS,SOBEYS 704        QPS    PORT HAWKESBUNS,Expenses:Groceries
+TIM HORTONS 1995 QTH     TRURO        NS,TIM HORTONS 1995 QTH     TRURO        NS,Expenses:Dining-Out
+NEEDS 4497       QPS     TRURO        NS,NEEDS 4497       QPS     TRURO        NS,Expenses:Auto:Petrol
+"HALIFAX EXAMINER, INC.   HALIFAX MID-HNS","HALIFAX EXAMINER, INC.   HALIFAX MID-HNS",Expenses:Subscriptions
+Amazon.ca                AMAZON.CA    ON,Amazon.ca                AMAZON.CA    ON,Expenses:Equipment
+RONA ALMON x1060         HALIFAX      NS,RONA ALMON x1060         HALIFAX      NS,Expenses:House
+ESSO                     HALIFAX      NS,ESSO                     HALIFAX      NS,Expenses:Auto:Petrol
+LIQUID GOLD OLIVE OILS   HALIFAX      NS,LIQUID GOLD OLIVE OILS   HALIFAX      NS,Expenses:Gifts
+NEEDS 179        QPS     HALIFAX      NS,NEEDS 179        QPS     HALIFAX      NS,Expenses:Dining-Out
+CDN TIRE STORE #x0044    HALIFAX      NS,CDN TIRE STORE #x0044    HALIFAX      NS,Expenses:Equipment
+AEROBICS FIRST           HALIFAX      NS,AEROBICS FIRST           HALIFAX      NS,Expenses:Equipment
+LAWTONS DRUGS 113QPS     HALIFAX      NS,LAWTONS DRUGS 113QPS     HALIFAX      NS,Expenses:Supplies
+WOOZLES                  HALIFAX      NS,WOOZLES                  HALIFAX      NS,Expenses:Gifts
+MOUNT SAINT VINCENT UN   HALIFAX      NS,MOUNT SAINT VINCENT UN   HALIFAX      NS,Expenses:Education
+NSLC #2108               HALIFAX      NS,NSLC #2108               HALIFAX      NS,Expenses:Alcohol
+TIM HORTONS 2091 QTH     TIMBERLEA    NS,TIM HORTONS 2091 QTH     TIMBERLEA    NS,Expenses:Dining-Out
+DELI-SH FINE FOODS       UPPER TANTALLNS,DELI-SH FINE FOODS       UPPER TANTALLNS,Expenses:Groceries
+SHELL                    DARTMOUTH    NS,SHELL                    DARTMOUTH    NS,Expenses:Auto:Petrol
+WWW.IKEA.CA CLICK AND    SAINT-LAURENTQC,WWW.IKEA.CA CLICK AND    SAINT-LAURENTQC,Expenses:House
+SHOPPERSDRUGMART2002     HALIFAX      NS,SHOPPERSDRUGMART2002     HALIFAX      NS,Expenses:Supplies
+STAPLES STORE #148       HALIFAX      NS,STAPLES STORE #148       HALIFAX      NS,Expenses:Supplies
+INDIGO - HALIFAX CENTR   HALIFAX      NS,INDIGO - HALIFAX CENTR   HALIFAX      NS,Expenses:Misc
+EASYCANVASPRINTS.COM     xxx-xxx-4586 TX       51.18 USD              @   1.2964,EASYCANVASPRINTS.COM     xxx-xxx-4586 TX       51.18 USD              @   1.2964,Expenses:Gifts
+HALIFAX OST. HEALTH CE   HALIFAX      NS,HALIFAX OST. HEALTH CE   HALIFAX      NS,Expenses:Reimbursable
+4341 GB HALIFAX BARRIN   HALIFAX      NS,4341 GB HALIFAX BARRIN   HALIFAX      NS,Expenses:Misc
+INDIGO - HALIFAX PORT    HALIFAX      NS,INDIGO - HALIFAX PORT    HALIFAX      NS,Expenses:Misc
+WINNERS 350              HALIFAX      NS,WINNERS 350              HALIFAX      NS,Expenses:Clothes
+CDN TIRE STORE #x0186    HALIFAX      NS,CDN TIRE STORE #x0186    HALIFAX      NS,Expenses:Equipment
+NSLC #2110               HALIFAX      NS,NSLC #2110               HALIFAX      NS,Expenses:Alcohol
+BOWLARAMA                HALIFAX      NS,BOWLARAMA                HALIFAX      NS,Expenses:Entertainment
+xxx-xxx-xxxx             xxx-xxx-2642 ON,xxx-xxx-xxxx             xxx-xxx-2642 ON,Expenses:Misc
+ARTISAN HAIR SALON       HALIFAX      NS,ARTISAN HAIR SALON       HALIFAX      NS,Expenses:Supplies
+THE LUNG ASSOCIATION O   xxx-xxx-8141 NS,THE LUNG ASSOCIATION O   xxx-xxx-8141 NS,Expenses:Charity
+NSLC #2195               UPPER TANTALLNS,NSLC #2195               UPPER TANTALLNS,Expenses:Alcohol
+LEE VALLEY - HALIFAX     HALIFAX      NS,LEE VALLEY - HALIFAX     HALIFAX      NS,Expenses:Equipment
+MARYS PLACE II           HALIFAX      NS,MARYS PLACE II           HALIFAX      NS,Expenses:Dining-Out
+KENT HALIFAX             HALIFAX      NS,KENT HALIFAX             HALIFAX      NS,Expenses:House
+SOBEYS 725               BEDFORD      NS,SOBEYS 725               BEDFORD      NS,Orphan
+ST FRANCIS XAVIERUNVST   ANTIGONISH   NS,ST FRANCIS XAVIERUNVST   ANTIGONISH   NS,Expenses:Misc
+MOUNT ST VINCENT UNIV    HALIFAX      NS,MOUNT ST VINCENT UNIV    HALIFAX      NS,Expenses:Education
+MEMORIAL U-STUDENT REG   ST-JOHN'S    NL,MEMORIAL U-STUDENT REG   ST-JOHN'S    NL,Expenses:Education
+VALUE VILLAGE 2054       DARTMOUTH    NS,VALUE VILLAGE 2054       DARTMOUTH    NS,Expenses:Clothes
+PRO SKATEBOARDS          HALIFAX      NS,PRO SKATEBOARDS          HALIFAX      NS,Expenses:Equipment
+CASH BACK CREDIT,CASH BACK CREDIT,Income:Other-Income
+PASSPORT DIVISION - NP   GATINEAU     QC,PASSPORT DIVISION - NP   GATINEAU     QC,Expenses:Misc
+A&W RESTAURANT           ANTIGONISH   NS,A&W RESTAURANT           ANTIGONISH   NS,Expenses:Dining-Out
+THE SILK ROAD SPICE ME   CALGARY      AB,THE SILK ROAD SPICE ME   CALGARY      AB,Expenses:Groceries
+CINEPLEX 5103            SYDNEY       NS,CINEPLEX 5103            SYDNEY       NS,Expenses:Entertainment
+WINNERS 396              SYDNEY       NS,WINNERS 396              SYDNEY       NS,Expenses:Clothes
+ESSO                     CHAPEL ISLANDNS,ESSO                     CHAPEL ISLANDNS,Expenses:Auto:Petrol
+TIM HORTONS 2383 QTH     ST PETERS    NS,TIM HORTONS 2383 QTH     ST PETERS    NS,Expenses:Dining-Out
+ATLANTIC SUPERSTORE #3   HALIFAX      NS,ATLANTIC SUPERSTORE #3   HALIFAX      NS,Expenses:Groceries
+NSLC #2165               HALIFAX      NS,NSLC #2165               HALIFAX      NS,Expenses:Alcohol
+PETROCAN                 HALIFAX      NS,PETROCAN                 HALIFAX      NS,Expenses:Auto:Petrol
+#274 SPORT CHEK          HALIFAX      NS,#274 SPORT CHEK          HALIFAX      NS,Expenses:Equipment
+STAPLES STORE #36        HALIFAX      NS,STAPLES STORE #36        HALIFAX      NS,Expenses:Supplies
+ATLANTIC SUPERSTORE BA   HALIFAX      NS,ATLANTIC SUPERSTORE BA   HALIFAX      NS,Expenses:Groceries
+CHEAPY TIRE              DARTMOUTH    NS,CHEAPY TIRE              DARTMOUTH    NS,Expenses:Auto:Maintenance
+TO GO HFX HOLLIS ST      HALIFAX      NS,TO GO HFX HOLLIS ST      HALIFAX      NS,Expenses:Dining-Out
+PAYPAL *BANDCAMP         xxxxxx7733   CA,PAYPAL *BANDCAMP         xxxxxx7733   CA,Expenses:Media
+SEARS CDA HALIFAX        HALIFAX      NS,SEARS CDA HALIFAX        HALIFAX      NS,Expenses:Clothes
+THE HENRY HOUSE          HALIFAX      NS,THE HENRY HOUSE          HALIFAX      NS,Expenses:Dining-Out
+SKR*AbeBooks 46TDTM      Rossendale   GBR       5.02 USD        @    1.xxxxxxxx0000,SKR*AbeBooks 46TDTM      Rossendale   GBR       5.02 USD        @    1.xxxxxxxx0000,Expenses:Books
+THE HOME DEPOT CANADA    NORTH YORK   ON,THE HOME DEPOT CANADA    NORTH YORK   ON,Expenses:House
+SUBWAY x5807             HALIFAX      NS,SUBWAY x5807             HALIFAX      NS,Expenses:Gifts
+HALIFAX RUST CHECK       HALIFAX      NS,HALIFAX RUST CHECK       HALIFAX      NS,Expenses:Auto:Maintenance
+Amazon.ca                AMAZON.CA    ON,Amazon.ca                AMAZON.CA    ON,Expenses:Gifts
+TRIDENT BOOKSELLERS &    HALIFAX      NS,TRIDENT BOOKSELLERS &    HALIFAX      NS,Expenses:Dining-Out
+HRM REC GEORGE DIXON     HALIFAX      NS,HRM REC GEORGE DIXON     HALIFAX      NS,Expenses:Recreation
+Amazon *Marketplce CA    WWW.AMAZON.CAON,Amazon *Marketplce CA    WWW.AMAZON.CAON,Expenses:Gifts
+SOBEYS 580        QPS    BEDFORD      NS,SOBEYS 580        QPS    BEDFORD      NS,Expenses:Groceries
+NURTURED                 HALIFAX      NS,NURTURED                 HALIFAX      NS,Expenses:Gifts
+SQ *THE QUARRELSOME YE   gosq.com     NS,SQ *THE QUARRELSOME YE   gosq.com     NS,Expenses:Gifts
+INDIGO ONLINE            BRAMPTON     ON,INDIGO ONLINE            BRAMPTON     ON,Expenses:Gifts
+NSLC #2193               BEDFORD      NS,NSLC #2193               BEDFORD      NS,Expenses:Alcohol
+NSLC #2150               HALIFAX      NS,NSLC #2150               HALIFAX      NS,Expenses:Alcohol
+DR SCOTT M MACLEAN       HALIFAX      NS,DR SCOTT M MACLEAN       HALIFAX      NS,Expenses:Reimbursable
+LUCKY PENNY COFFEE CO    HALIFAX      NS,LUCKY PENNY COFFEE CO    HALIFAX      NS,Expenses:Dining-Out
+Amazon.ca                AMAZON.CA    ON,Amazon.ca                AMAZON.CA    ON,Expenses:Equipment
+CANADIAN UNICEF COMMIT   xxx-xxx-4444 ON,CANADIAN UNICEF COMMIT   xxx-xxx-4444 ON,Orphan
+ROCKHEAD WINE & BEER M   HALIFAX      NS,ROCKHEAD WINE & BEER M   HALIFAX      NS,Expenses:Alcohol
+Amazon.ca                AMAZON.CA    ON,Amazon.ca                AMAZON.CA    ON,Expenses:Gifts
+Amazon *Marketplce CA    WWW.AMAZON.CAON,Amazon *Marketplce CA    WWW.AMAZON.CAON,Expenses:Equipment
+PAY AND DISPLAY          HALIFAX      NS,PAY AND DISPLAY          HALIFAX      NS,Expenses:Misc
+PAVIA - ESPRESSO BAR &   HALIFAX      NS,PAVIA - ESPRESSO BAR &   HALIFAX      NS,Expenses:Dining-Out
+ORGANIC EARTH MARKET     HALIFAX      NS,ORGANIC EARTH MARKET     HALIFAX      NS,Expenses:Groceries
+HUMBLE PIE KITCHEN       DARTMOUTH    NS,HUMBLE PIE KITCHEN       DARTMOUTH    NS,Expenses:Groceries
+CATERPILLAR BABY         YORK         ON,CATERPILLAR BABY         YORK         ON,Expenses:Equipment
+SUPERSTORE TANTALLON     HD ST MARGTS NS,SUPERSTORE TANTALLON     HD ST MARGTS NS,Expenses:Groceries
+SHOPPERSDRUGMART0137     HALIFAX      NS,SHOPPERSDRUGMART0137     HALIFAX      NS,Expenses:Supplies
+IWK - HEALTH CENTRE (P   HALIFAX      NS,IWK - HEALTH CENTRE (P   HALIFAX      NS,Expenses:Misc
+WENDY'S QUINPOOL RDQ01   HALIFAX      NS,WENDY'S QUINPOOL RDQ01   HALIFAX      NS,Expenses:Dining-Out
+PAVIA GALLERY ESPRESSO   HALIFAX      NS,PAVIA GALLERY ESPRESSO   HALIFAX      NS,Expenses:Dining-Out
+TIM HORTONS 1742 QTH     HALIFAX      NS,TIM HORTONS 1742 QTH     HALIFAX      NS,Expenses:Dining-Out
+CHIVES CANADIAN BISTRO   HALIFAX      NS,CHIVES CANADIAN BISTRO   HALIFAX      NS,Expenses:Dining-Out
+DHL EXPRESS CANADA LTD   DARTMOUTH    NS,DHL EXPRESS CANADA LTD   DARTMOUTH    NS,Expenses:Misc
+YOUR FATHER`S MOUSTACH   HALIFAX      NS,YOUR FATHER`S MOUSTACH   HALIFAX      NS,Expenses:Reimbursable
+MICHAELS #3944           HALIFAX      NS,MICHAELS #3944           HALIFAX      NS,Expenses:Supplies
+CIRCLE K / IRVING #206   GOODWOOD     NS,CIRCLE K / IRVING #206   GOODWOOD     NS,Expenses:Auto:Petrol
+SOBEYS 644        QPS    HALIFAX      NS,SOBEYS 644        QPS    HALIFAX      NS,Expenses:Groceries
+Amazon.ca                AMAZON.CA    ON,Amazon.ca                AMAZON.CA    ON,Expenses:Equipment
+MEZZA LEBANESE KITCHEN   HALIFAX      NS,MEZZA LEBANESE KITCHEN   HALIFAX      NS,Expenses:Dining-Out
+DESERRES                 HALIFAX      NS,DESERRES                 HALIFAX      NS,Expenses:Supplies
+IKEA HALIFAX             DARTMOUTH    NS,IKEA HALIFAX             DARTMOUTH    NS,Expenses:House
+JIFFY LUBE               DARTMOUTH    NS,JIFFY LUBE               DARTMOUTH    NS,Expenses:Auto:Maintenance
+IWK - HEALTH CENTRE HO   HALIFAX      NS,IWK - HEALTH CENTRE HO   HALIFAX      NS,Expenses:Misc
+QEII PARKING             HALIFAX      NS,QEII PARKING             HALIFAX      NS,Expenses:Misc
+OD HANDLING FEE -  1 @ $ 5.00,OD HANDLING FEE -  1 @ $ 5.00,Expenses:Bank-Fees
+IDP PURCHASE - xx64 -THE HUNGRY HUT,IDP PURCHASE - xx64 -THE HUNGRY HUT,Expenses:Dining-Out
+WWW TRF DDA -  3926,WWW TRF DDA -  3926,Uknown
+TAX REFUND -CANADA,TAX REFUND -CANADA,Expenses:Taxes:Federal
+C-IDP PURCHASE-xx17 -JAKE'S VIDEO &,C-IDP PURCHASE-xx17 -JAKE'S VIDEO &,Expenses:Misc
+PTB WD --- xxxx1840,PTB WD --- xxxx1840,Unknown
+INTERAC-SC-1840,INTERAC-SC-1840,Expenses:Bank-Fees
+WWW TRANSFER - 9446,WWW TRANSFER - 9446,Unknown
+WWW TRANSFER - 7208,WWW TRANSFER - 7208,Unknown
+WWW TRF DDA -  1534,WWW TRF DDA -  1534,Unknown
+WWW TRANSFER - 7792,WWW TRANSFER - 7792,Orphan
+WWW TRANSFER - 5768,WWW TRANSFER - 5768,Orphan
+WWW TRF DDA -  8166,WWW TRF DDA -  8166,Orphan
+INTERAC E-TRF- 0184,INTERAC E-TRF- 0184,Orphan
+WWW TRF DDA -  0987,WWW TRF DDA -  0987,Orphan
+WWW TRF DDA -  0986,WWW TRF DDA -  0986,Orphan
+PTB DEP -- HFxx6686,PTB DEP -- HFxx6686,Orphan
+WWW TRF DDA -  2542,WWW TRF DDA -  2542,Orphan
+INTERAC E-TRF- 8923,INTERAC E-TRF- 8923,Orphan
+REVERSED DEBIT,REVERSED DEBIT,Orphan
+WWW TRF DDA -  8100,WWW TRF DDA -  8100,Orphan
+WWW TRF DDA -  5584,WWW TRF DDA -  5584,Orphan
+WWW TRF DDA -  5585,WWW TRF DDA -  5585,Orphan
+WWW TRANSFER - 0182,WWW TRANSFER - 0182,Orphan
+WWW TRANSFER - 0048,WWW TRANSFER - 0048,Orphan
+PTB WD --- HAxx7812,PTB WD --- HAxx7812,Orphan
+PTB DEP -- HFxx6118,PTB DEP -- HFxx6118,Orphan
+PTB CB WD- HFxx0846,PTB CB WD- HFxx0846,Orphan
+PTB DEP -- HFxx0846,PTB DEP -- HFxx0846,Orphan
+WWW TRF DDA -  8068,WWW TRF DDA -  8068,Orphan
+BR TO BR - 1763,BR TO BR - 1763,Orphan
+WWW TRANSFER - 8097,WWW TRANSFER - 8097,Orphan
+WWW TRANSFER - 3829,WWW TRANSFER - 3829,Orphan
+WWW TRANSFER - 1529,WWW TRANSFER - 1529,Orphan
+WWW TRF DDA -  9201,WWW TRF DDA -  9201,Orphan
+WWW TRF DDA -  9789,WWW TRF DDA -  9789,Orphan
+WWW TRF DDA -  9200,WWW TRF DDA -  9200,Orphan
+PTB DEP -- HFxx0721,PTB DEP -- HFxx0721,Orphan
+PTB WD --- HGxx6988,PTB WD --- HGxx6988,Orphan
+PTB WD --- HFxx7138,PTB WD --- HFxx7138,Orphan
+PTB WD --- HAxx9222,PTB WD --- HAxx9222,Orphan
+PTB DEP -- HBxx1771,PTB DEP -- HBxx1771,Orphan
+WWW TRF DDA -  9415,WWW TRF DDA -  9415,Orphan
+WWW TRF DDA -  9748,WWW TRF DDA -  9748,Orphan
+WWW TRF DDA -  0485,WWW TRF DDA -  0485,Orphan
+WWW TRANSFER - 4390,WWW TRANSFER - 4390,Orphan
+WWW TRF DDA -  9414,WWW TRF DDA -  9414,Orphan
+WWW TRANSFER - 3469,WWW TRANSFER - 3469,Orphan
+PTB DEP -- HAxx5267,PTB DEP -- HAxx5267,Orphan
+WWW PAYMENT -  8135,WWW PAYMENT -  8135,Orphan
+WWW TRF DDA -  3547,WWW TRF DDA -  3547,Orphan
+INTERAC-SC-1113,INTERAC-SC-1113,Orphan
+PTB WD --- xxxx1113,PTB WD --- xxxx1113,Orphan
+PTB WD --- HDxx1962,PTB WD --- HDxx1962,Orphan
+WWW PAYMENT -  xx14 -SCOTIA FUELS,WWW PAYMENT -  xx14 -SCOTIA FUELS,Orphan
+WWW PAYMENT -  2611,WWW PAYMENT -  2611,Orphan
+WWW TRF DDA -  1161,WWW TRF DDA -  1161,Orphan
+WWW TRANSFER - 7234,WWW TRANSFER - 7234,Orphan
+WWW OD HDLG FEE,WWW OD HDLG FEE,Orphan
+WWW TRF DDA -  5256,WWW TRF DDA -  5256,Orphan
+WWW TRANSFER - 3926,WWW TRANSFER - 3926,Orphan
+WWW TRANSFER - 3463,WWW TRANSFER - 3463,Orphan
+PTB WD --- HDxx6466,PTB WD --- HDxx6466,Orphan
+WWW TRANSFER - 3534,WWW TRANSFER - 3534,Orphan
+PTB DEP -- HAxx2441,PTB DEP -- HAxx2441,Orphan
+PTB DEP -- HAxx2440,PTB DEP -- HAxx2440,Orphan
+WWW TRANSFER - 0987,WWW TRANSFER - 0987,Expenses:Unknown
+WWW TRF DDA -  9446,WWW TRF DDA -  9446,Expenses:Unknown
+WWW TRANSFER - 5585,WWW TRANSFER - 5585,Expenses:Unknown
+WWW TRANSFER - 8068,WWW TRANSFER - 8068,Expenses:Unknown
+WWW TRF DDA -  8097,WWW TRF DDA -  8097,Expenses:Unknown
+WWW TRANSFER - 9201,WWW TRANSFER - 9201,Expenses:Unknown
+WWW TRANSFER - 6216,WWW TRANSFER - 6216,Expenses:Unknown
+WWW TRF DDA -  7208,WWW TRF DDA -  7208,Expenses:Unknown
+WWW TRANSFER - 9414,WWW TRANSFER - 9414,Expenses:Unknown
+WWW TRANSFER - 3547,WWW TRANSFER - 3547,Expenses:Unknown
+WWW TRF DDA -  7234,WWW TRF DDA -  7234,Expenses:Unknown
+WWW TRANSFER - 1161,WWW TRANSFER - 1161,Expenses:Unknown
+HALIFAX INTL AIRPORT A   ENFIELD      NS,HALIFAX INTL AIRPORT A   ENFIELD      NS,Expenses:Misc
+METRO #250               OTTAWA       ON,METRO #250               OTTAWA       ON,Expenses:Misc
+LCBO/RAO #0556           KANATA       ON,LCBO/RAO #0556           KANATA       ON,Expenses:Gifts
+ROYAL OAK 13             OTTAWA       ON,ROYAL OAK 13             OTTAWA       ON,Expenses:Reimbursable
+FARM BOY #65             KANATA       ON,FARM BOY #65             KANATA       ON,Expenses:Travel
+BYWARD NUT HOUSE         OTTAWA       ON,BYWARD NUT HOUSE         OTTAWA       ON,Expenses:Travel
+LOBLAWS #1114            KANATA       ON,LOBLAWS #1114            KANATA       ON,Expenses:Travel
+NETFOX COMMUNICATIONS    PRESCOTT     ON,NETFOX COMMUNICATIONS    PRESCOTT     ON,Expenses:Utilities:Internet
+CDN TIRE STORE #x0457    KANATA       ON,CDN TIRE STORE #x0457    KANATA       ON,Expenses:Equipment
+PORTER AI xxxxxxxxxx5850 TORONTO      ON,PORTER AI xxxxxxxxxx5850 TORONTO      ON,Expenses:Travel
+Audible                  Amzn.com/billNJ       14.95 USD              @   1.3384,Audible                  Amzn.com/billNJ       14.95 USD              @   1.3384,Expenses:Books
+ECOLOGY ACTION CENTRE    xxx-xxx-0254 NS,ECOLOGY ACTION CENTRE    xxx-xxx-0254 NS,Expenses:Charity
+DAIRY QUEEN #x1953       STEWIACKE    NS,DAIRY QUEEN #x1953       STEWIACKE    NS,Expenses:Dining-Out
+GLENHILL BERRY FARM      ANTIGONISH   NS,GLENHILL BERRY FARM      ANTIGONISH   NS,Expenses:Groceries
+CIRCLE K / IRVING #205   HALIFAX      NS,CIRCLE K / IRVING #205   HALIFAX      NS,Expenses:Auto:Petrol
+UNIFUND ASSURANCE COMP   ST. JOHN'S   NL,UNIFUND ASSURANCE COMP   ST. JOHN'S   NL,Expenses:Insurance
+THE DAVID SUZUKI FOUN    xxx-xxx-1533 BC,THE DAVID SUZUKI FOUN    xxx-xxx-1533 BC,Expenses:Charity
+EURO PIZZA               HALIFAX      NS,EURO PIZZA               HALIFAX      NS,Expenses:Dining-Out
+STARBUCKS x0568          HALIFAX      NS,STARBUCKS x0568          HALIFAX      NS,Expenses:Dining-Out
+BOB & THE BOYS FARM MA   HEBBS CROSS  NS,BOB & THE BOYS FARM MA   HEBBS CROSS  NS,Expenses:Dining-Out
+CIRCLE K / IRVING #205   BEECHVILLE   NS,CIRCLE K / IRVING #205   BEECHVILLE   NS,Expenses:Auto:Petrol
+THE HOME DEPOT #7126     HALIFAX      NS,THE HOME DEPOT #7126     HALIFAX      NS,Expenses:Equipment
+CR DIGITAL MEMBERSHIP    xxx-xxx-0663 NY        7.95 USD        @    1.xxxxxxxx0000,CR DIGITAL MEMBERSHIP    xxx-xxx-0663 NY        7.95 USD        @    1.xxxxxxxx0000,Orphan
+AMZN Mktp CA             WWW.AMAZON.CAON,AMZN Mktp CA             WWW.AMAZON.CAON,Orphan
+CDN TIRE STORE #x0618    TANTALLON    NS,CDN TIRE STORE #x0618    TANTALLON    NS,Expenses:Equipment
+LAWTONS DRUGS 2551       UPPER TANTALLNS,LAWTONS DRUGS 2551       UPPER TANTALLNS,Expenses:Misc
+DAIRY QUEEN #x2124       BARNEYS RIVERNS,DAIRY QUEEN #x2124       BARNEYS RIVERNS,Expenses:Dining-Out
+GREEN THUMB FARMERSQCO   WESTVILLE    NS,GREEN THUMB FARMERSQCO   WESTVILLE    NS,Expenses:Dining-Out
+FABRICVILLE MARITIMES    HALIFAX      NS,FABRICVILLE MARITIMES    HALIFAX      NS,Orphan
+TSN                      VERDUN       QC,TSN                      VERDUN       QC,Expenses:Media
+VINA'S JEWELLERS         HALIFAX      NS,VINA'S JEWELLERS         HALIFAX      NS,Expenses:Repair
+LAWTONS DRUGS 112        HALIFAX      NS,LAWTONS DRUGS 112        HALIFAX      NS,Orphan
+SKR*ABEBOOKS 4CD2RY      xxx-xxx5335  NY        9.65 USD        @    1.xxxxxxxx0000,SKR*ABEBOOKS 4CD2RY      xxx-xxx5335  NY        9.65 USD        @    1.xxxxxxxx0000,Expenses:Books
+VALUE VILLAGE # 2046     HALIFAX      NS,VALUE VILLAGE # 2046     HALIFAX      NS,Expenses:Clothes
+PAVIA GALLERY ESPRESSO   HERRING COVE NS,PAVIA GALLERY ESPRESSO   HERRING COVE NS,Expenses:Dining-Out
+NOFRILLS MIKE'S #2701    HALIFAX      NS,NOFRILLS MIKE'S #2701    HALIFAX      NS,Expenses:Groceries
+CHAPTERS 793             HALIFAX      NS,CHAPTERS 793             HALIFAX      NS,Expenses:Gifts
+SKR*ABEBOOKS.CO 4CAYI    xxx-xxx5335  NY      -10.47 USD              @   1.3285,SKR*ABEBOOKS.CO 4CAYI    xxx-xxx5335  NY      -10.47 USD              @   1.3285,Expenses:Books
+SKR*ABEBOOKS 4CAYIB      xxx-xxx5335  NY       26.32 USD              @   1.3590,SKR*ABEBOOKS 4CAYIB      xxx-xxx5335  NY       26.32 USD              @   1.3590,Expenses:Books
+SKR*ABEBOOKS 4CAYI9      xxx-xxx5335  NY       10.61 USD              @   1.3590,SKR*ABEBOOKS 4CAYI9      xxx-xxx5335  NY       10.61 USD              @   1.3590,Expenses:Books
+SKR*ABEBOOKS 4CAYIA      xxx-xxx5335  NY       10.47 USD              @   1.3581,SKR*ABEBOOKS 4CAYIA      xxx-xxx5335  NY       10.47 USD              @   1.3581,Expenses:Books
+PAYPAL *PRINCESSJAI      xxxxxx7733   ON,PAYPAL *PRINCESSJAI      xxxxxx7733   ON,Orphan
+PORTER AI xxxxxxxxxx7880 TORONTO      ON,PORTER AI xxxxxxxxxx7880 TORONTO      ON,Expenses:Travel
+AIR CAN* xxxxxxxxxx7743  AIRCANADA.COMMB,AIR CAN* xxxxxxxxxx7743  AIRCANADA.COMMB,Expenses:Travel
+AIR CAN* xxxxxxxxxx7744  AIRCANADA.COMMB,AIR CAN* xxxxxxxxxx7744  AIRCANADA.COMMB,Expenses:Travel
+EASTCOAST SPECIALTY HA   DARTMOUTH    NS,EASTCOAST SPECIALTY HA   DARTMOUTH    NS,Expenses:Equipment
+SOBEY'S FAST FUEL #450   STELLARTON   NS,SOBEY'S FAST FUEL #450   STELLARTON   NS,Expenses:Auto:Petrol
+CAFE TAIYAKI 52          HALIFAX      NS,CAFE TAIYAKI 52          HALIFAX      NS,Expenses:Dining-Out
+SOBEY'S FAST FUEL # 45   STELLARTON   NS,SOBEY'S FAST FUEL # 45   STELLARTON   NS,Expenses:Auto:Petrol
+NSLC #2479               SYDNEY       NS,NSLC #2479               SYDNEY       NS,Expenses:Alcohol
+ESSO                     ALBERT BRIDGENS,ESSO                     ALBERT BRIDGENS,Expenses:Auto:Petrol
+GEORGE STREET CAPER GA   SYDNEY       NS,GEORGE STREET CAPER GA   SYDNEY       NS,Expenses:Auto:Petrol
+HALIFAX YOGA             HALIFAX      NS,HALIFAX YOGA             HALIFAX      NS,Expenses:Medical
+PAYPAL *K2 MOTOR         xxxxxx7733   ON,PAYPAL *K2 MOTOR         xxxxxx7733   ON,Orphan
+PAYPAL *GLOBALSHIP       xxxxxx7733   ON,PAYPAL *GLOBALSHIP       xxxxxx7733   ON,Liabilities:PayPal
+CHKNCHOP INC.            HALIFAX      NS,CHKNCHOP INC.            HALIFAX      NS,Expenses:Dining-Out
+HIGGINS AUTO PRO         HALIFAX      NS,HIGGINS AUTO PRO         HALIFAX      NS,Expenses:Auto:Maintenance
+ABEBOOKS.COM             xxx-xxx-5335 WA       19.00 USD        @    1.xxxxxxxx0000,ABEBOOKS.COM             xxx-xxx-5335 WA       19.00 USD        @    1.xxxxxxxx0000,Expenses:Books
+PAYPAL *FAIRELECTRO      xxxxxx7733   ON,PAYPAL *FAIRELECTRO      xxxxxx7733   ON,Liabilities:PayPal
+CIRCLE K / IRVING #QPS   HALIFAX      NS,CIRCLE K / IRVING #QPS   HALIFAX      NS,Expenses:Auto:Petrol
+PAYPAL *HE HUIHUI        xxxxxx7733   ON,PAYPAL *HE HUIHUI        xxxxxx7733   ON,Liabilities:PayPal
+THE BIKE PEDALER         DARTMOUTH    NS,THE BIKE PEDALER         DARTMOUTH    NS,Expenses:Repair
+NEEDS 184        QPS     HALIFAX      NS,NEEDS 184        QPS     HALIFAX      NS,Expenses:Misc
+REDMOND'S HARDWARE #32   UPPER TANTALLNS,REDMOND'S HARDWARE #32   UPPER TANTALLNS,Expenses:Equipment
+SUPERSTORE HALIFAX STH   HALIFAX      NS,SUPERSTORE HALIFAX STH   HALIFAX      NS,Expenses:Groceries
+CARQUEST DARTMOUTH       DARTMOUTH    NS,CARQUEST DARTMOUTH       DARTMOUTH    NS,Expenses:Auto:Maintenance
+PAYZANT HM BLDG CTRE     DARTMOUTH    NS,PAYZANT HM BLDG CTRE     DARTMOUTH    NS,Expenses:Equipment
+URBAN GARDENS LIMITED    DARTMOUTH    NS,URBAN GARDENS LIMITED    DARTMOUTH    NS,Expenses:Equipment
+BUTA RAMEN               HALIFAX      NS,BUTA RAMEN               HALIFAX      NS,Expenses:Reimbursable
+HABITAT FOR HUMANITY R   HALIFAX      NS,HABITAT FOR HUMANITY R   HALIFAX      NS,Expenses:Charity
+MACLEOD'S AUTO SERVICE   HARRIETSFIELDNS,MACLEOD'S AUTO SERVICE   HARRIETSFIELDNS,Expenses:Auto:Maintenance
+LUMBERMART LTD           HALIFAX      NS,LUMBERMART LTD           HALIFAX      NS,Expenses:Equipment
+WATERFRONT DEVELOPMENT   HALIFAX      NS,WATERFRONT DEVELOPMENT   HALIFAX      NS,Expenses:Misc
+VESEYS                   xxx-xxx-7333 PE,VESEYS                   xxx-xxx-7333 PE,Expenses:House
+TIM HORTONS 0405 QTH     PORT HAWKESBUNS,TIM HORTONS 0405 QTH     PORT HAWKESBUNS,Expenses:Dining-Out
+CAMBRIDGE SUITES HOTEL   SYDNEY       NS,CAMBRIDGE SUITES HOTEL   SYDNEY       NS,Expenses:Dining-Out
+NEEDS 4424               SYDNEY       NS,NEEDS 4424               SYDNEY       NS,Expenses:Misc
+SHELL                    NEW GLASGOW  NS,SHELL                    NEW GLASGOW  NS,Expenses:Auto:Petrol
+SHOPPERSDRUGMART0134     HALIFAX      NS,SHOPPERSDRUGMART0134     HALIFAX      NS,Expenses:Misc
+SPRYFIELD ANIMAL HOSPI   HALIFAX      NS,SPRYFIELD ANIMAL HOSPI   HALIFAX      NS,Expenses:Pets
+SKR*ABEBOOKS 4AIMMO      xxx-xxx5335  NY        7.61 USD              @   1.3232,SKR*ABEBOOKS 4AIMMO      xxx-xxx5335  NY        7.61 USD              @   1.3232,Expenses:Books
+PLN*PRICELINE HOTEL      xxx-xxx-2595 CT      180.85 USD              @   1.3287,PLN*PRICELINE HOTEL      xxx-xxx-2595 CT      180.85 USD              @   1.3287,Expenses:Gifts
+HUMBLEBUNDLE.COM         HTTPSWWW.HUMBCA       25.00 USD              @   1.3396,HUMBLEBUNDLE.COM         HTTPSWWW.HUMBCA       25.00 USD              @   1.3396,Expenses:Reimbursable
+THE REAL ATLANTIC SUPE   DARTMOUTH    NS,THE REAL ATLANTIC SUPE   DARTMOUTH    NS,Expenses:Groceries
+PAVIA - ESPRESSO BAR & CAHALIFAX      NS,PAVIA - ESPRESSO BAR & CAHALIFAX      NS,Expenses:Dining-Out
+SQ *SOUPER DUPER SOUP    Dartmouth    NS,SQ *SOUPER DUPER SOUP    Dartmouth    NS,Expenses:Dining-Out
+HUMBLEBUNDLE.COM         HTTPSWWW.HUMBCA       25.00 USD        @    1.xxxxxxxx0000,HUMBLEBUNDLE.COM         HTTPSWWW.HUMBCA       25.00 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+INDIGO - HALIFAX CENTRAL HALIFAX      NS,INDIGO - HALIFAX CENTRAL HALIFAX      NS,Expenses:Misc
+BAGEL MONTREAL STYLE INCODARTMOUTH    NS,BAGEL MONTREAL STYLE INCODARTMOUTH    NS,Expenses:Dining-Out
+TWO DOORS DOWN           HALIFAX      NS,TWO DOORS DOWN           HALIFAX      NS,Expenses:Reimbursable
+IMPARKxxxx0026U          HALIFAX      NS,IMPARKxxxx0026U          HALIFAX      NS,Expenses:Reimbursable
+SQ *METIN LIMO & TAXI    Halifax      NS,SQ *METIN LIMO & TAXI    Halifax      NS,Expenses:Reimbursable
+MILL STREET PUB          MISSISSAUGA  ON,MILL STREET PUB          MISSISSAUGA  ON,Expenses:Reimbursable
+THAIPHOON BISTRO         RALEIGH      NC        47.2 USD              @   1.3625,THAIPHOON BISTRO         RALEIGH      NC        47.2 USD              @   1.3625,Expenses:Reimbursable
+UBER   TRIP VANUK        xxxxxx8996   CA        9.41 USD              @   1.3623,UBER   TRIP VANUK        xxxxxx8996   CA        9.41 USD              @   1.3623,Expenses:Reimbursable
+STARBUCKS  D RDU         RALEIGH      NC         5.3 USD              @   1.3622,STARBUCKS  D RDU         RALEIGH      NC         5.3 USD              @   1.3622,Expenses:Reimbursable
+UBER   TRIP O74HS        xxxxxx8996   CA        9.71 USD        @    1.xxxxxxxx0000,UBER   TRIP O74HS        xxxxxx8996   CA        9.71 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+TAXI SVC RDU AIRPORT     RDU AIRPORT  NC       43.02 USD              @   1.3623,TAXI SVC RDU AIRPORT     RDU AIRPORT  NC       43.02 USD              @   1.3623,Expenses:Reimbursable
+HUDSON ST154             ENFIELD      NS,HUDSON ST154             ENFIELD      NS,Expenses:Misc
+SPIRIT OF THE MAR 5226   ENFIELD      NS,SPIRIT OF THE MAR 5226   ENFIELD      NS,Expenses:Reimbursable
+CASINO TAXI              HALIFAX      NS,CASINO TAXI              HALIFAX      NS,Expenses:Reimbursable
+CHEESE CURDS FOOD TRUCK  DARTMOUTH    NS,CHEESE CURDS FOOD TRUCK  DARTMOUTH    NS,Expenses:Reimbursable
+TRUCKSIDE U-PICK-FISH    DARTMOUTH    NS,TRUCKSIDE U-PICK-FISH    DARTMOUTH    NS,Expenses:Dining-Out
+REI*SCIENCE DIRECT       xxx-xxx-4636 MO       35.95 USD              @   1.3479,REI*SCIENCE DIRECT       xxx-xxx-4636 MO       35.95 USD              @   1.3479,Expenses:Reimbursable
+CAFÉ MARKO POLO          DARTMOUTH    NS,CAFÉ MARKO POLO          DARTMOUTH    NS,Expenses:Dining-Out
+PAYPAL *GLOBALSHIP       xxxxxx7733   CT,PAYPAL *GLOBALSHIP       xxxxxx7733   CT,Liabilities:PayPal
+PAYPAL *SINWOOD          xxxxxx7733   ON,PAYPAL *SINWOOD          xxxxxx7733   ON,Liabilities:PayPal
+BATTERY PARK BEER BAR & EDARTMOUTH    NS,BATTERY PARK BEER BAR & EDARTMOUTH    NS,Expenses:Reimbursable
+THE FOGGY GOGGLE BAR & GRHALIFAX      NS,THE FOGGY GOGGLE BAR & GRHALIFAX      NS,Expenses:Reimbursable
+YELLOW CAB HALIFAX       HALIFAX      NS,YELLOW CAB HALIFAX       HALIFAX      NS,Expenses:Reimbursable
+AIR CANADA  0xxxxxxxx9929WINNIPEG     MB       47.30 USD        @    1.xxxxxxxx0000,AIR CANADA  0xxxxxxxx9929WINNIPEG     MB       47.30 USD        @    1.xxxxxxxx0000,Expenses:Reimbursable
+STARBUCKS 5221           ENFIELS      NS,STARBUCKS 5221           ENFIELS      NS,Expenses:Reimbursable
+HEARTH T1 US POST SECU   MISSISSAUGA  ON,HEARTH T1 US POST SECU   MISSISSAUGA  ON,Orphan
+HUDSON STO1654           ENFIELD      NS,HUDSON STO1654           ENFIELD      NS,Orphan
+#121 MARK'S              HALIFAX      NS,#121 MARK'S              HALIFAX      NS,Expenses:Clothers
+AIR CAN*    0xxxxxxxx9929AIRCANADA.COMMB,AIR CAN*    0xxxxxxxx9929AIRCANADA.COMMB,Expenses:Reimbursable
+PITA PIT                 HALIFAX      NS,PITA PIT                 HALIFAX      NS,Expenses:Dining-Out
+CRSS-SCT                 REGINA       SK,CRSS-SCT                 REGINA       SK,Expenses:Reimbursable
+LEANPUB                  xxxxxx8017   BC       23.00 USD              @   1.3239,LEANPUB                  xxxxxx8017   BC       23.00 USD              @   1.3239,Expenses:Books
+LONG & MCQUADE HALIFAX   HALIFAX      NS,LONG & MCQUADE HALIFAX   HALIFAX      NS,Expenses:Equipment
+CAREFOUR ATLANTIC EMPORIUHALIFAX      NS,CAREFOUR ATLANTIC EMPORIUHALIFAX      NS,Expenses:Misc
+DARRELLS RESTAURANT      HALIFAX      NS,DARRELLS RESTAURANT      HALIFAX      NS,Expenses:Reimbursable

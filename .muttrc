@@ -1,0 +1,25 @@
+# Me
+set from = "scott.v.hatcher@gmail.com"
+set realname = "Scott Hatcher"
+
+# My credentials
+set smtp_url = "smtp://scott.v.hatcher@gmail.com@smtp.gmail.com:587/"
+set imap_user = "scott.v.hatcher@gmail.com"
+set imap_pass = "Mauritius1#"
+
+# My mailboxes
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Gmail]/Drafts"
+
+# Where to put the stuff
+set header_cache = "~/.mutt/cache/headers"
+set message_cachedir = "~/.mutt/cache/bodies"
+set certificate_file = "~/.mutt/certificates"
+
+# Etc
+set mail_check = 30
+set move = no
+set imap_keepalive = 900
+set sort = threads
+set editor = "vim"

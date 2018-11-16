@@ -1,0 +1,5 @@
+bookmark-cmd "~/bin/getpocket.com/send-to-pocket.sh"
+bookmark-interactive no
+bookmark-autopilot yes
+
+browser firefox
