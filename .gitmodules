@@ -1,0 +1,3 @@
+[submodule "vim/pack/start/vim-markdown-folding"]
+	path = vim/pack/start/vim-markdown-folding
+	url = https://github.com/nelstrom/vim-markdown-folding.git
