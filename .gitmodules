@@ -4,3 +4,6 @@
 [submodule "vim/pack/plugins/start/goyo"]
 	path = vim/pack/plugins/start/goyo
 	url = https://github.com/junegunn/goyo.vim
+[submodule "vim/pack/plugins/start/limelight"]
+	path = vim/pack/plugins/start/limelight
+	url = https://github.com/junegunn/limelight.vim
