@@ -7,3 +7,6 @@
 [submodule "vim/pack/plugins/start/limelight"]
 	path = vim/pack/plugins/start/limelight
 	url = https://github.com/junegunn/limelight.vim
+[submodule "vim/pack/plugins/start/SimplyFold"]
+	path = vim/pack/plugins/start/SimplyFold
+	url = https://github.com/tmhedberg/SimpylFold.git
