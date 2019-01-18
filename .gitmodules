@@ -1,5 +1,5 @@
-[submodule "vim/pack/start/vim-markdown-folding"]
-	path = vim/pack/start/vim-markdown-folding
+[submodule "vim/pack/plugins/start/vim-markdown-folding"]
+	path = vim/pack/plugins/start/vim-markdown-folding
 	url = https://github.com/nelstrom/vim-markdown-folding.git
 [submodule "vim/pack/plugins/start/goyo"]
 	path = vim/pack/plugins/start/goyo
