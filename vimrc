@@ -23,6 +23,12 @@ set wrap
 set linebreak
 set nolist " list disable linebreak
 
-set tabstop=4
-set noexpandtab
-set autoindent
+if has("autocmd")
+  " Enable file type detection.
+  " Use the default filetype settings, so that mail gets 'tw' set to 72,
+  " 'cindent' is on in C files, etc.
+  " Also load indent files, to automatically do language-dependent indenting.
+  filetype plugin indent on
+  " ...
+endif
+
