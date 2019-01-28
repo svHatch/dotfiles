@@ -9,7 +9,7 @@ Here is an example of how to add a package using Vim’s native approach to pack
 
 > cd ~/dotfiles
 > git submodule init
-> it submodule add https://github.com/vim-airline/vim-airline.git vim/pack/shapeshed/start/vim-airline
+> git submodule add https://github.com/vim-airline/vim-airline.git vim/pack/shapeshed/start/vim-airline
 > git add .gitmodules vim/pack/shapeshed/start/vim-airline
 > git commit
 
