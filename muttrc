@@ -1,25 +1,80 @@
-# Me
+# MUTTRC - config file
+
+# set imap_user = "scott.v.hatcher@gmail.com"
+# set imap_pass = "Perth691#"
+
+set send_charset = "utf-8"
 set from = "scott.v.hatcher@gmail.com"
-set realname = "Scott Hatcher"
+set realname = "Scott V. Hatcher"
+set mail_check = 0
+set envelope_from
 
-# My credentials
-set smtp_url = "smtp://scott.v.hatcher@gmail.com@smtp.gmail.com:587/"
-set imap_user = "scott.v.hatcher@gmail.com"
-set imap_pass = "Mauritius1#"
+set header_cache=~/.mutt/cache/headers
+set message_cachedir=~/.mutt/cache/bodies
+set certificate_file=~/.mutt/certificates
 
-# My mailboxes
-set folder = "imaps://imap.gmail.com:993"
+set sendmail = "/usr/bin/msmtp -a gmail"
+set sendmail_wait = 0
+unset record
+
+unset move 
+set delete # Do not require confirmation
+unset confirmappend # Do not require confirmation
+set quit # Do not require confirmation
+unset mark_old # Forget the "old" tag, "read" or "new" is good enough
+
+# sort/threading
+set sort = threads
+set sort_aux = reverse-last-date-received
+set sort_re
+# set imap_check_subscribed
+
+ignore * # First, ignore all headers
+unignore from: to: cc: date: subject: # Then, include only these
+hdr_order from: to: cc: date: subject: # and in this order
+
+auto_view text/html # view html automatically
+alternative_order text/plain text/enriched text/html #save html for last
+
+# IMAP: offlineimap
+set mbox_type=Maildir
+set folder = ~/lib/mail
 set spoolfile = "+INBOX"
+set mbox = "+[Gmail]/All Mail"
 set postponed = "+[Gmail]/Drafts"
 
-# Where to put the stuff
-set header_cache = "~/.mutt/cache/headers"
-set message_cachedir = "~/.mutt/cache/bodies"
-set certificate_file = "~/.mutt/certificates"
+mailboxes +INBOX
 
-# Etc
-set mail_check = 30
-set move = no
-set imap_keepalive = 900
-set sort = threads
-set editor = "vim"
+# Look and feel
+set pager_index_lines = 8
+set pager_context = 5
+set pager_stop
+set menu_scroll
+set smart_wrap
+set tilde
+unset markers
+
+# composing
+set fcc_attach
+unset mime_forward
+set forward_format = "Fwd: %s"
+set include
+set forward_quote
+
+# abook integration
+set query_command = "abook --mutt-query '%s'"
+macro generic,index,pager \ca "<shell-escape>abook<return>" "launch abook"
+macro index,pager A "<pipe-message>abook --add-email<return>" "add the sender address to abook"
+
+# macros
+macro index D \
+    "<save-message>+[Gmail]/Trash<enter>" \
+    "move message to the trash"
+
+macro index S \
+    "<save-message>+[Gmail]/Spam<enter>" \
+    "mark message as spam"
+
+set editor = 'vim + -c "set textwidth=72" -c "set wrap" -c "set spell spelllang=en_ca"'
+
+alias extfamily hilarylock@yahoo.ca,annamarie_hatcher@cbu.ca,matt.hatcher@gmail.com,bruce_hatcher@cbu.ca,martinhatcher@eastlink.ca,katiearbuckle@gmail.com
