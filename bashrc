@@ -226,6 +226,7 @@ export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"
 #export PATH="/opt/source/laszip-2.1.0/build/bin:$PATH"
 
 alias deadlines="remind -f $HOME/.remind/deadlines.rem"
+alias rem="remind -f $HOME/.reminders"
 
 alias py_da="open /home/scott/lib/books/Michael Diener/Python Geospatial Analysis Cookbook (740)/Python Geospatial Analysis Cookbook - Michael Diener.pdf"
 
@@ -280,3 +281,4 @@ export PATH=$HOME/gems/bin:$PATH
 # Make abook use my addressbook file
 alias abook='abook --datafile ~/lib/addressbook/addressbook'
 
+alias open='xdg-open'
