@@ -8,7 +8,7 @@
 
 dir=~/lib/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old                 # old dotfiles backup directory
-files="bashrc vimrc vim conkyrc muttrc"    	      # list of files/folders to symlink in homedir
+files="bashrc vimrc vim conkyrc muttrc newsbeuter"    	      # list of files/folders to symlink in homedir
 
 ##########
 
