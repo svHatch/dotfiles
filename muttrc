@@ -38,7 +38,7 @@ alternative_order text/plain text/enriched text/html #save html for last
 
 # IMAP: offlineimap
 set mbox_type=Maildir
-set folder = ~/lib/mail
+set folder = ~/lib/mail/Gmail
 set spoolfile = "+INBOX"
 set mbox = "+[Gmail]/All Mail"
 set postponed = "+[Gmail]/Drafts"
