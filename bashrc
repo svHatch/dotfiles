@@ -174,9 +174,9 @@ alias myproj='vim $HOME/desk/crontiki/MasterProjectList.wiki'
 
 alias zotero='$HOME/bin/Zotero_linux-x86_64/zotero'
 
-alias photorename="exiftool -v3 --ext MOV -ext JPG -ext jpg -ext RAF -r '-FileName<DateTimeOriginal' -d $HOME/lib/photos/negatives/%Y/%Y_%m/%Y%m%d_%%f.%%e ./"
-alias photorename_other_photogs="exiftool -v3 --ext MOV -ext JPG -ext jpg -ext RAF -r '-FileName<DateTimeOriginal' -d $HOME/lib/photos/other-photographers/%Y/%Y_%m/%Y%m%d_%%f.%%e ./"
-alias videorename="exiftool -v3 -ext MOV -ext mp4 -ext m4v -ext wmv -ext avi -r '-FileName<CreateDate' -d $HOME/lib/movies/%Y/%Y_%m/%Y%m%d_%%f.%%e ./"
+alias photorename="exiftool -v3 --ext MOV -ext JPG -ext jpg -ext RAF -r '-FileName<DateTimeOriginal' -d $HOME/Pictures/negatives/%Y/%Y_%m/%Y%m%d_%%f.%%e ./"
+alias photorename_other_photogs="exiftool -v3 --ext MOV -ext JPG -ext jpg -ext RAF -r '-FileName<DateTimeOriginal' -d $HOME/Pictures/other-photographers/%Y/%Y_%m/%Y%m%d_%%f.%%e ./"
+alias videorename="exiftool -v3 -ext MOV -ext mp4 -ext m4v -ext wmv -ext avi -r '-FileName<CreateDate' -d $HOME/Videos/%Y/%Y_%m/%Y%m%d_%%f.%%e ./"
 alias mkvideosmall="avconv -c:v libx264 -crf 22 -c:a aac -movflags faststart output.mp4"
 
 alias wtr="curl -4 wttr.in/Raglan"

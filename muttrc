@@ -64,7 +64,7 @@ set forward_quote
 # abook integration
 set query_command = "abook --mutt-query '%s'"
 macro generic,index,pager \ca "<shell-escape>abook<return>" "launch abook"
-macro index,pager A "<pipe-message>abook --add-email<return>" "add the sender address to abook"
+macro index,pager A "<pipe-message>abook --add-email-quiet<return>" "add the sender address to abook"
 
 # macros
 macro index D \
@@ -78,3 +78,6 @@ macro index S \
 set editor = 'vim + -c "set textwidth=72" -c "set wrap" -c "set spell spelllang=en_ca"'
 
 alias extfamily hilarylock@yahoo.ca,annamarie_hatcher@cbu.ca,matt.hatcher@gmail.com,bruce_hatcher@cbu.ca,martinhatcher@eastlink.ca,katiearbuckle@gmail.com
+
+# Alternate HTML viewing as backup when links fail
+macro attach 'V' "<pipe-entry>cat >/tmp/mail.html && $BROWSER /tmp/mail.html && rm /tmp/mail.html<enter>"
