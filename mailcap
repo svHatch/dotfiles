@@ -1,0 +1,3 @@
+text/html; firefox %s; copiousoutput;
+image/*; viewnior %s > /dev/null
+application/pdf; evince %s
