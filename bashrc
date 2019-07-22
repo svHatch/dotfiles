@@ -279,6 +279,6 @@ export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
 
 # Make abook use my addressbook file
-alias abook='abook --datafile ~/lib/addressbook/addressbook'
+alias abook='abook --datafile ~/lib/addressbook/addressbook -C ~/.abookrc'
 
 alias open='xdg-open'
