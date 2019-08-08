@@ -1,16 +1,14 @@
 # MUTTRC - config file
 
-# set imap_user = "scott.v.hatcher@gmail.com"
-# set imap_pass = "Perth691#"
-
 set send_charset = "utf-8"
 set from = "scott.v.hatcher@gmail.com"
 set realname = "Scott V. Hatcher"
 set mail_check = 0
 set envelope_from
 
-set header_cache=~/.mutt/cache/headers
-set message_cachedir=~/.mutt/cache/bodies
+set message_cachedir=~/.mutt/cache/messages
+source "~/.mutt/purgecache.sh '$message_cachedir'|"
+
 set certificate_file=~/.mutt/certificates
 
 set sendmail = "/usr/bin/msmtp -a gmail"
@@ -38,12 +36,17 @@ alternative_order text/plain text/enriched text/html #save html for last
 
 # IMAP: offlineimap
 set mbox_type=Maildir
-set folder = ~/lib/mail/Gmail
-set spoolfile = "+INBOX"
-set mbox = "+[Gmail]/All Mail"
-set postponed = "+[Gmail]/Drafts"
+set folder = ~/lib/mail
+set spoolfile = "+Gmail/INBOX"
+source ~/.mutt/accounts/gmail
+#set mbox = "+[Gmail]/All Mail"
+#set postponed = "+[Gmail]/Drafts"
 
 mailboxes +INBOX
+
+# folder-hooks
+folder-hook Gmail/* source ~/.mutt/accounts/gmail
+folder-hook BWGmail/* source ~/.mutt/accounts/bwgmail
 
 # Look and feel
 set pager_index_lines = 8
