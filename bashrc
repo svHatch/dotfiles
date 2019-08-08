@@ -179,7 +179,7 @@ alias photorename_other_photogs="exiftool -v3 --ext MOV -ext JPG -ext jpg -ext R
 alias videorename="exiftool -v3 -ext MOV -ext mp4 -ext m4v -ext wmv -ext avi -r '-FileName<CreateDate' -d $HOME/Videos/%Y/%Y_%m/%Y%m%d_%%f.%%e ./"
 alias mkvideosmall="avconv -c:v libx264 -crf 22 -c:a aac -movflags faststart output.mp4"
 
-alias wtr="curl -4 wttr.in/Raglan"
+alias wttr="curl -4 wttr.in"
 
 export PYTHONPATH=$PYTHONPATH:/home/scott/qgis_scripts
 
@@ -279,6 +279,6 @@ export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
 
 # Make abook use my addressbook file
-alias abook='abook --datafile ~/lib/addressbook/addressbook -C ~/.abookrc'
+alias abook='abook --datafile ~/lib/addressbook/addressbook -C ~/.abook/abookrc'
 
 alias open='xdg-open'
