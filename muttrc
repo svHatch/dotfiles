@@ -68,6 +68,7 @@ set forward_quote
 set query_command = "abook --mutt-query '%s'"
 macro generic,index,pager \ca "<shell-escape>abook<return>" "launch abook"
 macro index,pager A "<pipe-message>abook --add-email-quiet<return>" "add the sender address to abook"
+bind editor <Tab> complete-query
 
 # macros
 macro index D \
@@ -77,6 +78,10 @@ macro index D \
 macro index S \
     "<save-message>+[Gmail]/Spam<enter>" \
     "mark message as spam"
+
+macro index <f1>  "<change-folder> =Gmail/INBOX<enter>"  "go to GMail Inbox"
+macro index <f2>  "<change-folder> =BWGmail/INBOX<enter>"  "go to BWGMail Inbox"
+macro index <f3>  "<change-folder> =DalMail/INBOX<enter>"  "go to DalMail Inbox"
 
 set editor = 'vim + -c "set textwidth=72" -c "set wrap" -c "set spell spelllang=en_ca"'
 
