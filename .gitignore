@@ -1,3 +1,4 @@
+*.swp
 vim/.netrwhist
 newsbeuter/cache.db
 newsbeuter/history.cmdline
