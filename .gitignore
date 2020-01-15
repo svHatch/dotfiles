@@ -4,3 +4,4 @@ newsbeuter/cache.db
 newsbeuter/history.cmdline
 newsbeuter/history.search
 vim/vim
+abook/addressbook*
