@@ -1,0 +1,4 @@
+#!/bin/bash
+STARSHIP_CONFIG="${HOME}/.config/starship.toml"
+export STARSHIP_CONFIG
+eval "$(starship init bash)"
