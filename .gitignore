@@ -35,3 +35,8 @@ Session.vim
 .rainbow_oauth
 .nginx/conf.d/*
 
+.git/
+.git
+bundle/*/doc/tags
+init.vim
+view
